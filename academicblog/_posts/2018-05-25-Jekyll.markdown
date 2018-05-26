@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Using Jekyll for my India Blog"
+date:   2018-05-25 00:09:50 -0700
+category: academicblog
+---
+
+For my India blog, I wanted to move away from Wordpress and use Jekyll infrastructure so I can host all content on my own website. This was technically challenging because I wanted freedom in designing my pages and at the same time, also have a consistency and the ease of markdown language in writing blog posts. This first post represents the successful integration of the two!
