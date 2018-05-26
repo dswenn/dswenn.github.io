@@ -1,7 +1,5 @@
 ---
 layout: specialpage
-title: landing
+title: DSWEN
 
 ---
-
-crazzy

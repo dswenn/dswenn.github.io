@@ -3,4 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-Alice is cool
+
+This is where my bio goes.
+
+Contact: ds3628@columbia.edu
