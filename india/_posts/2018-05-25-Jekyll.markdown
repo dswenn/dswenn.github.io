@@ -5,4 +5,16 @@ date:   2018-05-25 00:09:50 -0700
 category: india
 ---
 
-For my India blog, I wanted to move away from Wordpress and use Jekyll infrastructure so I can host all content on my own website. This was technically challenging because I wanted freedom in designing my pages and at the same time, also have a consistency and the ease of markdown language in writing blog posts. This first post represents the successful integration of the two!
+For my India blog, I wanted to move away from Wordpress and use Jekyll to host all my content on my own website. This was technically challenging because I had to understand how Jekyll gems and themes work in order to create multiple Jekyll (blogs) on one site and have a custom landing page. I am quite happy with the result.
+
+This first post represents the successful integration of the two.
+
+The resources I used are listed below:
+
+- [Theme](https://github.com/kamikat/jekyll-theme-kagami)
+- [Custom Landing Page](https://stackoverflow.com/questions/46605882/create-custom-home-page-with-jekyll)
+- [Setting up Jekyll and Github](http://jmcglone.com/guides/github-pages/)
+- [Custom Domain Name](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
+- [Multi-Jekyll](https://www.garron.me/en/blog/multi-blog-site-jekyll.html)
+
+Huge thanks to my friend Myron for showing me this and helping me troubleshoot along the way.
