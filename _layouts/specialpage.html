@@ -43,7 +43,7 @@ var image = 'https://dl.dropboxusercontent.com/s/' + images[rand1];
             background-repeat:no-repeat;
             background-position: center; 
         }
-     
+        @media (min-width: 800){
         div.container {
         float: right;
         background: rgba(234, 234, 234, 0.7);
@@ -65,10 +65,11 @@ var image = 'https://dl.dropboxusercontent.com/s/' + images[rand1];
             line-height: 26px;
         }
         div.name { font-size: xx-large;}
+    }
 
         /*To make compatible with all media devices */
 
-         @media (max-width: 800) {
+        @media (max-width: 800) {
         div.name { font-size: large;} 
         div.container {
             float: right;
