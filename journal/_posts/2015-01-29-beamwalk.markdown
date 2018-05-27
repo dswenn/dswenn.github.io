@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Walking the Beam"
+date:   2015-01-29 00:09:50 -0700
+category: journal
+---
+
+Finally got to twiddle with optics and a HeNe laser. This lab is starting to make sense. Right now the challenge is optimizing the wavelength of the laser beam. We have a master laser which outputs 780 nm and another laser which outputs 785 nm. Now these two lasers need to go into the same fiber optic, so we need the same wavelength. Thus we adjust the 785 nm. We do this by sending a 780 nm beam from the master laser into an optical isolator that then goes into the slave laser - the laser that emits the 785 nm. This will then correct the beam coming out, thus ultimately becoming 780 nm. 
+
+The term "Walking the Beam" is essentially calibrating the beam so that it is level. This is done by twisting and turning knobs that control angle, height, and so on. It is the right combination of two mirrors that allows the leveling of a laser beam. 
+
+The major problem is resonance. I am not too sure what this term means, however, I know when "it" is on resonance, conditions become optimal. I know how to adjust and get the laser back on resonance. This is done through adjusting the current and moving the graph around on the oscilloscope. 
+
+As for updates on my classes. I am currently taking Chemistry, Physics, and Mathematical Methods of Physics concurrently. This combination is proving to be quite challenging. Mathematical Methods was supposed to be my fun class, however, now it is turning into the class I spend the most time on. No doubt it is fun when I do understand the concepts after a long time, however, the fast pace of the course does not allow time to marvel at all the cool concepts discovered. Nevertheless, I look forward to this class as I know I will be a better engineer from it. 
+
+The rigor of the past few days has not allowed me to self-reflect. In the upcoming weeks, my goal will be to settle down on a system to tackle all the challenges ahead. Right now, life is quite on the edge - just like a laser beam and its location on the mirror - and I will do my best to re-position myself back in the center. 
