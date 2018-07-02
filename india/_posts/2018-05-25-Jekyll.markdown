@@ -16,5 +16,6 @@ The resources I used are listed below:
 - [Setting up Jekyll and Github](http://jmcglone.com/guides/github-pages/)
 - [Custom Domain Name](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
 - [Multi-Jekyll](https://www.garron.me/en/blog/multi-blog-site-jekyll.html)
+- [Flattening Gems](https://jekyllrb.com/docs/themes/)
 
 Huge thanks to my friend Myron for showing me this and helping me troubleshoot along the way.
