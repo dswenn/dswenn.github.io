@@ -5,7 +5,7 @@ date:   2018-06-09 00:09:50 -0700
 category: india
 ---
 
-![useful image]({{dswenn.github.io}}/assets/haiku.jpg)
+![useful image]({{ site.url }}/assets/haiku.jpg)
 
 There’s always a lull before the engine starts. I placed my camera to my left side, messaged loved ones, friends, and downloaded last minute music before the vibrations intensified. I knew it was soon. I started to feel the force of the acceleration push me against my seat and out the window, I saw the plane angled toward the sky. Then it all stopped: the vibrations, the force, and the anticipation. The sudden change mirrored my inner resistance. In my mind, I was still in California, still in America, spending time with Alice and my parents and friends. I was still lazing around, reading books, and finishing the little tasks that accumulated over the school year. But now, I found myself on a plane throttling towards India. It’s an odd feeling; the feeling of distance between your body and mind.
 
