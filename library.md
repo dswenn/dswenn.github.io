@@ -51,17 +51,26 @@ My goal is to write book reviews on the books I have read, so that I can look ba
 18. I Heard God Laughing by Hafiz
 19. Americanah by Chimamanda Ngozi Adichie
 
+## Materials, Urbanization, and India - Summer 2018
+
+20. Why You Don't Fall Through the Floor by J.E. Gordon
+21. The Affluent Society by Kenneth Galbraith 
+22. Siddhartha by Herman Hesse
+23. In Indian Culture: Why do we... by Swamini Vimalananda
+24. How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood by Peter Moskowitz
+
 ## Uncategorized
 
-19. Nonzero: The Logic of Human Destiny by Robert Wright
-20. 1984 by George Orwell
-21. On Writing Well by William Zinsser
-22. The Creator’s Code by Amy Wilkinson
-23. Bird by Bird by Anne Lamott
-24. Surely You’re Joking, Mr. Feynman! By Richard Feynman
-25. It’s Complicated by Danah Boyd
-26. Globalize Liberation: How to Uproot the System and Build a Better World by David Solnit
+26. Nonzero: The Logic of Human Destiny by Robert Wright
+27. 1984 by George Orwell
+28. On Writing Well by William Zinsser
+29. The Creator’s Code by Amy Wilkinson
+30. Bird by Bird by Anne Lamott
+31. Surely You’re Joking, Mr. Feynman! By Richard Feynman
+32. It’s Complicated by Danah Boyd
+33. Globalize Liberation: How to Uproot the System and Build a Better World by David Solnit
 
 ## Currently Reading
 
-    Why You Don't Fall Through the Floor by J.E. Gordon
+25. The Periodic Table by Primo Levi
+    
