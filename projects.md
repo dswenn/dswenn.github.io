@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: portfolioview
 title: Current Projects
-permalink: /projectss
+permalink: /portfolio
 ---
 
 I am currently in the process of updating this page. Please continue to revisit this page for progress. Thank you for stopping by!
