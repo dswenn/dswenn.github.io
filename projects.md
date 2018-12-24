@@ -4,4 +4,16 @@ title: Current Projects
 permalink: /projects
 ---
 
-I hope to update this page with projects I'm working on. I want to document my work because it helps me hold myself accountable.
+I am currently in the process of updating this page. Please continue to revisit this page for progress. Thank you for stopping by!
+
+Raksha: A Safety Bangle
+
+Plastic Water Pipeline in Morocco
+
+Research
+
+Robot Control using Flexible EEG Sensors
+
+Optomechanical Transducer
+
+Flexible Thermoelectrics
