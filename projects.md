@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current Projects
-permalink: /projects
+permalink: /projectss
 ---
 
 I am currently in the process of updating this page. Please continue to revisit this page for progress. Thank you for stopping by!
