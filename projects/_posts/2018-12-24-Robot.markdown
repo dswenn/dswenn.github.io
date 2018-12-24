@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Flexible Electronics: Robot Control using Brain Waves"
+date:   2018-12-24 00:09:50 -0700
+category: projects
+---
+
+In progress

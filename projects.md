@@ -1,5 +1,5 @@
 ---
 layout: portfolioview
 title: Projects
-permalink: /portfolioviews
+permalink: /portfolio
 ---
