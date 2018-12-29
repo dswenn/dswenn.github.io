@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang='{{ page.lang | default: site.lang | default: 'en' }}'>
+  {% include head.html %}
+  <body>
+    <div class='layout'>
+      {% include header.html %}
+      <!-- Essentially, all I have to change is this aspect. I need to 'stylize' this class called main2 in head.html
+      Head refers to mains and mains calls all the files in the scss folder. i need to edit portfolio particularly. --> 
+      <main class='main'>
+        <div class="container">
+          {{ content }}
+        </div>
+      </main>
+      {% include footer.html %}
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

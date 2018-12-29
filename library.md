@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Library
-permalink: /library
+permalink: /library/
 ---
 <p><em>Introduction</em> July 13th, 2015<br/>
             <br/>

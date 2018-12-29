@@ -1,15 +1,11 @@
-<header class="post-header">
-  <a class="site-title" href="{{ "/" | relative_url }}">Home</a>
-  <br>
-  <br>
-  <h1 class="post-title" itemprop="name headline">{{ page.title | escape | replace: "​", "<wbr>" }}</h1>
+<header class='header'>
+  <nav class='header__nav'>
+    <a class='header__nav__item header__nav__item--title' href='{{ '/' | relative_url }}'>{{ site.title | escape }}</a>
+    {% for page in site.pages %}
+      {% if page.title %}
+        <a class='header__nav__item' href='{{ page.url | relative_url }}'>{{ page.title | escape }}</a>
+        <p style="text-indent: 0.5em;">
+      {% endif %}
+    {% endfor %}
+  </nav>
 </header>
-
-{% if page.cover_url %}
-<div class="post-cover" aria-label="Cover">
-  <div class="post-cover-wrapper">
-    <img src="{{ page.cover_url }}" alt="" />
-  </div>
-  <div class="cover-meta">{{ page.cover_meta | markdownify }}</div>
-</div>
-{% endif %}
