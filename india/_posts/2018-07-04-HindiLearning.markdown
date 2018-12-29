@@ -5,7 +5,7 @@ date:   2018-07-04 00:09:50 -0700
 category: india
 ---
 
-![rickshaw]({{ site.url }}/assets/img/cons.JPG)
+![alphabet]({{ site.url }}/assets/img/alphabet.JPG)
 
 “Ka, Ka, Ka, Kha, kha, kha.” 
 I adjusted my seat and straightened my back; I had been here for nearly two hours now, repeating the same sounds again and again. 
