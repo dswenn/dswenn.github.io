@@ -18,11 +18,11 @@ I fabricated multiple flexible organic transistor circuits to amplify brain wave
 
 The novelty of this project was that integrating these flexible organic circuits with a wireless device has never been done. I worked closely with my mentor Dr. Uemura to successfully integrate the flexible pseudo CMOS circuit with the EEG device. Each step was planned using applied physics. Our circuit is multilayered and fabricated in the clean room.
 
-![multilayered]({{ site.url }}/assets/img/robot/multilayered.JPG)
+![multi]({{ site.url }}/assets/img/robot/multi.JPG)
 
 Our fabricated circuit showed strong amplification and attained a voltage gain max of 1400. Our characteristic graphs had low hysteresis, high gain, and a sharp inverter curve; characteristics ideal for a transistor.
 
-![characteristics]({{ site.url }}/assets/img/robot/characteristics.JPG)
+![char]({{ site.url }}/assets/img/robot/char.JPG)
 
 The device was tested by sending a signal using a frequency generator and observed via seeing an amplified signal on our bluetooth module, demonstrating integration was possible. 
 
