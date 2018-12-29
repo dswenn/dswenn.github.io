@@ -12,7 +12,8 @@ github_username:  dswenn
 
 # google_analytics:
 # disqus_shortname:
-
+# baseurl: "" (commented out)
+url: "https://dswenn.github.io"
 markdown: kramdown
 
 plugins:
