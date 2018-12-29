@@ -3,7 +3,7 @@ layout: post
 title:  "Flexible Electronics"
 date:   2018-12-29 00:09:50 -0700
 category: projects
-preview: /assets/img/robot/flexibletransistor.jpg
+preview: /assets/img/robot/flexibletransistor.JPG
 ---
 
 Flexible, organic electronics will enable and advance an Internet of Things future by allowing flexible, soft sensors to be omnipresent everywhere. My work involves creating a flexible organic device that can read brain waves and control a robot.
@@ -12,7 +12,7 @@ Flexible, organic electronics will enable and advance an Internet of Things futu
 
 As a sophomore in college, I participated in the Nakatani RIES Fellowship (which can be read here), was trained in Japanese in Tokyo, and entered Dr. Tsuyoshi Sekitani's Advanced Electronic Devices lab at Osaka University. 
 
-![flexibletransistor]({{ site.url }}/assets/img/robot/flexibletransistor.jpg)
+![flexibletransistor]({{ site.url }}/assets/img/robot/flexibletransistor.JPG)
 
 I fabricated multiple flexible organic transistor circuits to amplify brain waves from micro-volt to milli-volt to control a robot.
 
@@ -26,7 +26,7 @@ Our fabricated circuit showed strong amplification and attained a voltage gain m
 
 The device was tested by sending a signal using a frequency generator and observed via seeing an amplified signal on our bluetooth module, demonstrating integration was possible. 
 
-![testing]({{ site.url }}/assets/img/robot/testing.jpg)
+![testing]({{ site.url }}/assets/img/robot/testing.JPG)
 
 Our project paves the path toward a new generation of IoT sensors. Amplifying signals as small as microvolt to millivolt allows us to detect most electrical signals that occur in our world. A few applications include immediate care for Alzheimer’s & heart irregularities as well as optimization of sleep for athletes. The latter is of special interest to Japan as countries are gearing their athletes for the Tokyo 2020 Summer Olympics.
 
