@@ -3,7 +3,7 @@ layout: post
 title:  "Flexible Electronics"
 date:   2018-12-29 00:09:50 -0700
 category: projects
-preview: /assets/img/robot/flexibletransistor.JPG
+preview: /assets/img/robot/flexibletransistor.jpg
 ---
 
 Flexible, organic electronics will enable and advance an Internet of Things future by allowing flexible, soft sensors to be omnipresent everywhere. My work involves creating a flexible organic device that can read brain waves and control a robot.
@@ -12,21 +12,21 @@ Flexible, organic electronics will enable and advance an Internet of Things futu
 
 As a sophomore in college, I participated in the Nakatani RIES Fellowship (which can be read here), was trained in Japanese in Tokyo, and entered Dr. Tsuyoshi Sekitani's Advanced Electronic Devices lab at Osaka University. 
 
-![flexibletransistor]({{ site.url }}/assets/img/robot/flexibletransistor.JPG)
+![flexibletransistor]({{ site.url }}/assets/img/robot/flexibletransistor.jpg)
 
 I fabricated multiple flexible organic transistor circuits to amplify brain waves from micro-volt to milli-volt to control a robot.
 
 The novelty of this project was that integrating these flexible organic circuits with a wireless device has never been done. I worked closely with my mentor Dr. Uemura to successfully integrate the flexible pseudo CMOS circuit with the EEG device. Each step was planned using applied physics. Our circuit is multilayered and fabricated in the clean room.
 
-![multi]({{ site.url }}/assets/img/robot/multi.JPG)
+![multi]({{ site.url }}/assets/img/robot/multi.jpg)
 
 Our fabricated circuit showed strong amplification and attained a voltage gain max of 1400. Our characteristic graphs had low hysteresis, high gain, and a sharp inverter curve; characteristics ideal for a transistor.
 
-![char]({{ site.url }}/assets/img/robot/char.JPG)
+![char]({{ site.url }}/assets/img/robot/char.jpg)
 
 The device was tested by sending a signal using a frequency generator and observed via seeing an amplified signal on our bluetooth module, demonstrating integration was possible. 
 
-![testing]({{ site.url }}/assets/img/robot/testing.JPG)
+![testing]({{ site.url }}/assets/img/robot/testing.jpg)
 
 Our project paves the path toward a new generation of IoT sensors. Amplifying signals as small as microvolt to millivolt allows us to detect most electrical signals that occur in our world. A few applications include immediate care for Alzheimer’s & heart irregularities as well as optimization of sleep for athletes. The latter is of special interest to Japan as countries are gearing their athletes for the Tokyo 2020 Summer Olympics.
 
