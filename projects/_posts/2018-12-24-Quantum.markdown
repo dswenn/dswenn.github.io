@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Quantum Integrated Devices"
-date:   2018-12-24 00:09:50 -0700
+date:   2018-12-28 00:09:50 -0700
 category: projects
-preview: /assets/img/quantum/photonic_nanobeam.png
+preview: /assets/img/quantum/beams.png
 ---
 
 Research @ IST - Austria | 2017
@@ -11,6 +11,8 @@ Research @ IST - Austria | 2017
 <embed src="/assets/files/Final_Report.pdf" width="300px" height="400px" />
 
 Light exists all around us. When we look at ourselves in the mirror, what we are actually seeing is light reflecting off of us onto the mirror and then into our eyes. Turn off the lights and we see nothing. Physicists have been exploiting this property of mirrors for centuries, in applications ranging from the detection of gravitational waves to simple laser systems. Today, I want to focus on the trapping and containing of light. Classically, we see this in lasers, where we place two mirrors a distance apart and bounce light back and forth between the mirrors, thus forming a cavity. Adding a lasing medium such as gas into this cavity, allows the photon to create more photons through a process called stimulated emission. Releasing this build-up of photons by slightly tilting one mirror, thereby making it leaky, creates a laser.
+
+![multi]({{ site.url }}/assets/img/robot/multi.jpg)
 
 The applications for nanobeams lie in quantum communication networks. Current communication networks process information using microwave light (gigahertz frequency) in their microprocessors and distribute information over long distances through optical fibers using terahertz frequencies (THz frequency). Recent advancements has also allowed for superconducting qubits to operate at microwave frequencies. The parallel would be to distribute information also through optical fibers using terahertz frequencies, allowing for the creation of a quantum network. However, no such transducer currently exists. If we were to use microwave frequencies to distribute information with low loss, superconducting transmission lines would be required. Thus, optomechanical nanobeams offer a promising solution to convert between microwave and optical frequencies.
 

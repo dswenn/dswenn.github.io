@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Thermoelectric Fabrics"
-date:   2018-12-24 00:09:50 -0700
+date:   2018-12-27 00:09:50 -0700
 category: projects
-preview: /assets/img/thermoelectrics/demo.png
+preview: /assets/img/thermoelectrics/front.png
 ---
 
 Thermoelectrics are materials that generate electricity using a heat gradient. 
