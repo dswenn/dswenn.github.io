@@ -35,12 +35,13 @@ body {
 }
 
 .header__nav__item {
-  display: in-block;
+  display: flex;
   text-decoration: none;
   font-size: 1rem;
   margin-right: 17px;
   font-family: $serif-fonts;
   color:  $green;
+
 }
 
 .header__nav__item--title {
