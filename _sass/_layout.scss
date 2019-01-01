@@ -404,7 +404,7 @@ body {
   padding: 17px 12px 0px 0px;
   text-decoration: none;
   font-family: $serif-fonts;
-  display: flex;
+  display: inline-block;
   text-align: center;
   font-size: 0.8rem;
 }
@@ -416,5 +416,5 @@ body {
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-  display: flex;
+  display: inline-block;
 }
