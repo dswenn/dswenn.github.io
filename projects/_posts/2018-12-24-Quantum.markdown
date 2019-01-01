@@ -8,8 +8,6 @@ preview: /assets/img/quantum/photonic_nanobeam.png
 
 Research @ IST - Austria | 2017
 
-
-
 <embed src="/assets/files/Final_Report.pdf" width="300px" height="400px" />
 
 Light exists all around us. When we look at ourselves in the mirror, what we are actually seeing is light reflecting off of us onto the mirror and then into our eyes. Turn off the lights and we see nothing. Physicists have been exploiting this property of mirrors for centuries, in applications ranging from the detection of gravitational waves to simple laser systems. Today, I want to focus on the trapping and containing of light. Classically, we see this in lasers, where we place two mirrors a distance apart and bounce light back and forth between the mirrors, thus forming a cavity. Adding a lasing medium such as gas into this cavity, allows the photon to create more photons through a process called stimulated emission. Releasing this build-up of photons by slightly tilting one mirror, thereby making it leaky, creates a laser.
