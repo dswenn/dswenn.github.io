@@ -3,10 +3,8 @@
     <a class='header__nav__item header__nav__item--title' href='{{ '/' | relative_url }}'>{{ site.title | escape }}</a>
 		<a class='header__nav__item' href="/about">About</a>
 		<div class="dropdown">
-		    <button class="dropbtn">Journals
-		      <i class="fa fa-caret-down"></i>
-		    </button>
-		    <div class="dropdown-content">
+		    <button onclick="myFunction()" class="dropbtn">Journals</button>
+		    <div id="myDropdown" class="dropdown-content">
 		      <a href="/journal">Academic</a>
 		      <a href="/india">India</a>
 		      <a href="http://nakatani-ries.rice.edu/student-profiles/2016-2/2016-u-s-fellows/2016-donald-swen/">Japan</a>
