@@ -3,16 +3,14 @@ layout: post
 title:  "Flexible Electronics"
 date:   2018-12-29 00:09:50 -0700
 category: projects
-preview: /assets/img/robot/flexibletransistor.JPG
+preview: /assets/img/robot/front.png
 ---
 
 Flexible, organic electronics will enable and advance an Internet of Things future by allowing flexible, soft sensors to be omnipresent everywhere. My work involves creating a flexible organic device that can read brain waves and control a robot.
 
-<iframe width="672" height="378" src="https://www.youtube.com/embed/h5bA1AZqdxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/308928243" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 As a sophomore in college, I participated in the Nakatani RIES Fellowship (which can be read here), was trained in Japanese in Tokyo, and entered Dr. Tsuyoshi Sekitani's Advanced Electronic Devices lab at Osaka University. 
-
-![flexibletransistor]({{ site.url }}/assets/img/robot/flexibletransistor.JPG)
 
 I fabricated multiple flexible organic transistor circuits to amplify brain waves from micro-volt to milli-volt to control a robot.
 
