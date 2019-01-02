@@ -26,7 +26,7 @@ Using the laser from a DVD drive/burner, I etched a pattern of graphene on top o
 ![SEM1]({{ site.url }}/assets/img/thermoelectrics/1.png)
 ![SEM2]({{ site.url }}/assets/img/thermoelectrics/2.png)
 
-The experience taught me to synthesize crystals using furnaces, image using the SEM, and how to carry out a research project with only little guidance. The presentation poster for this project can be downloaded [here]("dswenn.com/assets/files/final_poster.pdf").
+The experience taught me to synthesize crystals using furnaces, image using the SEM, and how to carry out a research project with only little guidance. The presentation poster for this project can be downloaded [here](https://www.dswenn.com/assets/files/final_poster.pdf).
 
 <div class="gallery" data-columns="2">
     <img src="/assets/img/thermoelectrics/11.jpg">

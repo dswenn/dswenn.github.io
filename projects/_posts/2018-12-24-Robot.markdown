@@ -28,7 +28,7 @@ The device was tested by sending a signal using a frequency generator and observ
 
 Our project paves the path toward a new generation of IoT sensors. Amplifying signals as small as microvolt to millivolt allows us to detect most electrical signals that occur in our world. A few applications include immediate care for Alzheimer’s & heart irregularities as well as optimization of sleep for athletes. The latter is of special interest to Japan as countries are gearing their athletes for the Tokyo 2020 Summer Olympics.
 
-Future work involves a fully integrated device: one flexible sheet consisting of feedback resistor, input capacitor, amplifier circuit, and soft silver electrode.
+Future work involves a fully integrated device: one flexible sheet consisting of feedback resistor, input capacitor, amplifier circuit, and soft silver electrode. The presentation poster for this project can be downloaded [here](https://cpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/8/5781/files/2016/08/2016_Swen-Donald_Final-Abstract_Poster-16p81mu.pdf).
 
 ## References:
 Bao, Z., Locklin, J., 2007. Organic Field Effect Transistors. CRC Press. 
@@ -36,3 +36,4 @@ Brütting, W., Adachi, C., 2012. Physics of Organic Semiconductors. WileyVCH.
 Klauk, H., Chemical Society Reviews 39.7 (2010): 2643-2666. 
 Klauk, H., 2012. Organic Electronics II. WileyVCH. 
 Sekitani, T., and Someya, T., Materials Today 14.9 (2011): 398-407.
+
