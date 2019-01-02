@@ -31,8 +31,8 @@ The experience taught me to synthesize crystals using furnaces, image using the 
 <div class="gallery" data-columns="2">
     <img src="/assets/img/thermoelectrics/11.jpg">
     <img src="/assets/img/thermoelectrics/22.jpg">
-    <img src="/assets/img/thermoelectrics/33.jpg">
-    <img src="/assets/img/thermoelectrics/44.jpg">
+    <img src="/assets/img/thermoelectrics/33.JPG">
+    <img src="/assets/img/thermoelectrics/44.JPG">
     <img src="/assets/img/thermoelectrics/55.png">
     <img src="/assets/img/thermoelectrics/66.png">
 </div>
