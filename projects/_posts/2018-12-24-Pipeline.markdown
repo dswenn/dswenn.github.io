@@ -6,5 +6,37 @@ category: projects
 preview: /assets/img/piping/pipeline.png
 ---
 
-Please check back January 1st, 2019. I am currently rehauling this website!
+## Project Summary
 
+Our goal is to design and implement an 8 km pipeline in a terrain with a high rock sub-grade, to bring water to two villages in a rural region of Ait Bayoud, Morocco.
+
+## Pipeline Specs 
+Total Length: 7724 m
+
+Water Capacity: 40,000 L / day
+
+People Served: 200
+
+Elevation Change from Well Site to Chateau: 45 m
+
+Elevation Change from Chateau to Izgouren: 143 m
+
+Elevation Profile:
+
+![multi]({{ site.url }}/assets/img/piping/2.png)
+
+## Location
+
+Our project is located in the Ait Bayoud region of Morocco. There are two dwars (villages) there in need of clean water.
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="700" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
+
+## Affiliation
+
+This project is part of the Engineers without Borders chapter of Columbia University. Our team is around 30 individuals. My contribution is in leading the technical aspect of this project.
+
+## Current Progress
+
+In April 2018, we attended the HDPE Municipal Conference in Tulsa, Oklahoma. We got in touch with industry leaders, onboarded mentors, and learned how to properly fuse pipes using electrofusion and butt fusion.
+
+Since April, we've designed the first leg of the pipeline, narrowed down our materials, and secured U.S. manufacturers willing to donate 8 km of PE4710. We are currently looking into extruding in metric units, shipping of pipe overseas, and finishing the design of the second part of the pipeline which is entirely gravity fed. Implementation is slated for July 2019.
