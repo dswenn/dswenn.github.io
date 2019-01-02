@@ -8,11 +8,19 @@ preview: /assets/img/quantum/beams.png
 
 Research @ IST - Austria | 2017
 
-<embed src="/assets/files/Final_Report.pdf" width="300px" height="400px" />
+<embed src="/assets/img/quantum/beams2.png" width="650px" height="400px" />
 
-Light exists all around us. When we look at ourselves in the mirror, what we are actually seeing is light reflecting off of us onto the mirror and then into our eyes. Turn off the lights and we see nothing. Physicists have been exploiting this property of mirrors for centuries, in applications ranging from the detection of gravitational waves to simple laser systems. Today, I want to focus on the trapping and containing of light. Classically, we see this in lasers, where we place two mirrors a distance apart and bounce light back and forth between the mirrors, thus forming a cavity. Adding a lasing medium such as gas into this cavity, allows the photon to create more photons through a process called stimulated emission. Releasing this build-up of photons by slightly tilting one mirror, thereby making it leaky, creates a laser.
+The applications for nanobeams lie in quantum communication networks. Current communication networks process information using microwave light (gigahertz frequency) in their microprocessors and distribute information over long distances through optical fibers using terahertz (THz) frequencies. Recent advancements has also allowed for superconducting qubits to operate at microwave frequencies. The parallel would be to distribute information also through optical fibers using terahertz frequencies, allowing for the creation of a quantum network. However, no such transducer currently exists. Using microwave frequencies to distribute information would be impractical for quantum devices and would require low loss, superconducting transmission lines. Optomechanical nanobeams offers a promising solution to convert between microwave and optical frequencies to enable quantum networks.
 
-The applications for nanobeams lie in quantum communication networks. Current communication networks process information using microwave light (gigahertz frequency) in their microprocessors and distribute information over long distances through optical fibers using terahertz frequencies (THz frequency). Recent advancements has also allowed for superconducting qubits to operate at microwave frequencies. The parallel would be to distribute information also through optical fibers using terahertz frequencies, allowing for the creation of a quantum network. However, no such transducer currently exists. If we were to use microwave frequencies to distribute information with low loss, superconducting transmission lines would be required. Thus, optomechanical nanobeams offer a promising solution to convert between microwave and optical frequencies.
+<div class="gallery" data-columns="3">
+    <img src="/assets/img/quantum/1.png">
+    <img src="/assets/img/quantum/2.png">
+    <img src="/assets/img/quantum/3.png">
+    <img src="/assets/img/quantum/6.png">
+    <img src="/assets/img/quantum/4.png">
+    <img src="/assets/img/quantum/5.png">
+</div>
 
-<img src="/assets/img/quantum/photonic_nanobeam.png" width="200" height="200" />
-<img src="/assets/img/quantum/photonic_nanobeam.png" width="200" height="200" />
+In the summer of 2017, I did a 12 week research internship in the [Fink group](https://quantumids.com/) at the Institute of Science & Technology - Austria. Using MATLAB and COMSOL physics simulation software, I contributed to an existing library of scripts and wrote an optimization script incorporating crystal symmetry and custom meshing that found a nanobeam with high quality and optomechanical coupling factors. The final nanobeam has 13 tapered cells with a slotted center.
+
+<embed src="/assets/files/Final_Report.pdf" width="650px" height="420px" />
