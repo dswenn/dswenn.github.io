@@ -69,6 +69,7 @@ My goal is to write book reviews on the books I have read, so that I can look ba
 31. Surely You’re Joking, Mr. Feynman! By Richard Feynman
 32. It’s Complicated by Danah Boyd
 33. Globalize Liberation: How to Uproot the System and Build a Better World by David Solnit
+34. Catching Homelessness by Josephine Ensign
 
 ## Currently Reading
 
