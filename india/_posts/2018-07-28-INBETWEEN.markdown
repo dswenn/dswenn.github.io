@@ -5,7 +5,7 @@ date:   2018-07-19 00:09:50 -0700
 category: india
 ---
 
-![geeta]({{ site.url }}/assets/img/cloud.JPG)
+![geeta]({{ site.url }}/assets/img/cloud.jpg)
 
 Where do I belong?			
 
