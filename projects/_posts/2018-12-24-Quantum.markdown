@@ -22,5 +22,3 @@ The applications for nanobeams lie in quantum communication networks. Current co
 </div>
 
 In the summer of 2017, I did a 12 week research internship in the [Fink group](https://quantumids.com/) at the Institute of Science & Technology - Austria. Using MATLAB and COMSOL physics simulation software, I contributed to an existing library of scripts and wrote an optimization script incorporating crystal symmetry and custom meshing that found a nanobeam with high quality and optomechanical coupling factors. The final nanobeam has 13 tapered cells with a slotted center.
-
-<embed src="/assets/files/Final_Report.pdf" width="650px" height="420px" />
