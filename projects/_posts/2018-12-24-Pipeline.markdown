@@ -18,7 +18,7 @@ Our project is located in the Ait Bayoud region of Morocco. There are two dwars 
 
 ## Technical Details
 
-<embed src="/assets/files/drawingpackage.pdf" width="600px" height="820px" />
+<embed src="/assets/files/drawingpackage.pdf" width="600px" height="550px" />
 
 
 ## Affiliation
