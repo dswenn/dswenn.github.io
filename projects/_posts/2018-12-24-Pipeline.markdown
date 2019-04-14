@@ -8,25 +8,22 @@ preview: /assets/img/piping/pipeline.png
 
 ## Project Summary
 
-Our goal is to design and implement an 6 km pipeline in a terrain with a high rock sub-grade, to bring water to two villages in a rural region of Ait Bayoud, Morocco. These two communities sustain themselves through subsistence farming, making water access essential to their health and livelihoods. The population positively impacted will be 370.
+Our goal is to design and implement an 6 km pipeline in a terrain with a high rock sub-grade, to bring water to the two most remote and poorest villages in the Ait Bayoud region of Morocco. These two communities sustain themselves through subsistence farming, making water access essential to their health and livelihoods. The population positively impacted will be 370.
 
 ## Location
 
-Our project is located in the Ait Bayoud region of Morocco. There are two dwars (villages) there in need of clean water.
-
-<div class="mapouter"><div class="gmap_canvas"><iframe width="700" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
 
 ## Technical Details
 
-<embed src="/assets/files/drawingpackage.pdf" width="600px" height="550px" />
-
-
-## Affiliation
-
-This project is part of the Engineers without Borders chapter of Columbia University. Our team is around 20 individuals. My contribution is in leading the technical aspect of this project.
+<embed src="/assets/files/drawingpackage.pdf" width="600px" height="500px" />
 
 ## Current Progress
 
 In April 2018, we attended the HDPE Municipal Conference in Tulsa, Oklahoma. We got in touch with industry leaders, onboarded mentors, and learned how to properly fuse pipes using electrofusion and butt fusion.
 
 Since April, we've wrote an extensive alternative analysis, designed the entire hydraulics of the hybird pumped and gravity fed pipeline, and secured 6 km PE4710 from US manufacturers. We are currently working on securing the last portions of funding, drafting implementation plans, and talking with the community through our past Peace Corps volunteer and a local NGO called the High Atlas Foundation. Implementation is slated for late July 2019.
+
+## Affiliation
+
+This project is carried out under the Engineers without Borders chapter of Columbia University. Our team is around 20 individuals. My contribution is in leading the technical aspect of this project.

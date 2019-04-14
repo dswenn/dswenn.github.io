@@ -6,7 +6,7 @@ category: projects
 preview: /assets/img/quantum/beams.png
 ---
 
-Research @ IST - Austria | 2017
+Research @ Institute of Science & Technology - Austria | 2017
 
 <embed src="/assets/img/quantum/beams2.png" width="650px" height="400px" />
 
@@ -21,4 +21,6 @@ The applications for nanobeams lie in quantum communication networks. Current co
     <img src="/assets/img/quantum/5.png">
 </div>
 
-In the summer of 2017, I did a 12 week research internship in the [Fink group](https://quantumids.com/) at the Institute of Science & Technology - Austria. Using MATLAB and COMSOL physics simulation software, I contributed to an existing library of scripts and wrote an optimization script incorporating crystal symmetry and custom meshing that found a nanobeam with high quality and optomechanical coupling factors. The final nanobeam has 13 tapered cells with a slotted center.
+With MATLAB and COMSOL physics simulation software, the existing library of scripts was expanded and an optimization script was written incorporating crystal symmetry and custom meshing that found a nanobeam with high quality and optomechanical coupling factors. The final nanobeam was 13 tapered cells with a slotted center.
+
+This three month project was conducted under the guidance of Dr. Matthias Wulf, PhD candidate Georg Arnold, and Dr. Johannes Fink in the [Fink group](https://quantumids.com/) at the Institute of Science & Technology - Austria. Funding was made possible through the ISTernship program at IST.
