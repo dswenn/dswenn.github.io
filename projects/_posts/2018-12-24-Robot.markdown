@@ -28,7 +28,7 @@ This project paves the path toward a new generation of IoT sensors. Amplifying s
 
 Future work involves a fully integrated device: one flexible sheet consisting of feedback resistor, input capacitor, amplifier circuit, and soft silver electrode. The presentation poster for this project can be downloaded [here](https://cpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/8/5781/files/2016/08/2016_Swen-Donald_Final-Abstract_Poster-16p81mu.pdf).
 
-This project was conducted under close mentorship by Dr. Takafumi Uemura in Dr. Tsuyoshi Sekitani's Advanced Electronic Devices Lab at the Institute of Scientific and Industrial Research at Osaka University. Funding was made possible through the Nakatani RIES Fellowship implemented by Rice University.
+This project was conducted under the close mentorship of Dr. Takafumi Uemura in Dr. Tsuyoshi Sekitani's Advanced Electronic Devices Lab at the Institute of Scientific and Industrial Research at Osaka University. Funding was made possible through the Nakatani RIES Fellowship implemented by Rice University.
 
 ## References:
 Bao, Z., Locklin, J., 2007. Organic Field Effect Transistors. CRC Press. 
