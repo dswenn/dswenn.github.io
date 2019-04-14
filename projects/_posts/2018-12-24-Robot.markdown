@@ -6,6 +6,8 @@ category: projects
 preview: /assets/img/robot/front.png
 ---
 
+Research @ Osaka University | 2016
+
 Flexible, organic electronics will enable and advance an Internet of Things future by allowing flexible, soft sensors to be omnipresent everywhere. The goal of this project was to create a flexible organic device that can read brain waves and control a robot. Demonstration of this would display the potential of an IoT future with flexible sensors.
 
 <iframe src="https://player.vimeo.com/video/308928243" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 

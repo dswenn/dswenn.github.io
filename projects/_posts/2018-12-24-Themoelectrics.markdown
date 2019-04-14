@@ -6,6 +6,8 @@ category: projects
 preview: /assets/img/thermoelectrics/front.png
 ---
 
+Research @ Louisiana State University | 2015
+
 Thermoelectrics are materials that generate electricity using a heat gradient.
 
 Our novel idea was to synthesize thermoelectric nanoparticles and incorporate them into a polymer and a graphene matrix. The former has applications in electricity generating clothing and the latter has the potential to create a new class of high performing composite thermoelectric material.
