@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sustainable Cement"
+title:  "A Sustainable Cement: Geopolymer"
 date:   2019-05-08 00:09:50 -0700
 category: projects
 preview: /assets/img/geopolymer/1.JPG
