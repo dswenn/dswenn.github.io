@@ -8,7 +8,7 @@ preview: /assets/img/geopolymer/1_cover.JPG
 
 Research @ Columbia University | 2019
 
-As an independent project carried out under the guidance of Professor Shiho Kawashima and Dr. Siwei Ma with Australian colloborator, Dr. Arnaud Castel of UNSW, I did rheology research on a sustainable cement called geopolymer.
+As an independent project carried out under the guidance of Professor Shiho Kawashima and Dr. Siwei Ma with Australian colloborator, Dr. Arnaud Castel of UNSW, I did rheology research on a sustainable cement called geopolymer. Sustainable cements are especially pertinent because 7% of global CO2 emissions come from ordinary portland cement production. Quite literally, 1 ton of cement releases 1 ton of CO2.
 
 As demos for our senior design expo, I casted busts of Professor Kawashima and Dr. Ma. They double as gifts to them as gratitude for their valuable guidance and support.
 
