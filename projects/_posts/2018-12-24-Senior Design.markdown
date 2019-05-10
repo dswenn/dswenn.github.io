@@ -27,10 +27,12 @@ Molds were 3D printed using PLA using Ultimaker Extended 2+.
 Prior to casting, molds were machined using a bandsaw to help with demolding. Removed parts were recreated using modeling clay. WD-40 was sprayed for removal ease. Molds were clamped.
 ![SEM2]({{ site.url }}/assets/img/geopolymer/2.JPG)
 
-A 25% fly ash / 75% slag geopolymer cement was mixed in ASTM mixer, and casted immediately. 
+A 25% fly ash / 75% slag geopolymer cement was mixed in ASTM mixer, and casted immediately. Cement was let rest in molds for one day.
 ![SEM2]({{ site.url }}/assets/img/geopolymer/4.JPG)
 
-Due to the rigidity of PLA, a heat gun was used at one point and then further machined and chiseled. Epoxy and modeling clay was used for segments that did not cure properly.
+Due to the rigidity of PLA, a heat gun was used at one point and then further machined and chiseled to remove the molds. Epoxy and modeling clay was used for segments that did not cure properly.
 ![SEM3]({{ site.url }}/assets/img/geopolymer/1.JPG)
+
+Busts were then water cured for 7 days for strength to develop and to prevent cracking.
 
 The presentation poster for this project can be downloaded [here](https://www.dswenn.com/assets/files/geopolymer.pdf).
