@@ -3,7 +3,7 @@ layout: post
 title:  "A Sustainable Cement: Geopolymer"
 date:   2019-05-08 00:09:50 -0700
 category: projects
-preview: /assets/img/geopolymer/1.JPG
+preview: /assets/img/geopolymer/1_cover.JPG
 ---
 
 Research @ Columbia University | 2019
