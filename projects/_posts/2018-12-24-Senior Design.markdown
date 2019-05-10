@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sustainable Cement"
-date:   2018-12-27 00:09:50 -0700
+date:   2018-12-30 00:09:50 -0700
 category: projects
 preview: /assets/img/geopolymer/1.jpg
 ---
@@ -12,13 +12,13 @@ As an independent project carried out under the guidance of Professor Shiho Kawa
 
 As demos for our senior design expo, I casted busts of Professor Kawashima and Dr. Ma. They double as gifts to them as gratitude for their valuable guidance and support.
 
-Heads were 3D scanned using Heges. 
+Heads were 3D scanned using Heges and imported in Autodesk Meshmixer for cleanup and editing.
 ![SEM1]({{ site.url }}/assets/img/geopolymer/mesh.jpg)
 
-Scanned .stl files were cleaned and edited using Autodesk Meshmixer and imported into Fusion360.
+Cleaned model was imported into Fusion360.
 ![SEM1]({{ site.url }}/assets/img/geopolymer/shiho_import.png)
 
-A negative was made using Fusion360.
+A negative was made in Fusion360.
 ![SEM1]({{ site.url }}/assets/img/geopolymer/mold.png)
 
 Molds were 3D printed using PLA using Ultimaker Extended 2+.
