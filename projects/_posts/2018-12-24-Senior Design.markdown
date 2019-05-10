@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sustainable Cement"
-date:   2018-12-30 00:09:50 -0700
+date:   2019-05-08 00:09:50 -0700
 category: projects
-preview: /assets/img/geopolymer/1.jpg
+preview: /assets/img/geopolymer/1.JPG
 ---
 
 Research @ Columbia University | 2019
@@ -22,15 +22,15 @@ A negative was made in Fusion360.
 ![SEM1]({{ site.url }}/assets/img/geopolymer/mold.png)
 
 Molds were 3D printed using PLA using Ultimaker Extended 2+.
-![SEM2]({{ site.url }}/assets/img/geopolymer/3.jpg)
+![SEM2]({{ site.url }}/assets/img/geopolymer/3.JPG)
 
 Prior to casting, molds were machined using a bandsaw to help with demolding. Removed parts were recreated using modeling clay. WD-40 was sprayed for removal ease. Molds were clamped.
-![SEM2]({{ site.url }}/assets/img/geopolymer/2.jpg)
+![SEM2]({{ site.url }}/assets/img/geopolymer/2.JPG)
 
 A 25% fly ash / 75% slag geopolymer cement was mixed in ASTM mixer, and casted immediately. 
-![SEM2]({{ site.url }}/assets/img/geopolymer/4.jpg)
+![SEM2]({{ site.url }}/assets/img/geopolymer/4.JPG)
 
 Due to the rigidity of PLA, a heat gun was used at one point and then further machined and chiseled. Epoxy and modeling clay was used for segments that did not cure properly.
-![SEM3]({{ site.url }}/assets/img/geopolymer/1.jpg)
+![SEM3]({{ site.url }}/assets/img/geopolymer/1.JPG)
 
 The presentation poster for this project can be downloaded [here](https://www.dswenn.com/assets/files/geopolymer.pdf).

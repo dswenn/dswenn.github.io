@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plastic Pipeline in Morocco"
-date:   2018-12-01 00:09:50 -0700
+date:   2019-04-01 00:09:50 -0700
 category: projects
 preview: /assets/img/piping/pipeline.png
 ---
@@ -22,7 +22,7 @@ Our goal is to design and implement an 6 km pipeline in a terrain with a high ro
 
 In April 2018, we attended the HDPE Municipal Conference in Tulsa, Oklahoma. We got in touch with industry leaders, onboarded mentors, and learned how to properly fuse pipes using electrofusion and butt fusion.
 
-Since April, we've wrote an extensive alternative analysis, designed the entire hydraulics of the hybird pumped and gravity fed pipeline, and secured 6 km PE4710 from US manufacturers. We are currently working on securing the last portions of funding, drafting implementation plans, and talking with the community through our past Peace Corps volunteer and a local NGO called the High Atlas Foundation. Implementation is slated for late July 2019.
+Since April, we've wrote an extensive alternative analysis, designed the entire hydraulics of the hybird pumped and gravity fed pipeline, and secured 6 km PE4710 from US manufacturers. Additionally, we are now fully sponsored and funded. We are currently working on drafting implementation plans, and talking with the community through our past Peace Corps volunteer and a local NGO called the High Atlas Foundation. Implementation is slated for July 16th 2019.
 
 ## Affiliation
 
