@@ -6,7 +6,26 @@ category: projects
 preview: /assets/img/xylo/forest.JPG
 ---
 
-
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+  padding-top: 75%;
+}
+<div class="iframe-container">
 <iframe
-  src="https://embed.kumu.io/e233cfed069a85181fe38301764cc01f"
-  width="940" height="600" frameborder="0"></iframe>
+  src="https://embed.kumu.io/e233cfed069a85181fe38301764cc01f" frameborder="0"></iframe>
+</div>
