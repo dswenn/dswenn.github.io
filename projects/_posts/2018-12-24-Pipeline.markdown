@@ -6,8 +6,6 @@ category: projects
 preview: /assets/img/piping/pipeline.png
 ---
 
-test
-
 ## Project Summary
 
 Our goal is to design and implement an 6 km pipeline in a terrain with a high rock sub-grade, to bring water to the two most remote and poorest villages in the Ait Bayoud region of Morocco. These two communities sustain themselves through subsistence farming, making water access essential to their health and livelihoods. The population positively impacted will be 370.

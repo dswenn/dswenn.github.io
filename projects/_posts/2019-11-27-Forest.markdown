@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Massive Scale Afforestation"
+date:   2019-11-27 00:09:50 -0700
+category: projects
+preview: /assets/img/xylo/forest.JPG
+---
+
+
+<iframe
+  src="https://embed.kumu.io/e233cfed069a85181fe38301764cc01f"
+  width="940" height="600" frameborder="0"></iframe>
