@@ -3,7 +3,7 @@ layout: post
 title:  "Water Distribution System in Ait Bayoud"
 date:   2019-04-01 00:09:50 -0700
 category: projects
-preview: /assets/img/piping/pipeline.png
+preview: /assets/img/piping/DSC09066.JPG
 ---
 
 ## Project Summary
