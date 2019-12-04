@@ -6,9 +6,46 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-## Project Summary
+## Context
 
-Our goal is to design and implement an 6 km pipeline in a terrain with a high rock sub-grade, to bring water to the two most remote and poorest villages in the Ait Bayoud region of Morocco. These two communities sustain themselves through subsistence farming, making water access essential to their health and livelihoods. The population positively impacted will be 370.
+When I joined Engineers without Borders, the project was four years old. The brief was to create a water distribution system for two villages, 370 people, in a remote region of Morocco. Previous university students had drilled a well, installed a pump, and installed 1.4 km of 2" steel pipe. However, the project stagnated in the past two years. The costs of completing the six kilometer pipeline with steel pipe would have costed $60,000 alone. Worse, the steel pipeline leaked to varying degrees every couple of joints.
+
+In late August of 2019, water reached the first village. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. We raised over $50,000 of sponsorship in cash and materials to carry out the project. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
+
+This post will be a detailed view into the process of how a group of college students accomplished a working water distribution system.
+
+## Project Beginnings
+
+## Transitioning to Team Lead
+
+## Questioning Everything
+
+## Flying to Tulsa, Oklahoma
+
+In April 2018, we attended the HDPE Municipal Conference in Tulsa, Oklahoma. We got in touch with industry leaders, onboarded mentors, and learned how to properly fuse pipes using electrofusion and butt fusion.
+
+## Self-learning Hydraulics & Initial Designs
+
+## Do the Right Thing in Engineering
+
+## Defying Odds
+
+## Assembling a Implementing Team
+
+## Meeting the Community
+
+## Arrival of the Pipes
+
+## Overpreparation is Key
+
+## Water Reaches
+
+## Resolving Community Conflict 
+
+## We're Done
+
+
+## Conclusions
 
 ## Location
 
@@ -18,12 +55,6 @@ Our goal is to design and implement an 6 km pipeline in a terrain with a high ro
 
 <embed src="/assets/files/drawingpackage.pdf" width="600px" height="500px" />
 
-## Current Progress
-
-In April 2018, we attended the HDPE Municipal Conference in Tulsa, Oklahoma. We got in touch with industry leaders, onboarded mentors, and learned how to properly fuse pipes using electrofusion and butt fusion.
-
-Since April, we've wrote an extensive alternative analysis, designed the entire hydraulics of the hybird pumped and gravity fed pipeline, and secured 6 km PE4710 from US manufacturers. Additionally, we are now fully sponsored and funded. We are currently working on drafting implementation plans, and talking with the community through our past Peace Corps volunteer and a local NGO called the High Atlas Foundation. Implementation is slated for July 16th 2019.
-
 ## Affiliation
 
-This project is carried out under the Engineers without Borders chapter of Columbia University. Our team is around 20 individuals. My contribution is in leading the technical aspect of this project.
+This project is carried out under the Engineers without Borders chapter of Columbia University. Our team is around 20 individuals. My contribution is in leading the technical and fundraising aspect of this project.

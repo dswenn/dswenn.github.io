@@ -21,6 +21,12 @@ This blog is mainly for myself, but if you come across any one of these books an
 My goal is to write book reviews on the books I have read, so that I can look back and remember what I have read. Writing is hard for me, but is incredibly useful to help consolidate ideas and clarify understanding. I will eventually hyperlink the titles to lead to book reviews or summaries of what I learned.
             </textarea></p>
 
+<p><em>Two Books a Month</em> November 28th, 2019<br/>
+            <br/>
+            <textarea rows="10" cols="50" disabled>
+I've graduated and started working full time, which means evenings and weekends are homework and project free. I'm setting a goal to read two books a month. My ambition is however four books a month with short bullet takeaways on each. I'm excited to read the books on my reading list. Ten of the books on the list were recommended to me by my design mentor. The topics cover systems thinking, elements of design thinking, & regenerative cultures. In the next month, I will be finishing the books I started by didn't finish.
+            </textarea></p>            
+
 ***
 
 ## Social Enterprise - Summer 2015
@@ -70,8 +76,32 @@ My goal is to write book reviews on the books I have read, so that I can look ba
 32. It’s Complicated by Danah Boyd
 33. Globalize Liberation: How to Uproot the System and Build a Better World by David Solnit
 34. Catching Homelessness by Josephine Ensign
+35. The Periodic Table by Primo Levi
 
+## Fellowship Year
+
+36. The Hidden Life of Trees: What They Feel, How They Communicate by Peter Wohlleben
+37. The Green Belt Movement by Wangari Maathai
+38. Divine Beauty by John O'Donahue
+39. Disruptive Design by Leyla Acaroglu
+40. Nonviolent Communication by Marshall B. Rosenberg
+ 
 ## Currently Reading
+41. Immunity to Change by Robert Kegan and Lisa Lahey (35%)
 
-25. The Periodic Table by Primo Levi
-    
+## Reading List
+42. The Field Study Handbook by Jan Chipchase (50%)
+43. Sapiens by Yuval Noah Harari (50%)
+44. Prophet by Kahlil Gibran (30%)
+45. Long Walk to Freedom by Nelson Mandela
+46. Poor Economics by Abhijit Banerjee and Esther Duflo
+47. Flights by Olga Tokarczuk
+48. Designing Regenerative Cultures by Daniel Wahl
+49. Growing Wings On the Way by Rosalind Armson
+50. Thinking in Systems: A Primer by Donella H. Meadows
+51. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
+52. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
+53. The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges by Zaid Hassan
+54. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
+55. Theory U: Leading from the Future as It Emerges by Otto Scharmer
+56. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
