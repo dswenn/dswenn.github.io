@@ -388,7 +388,13 @@ body {
   cursor: pointer;
 }
 
-
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 130px;
+  z-index: 1;
+}
 
 /* Links inside the dropdown */
 .dropdown-content a {
