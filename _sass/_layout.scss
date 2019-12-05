@@ -371,7 +371,8 @@ body {
 
 /* The dropdown container */
 .dropdown {
-  float: left;
+  /*float: left; */
+  position: relative
 }
 
 /* Dropdown button */
@@ -386,7 +387,6 @@ body {
   font-family: $serif-fonts; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
   cursor: pointer;
-  position: relative;
 }
 
 /* Dropdown content (hidden by default) */
