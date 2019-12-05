@@ -6,7 +6,7 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-## Context
+![pipe]({{ site.url }}/assets/img/piping/DSC09066.JPG)
 
 When I joined Engineers without Borders, the project was four years old. The brief was to create a water distribution system for two villages, 370 people, in a remote region of Morocco. Previous university students had drilled a well, installed a pump, and installed 1.4 km of 2" steel pipe. However, the project stagnated in the past two years. The costs of completing the six kilometer pipeline with steel pipe would have costed $60,000 alone. Worse, the steel pipeline leaked to varying degrees every couple of joints.
 
