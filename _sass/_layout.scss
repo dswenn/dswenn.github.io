@@ -391,7 +391,7 @@ body {
 /* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: relative;
   min-width: 130px;
   z-index: 1;
 }
