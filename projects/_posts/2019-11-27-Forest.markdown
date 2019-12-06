@@ -13,6 +13,7 @@ We are interested in addressing the growing climate crisis in a significant mann
 
 ## Approach
 To approach the systemic issue of climate crisis, we apply systems thinking and design thinking
+
 Initial Idea
 When we first started, Sheeba had an idea of an online marketplace where buyers (medium to large sized businesses) could purchase carbon credits directly from farmers sequestering carbon through forest creation. By creating a sustainable business model, we could move away from traditional grant-based funding which makes scaling difficult and enable a world with more forests. Communities would get fuelwood and fodder, plants, and food to sustain their livelihoods. 
 If we created this, would the farmers even want to use it? To answer this question, we needed to ground our product or service in addressing actual and real needs.
@@ -28,7 +29,10 @@ When Sheeba and I first sat down, we knew we needed to first understand who we w
 •	Government because they own largest tracts of land; potential areas for afforestation. 
 
 
-
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/forest.JPG" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
 
 
 Interviews
