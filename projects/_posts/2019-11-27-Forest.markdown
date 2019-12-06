@@ -14,7 +14,7 @@ We are interested in addressing the growing climate crisis in a significant mann
 ## Initial Idea
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/0.PNG" alt="my alt text"/>
+  <img src="{{site.url}}/assets/img/xylo/0.JPG" alt="marketplace" height="50%" width="50%"/>
   <figcaption>Online marketplace model.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ If we created this, would the farmers even want to use it? To answer this questi
 Date: September 30, 2019
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/1.png" alt="my alt text" height="50%" width="50%"/>
+  <img src="{{site.url}}/assets/img/xylo/1.png" alt="stakeholders initial" height="50%" width="50%"/>
   <figcaption>Initial understanding of relevant stakeholders for whom we want to design for.</figcaption>
 </figure>
 
@@ -45,12 +45,12 @@ Action: We took a field day to Gubbi, where we interviewed three farmers of vary
 Result: We unpacked our observations and turned them into insights.
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/2.jpg" alt="test" height="50%" width="50%"/>
+  <img src="{{site.url}}/assets/img/xylo/2.jpg" alt="farmers" height="70%" width="70%"/>
   <figcaption>Kalara (middle), a smallholder farmer, and her two sons who work as daily wage labourers.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/3.PNG" alt="my alt text"/>
+  <img src="{{site.url}}/assets/img/xylo/3.PNG" alt="interview setup" height="50%" width="50%"/>
   <figcaption>Typical interview setup in Karnataka.</figcaption>
 </figure>
 
@@ -64,22 +64,49 @@ Goal: interview consumers to understand how everyday people feel towards climate
 Actions: We interviewed one consumer sitting at Third Wave Cafe in Bangalore.
 Result: We unpacked our observations and turned them into insights.
 
-After unpacking the insights in our interviews, we moved into Ideation. However, we still felt that we needed a wider understanding of farmers in Karnataka. Did the livelihood of farmers in Gubbi translate over to other regions? With a team of four, we headed on an overnight train to Belgaum, a poorer region of Karnataka. 
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/4.PNG" alt="interview setup"/>
+  <figcaption>Unpacking observations back at our home studio.</figcaption>
+</figure>
+
+After unpacking the insights in our interviews, we felt that we needed a wider understanding of farmers in Karnataka. Did the livelihood of farmers in Gubbi translate over to other regions? With a team of four, we headed on an overnight train to Belgaum, a poorer region of Karnataka. 
 
 ## Design Sprint in Belawadi 
-Context: Belawadi, a medium sized village in Karnataka. The region is fertile however heavy rains have plagued the region this year, ruining two cycles of reaping. The population is roughly 8,000. Harshita, our translator, is our local guide.
-Goal: To understand land use of farmers in Karnataka.
+**Context**: Belawadi, a medium sized village in Karnataka. The region is fertile however heavy rains have plagued the region this year, ruining two cycles of reaping. The population is roughly 8,000. Harshita, our translator, is our local guide.
+**Goal**: To understand land use of farmers in Karnataka.
 Participating members: Saptarshi Das (Seven Saints, designer), Harshita (translator), Sheeba Sen (NGO), Donald Swen (Engineer)
-Dates: October 22 – 24, 2019
-Day 1, we refined our interview, and interviewed four farmers in extremities of wealth. Our interviewees ranged from 1.5 acres to 100 acre farmers. 
+**Dates**: October 22 – 24, 2019
 
-Day 2 
-We unpacked all the interviews and decided to focus on Basavaraj, our extreme user. We identified Basavaraj as extreme because he was the most difficult to design for. He is a smallholder, rain fed agriculture, currently working as a daily wage labourer, and was very difficult to talk to. When asked about the recent unseasonal rains, he said its God. His answers for many questions defaulted to God.
+**Day 1**
+We refined our interview, and interviewed four farmers in extremities of wealth. Our interviewees ranged from 1.5 acres to 100 acre farmers.
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/5.PNG" alt="interview setup"/>
+  <figcaption>Unpacking insights (top) and prototyping (bottom) in an unused event space in Bailhongal.</figcaption>
+</figure>
+
+**Day 2**
+After unpacking, we focused on Basavaraj, our extreme user. We identified Basavaraj as extreme because he was the most difficult to design for. He is a smallholder, rain fed agriculture, currently working as a daily wage labourer, and was very difficult to talk to. When asked about the recent unseasonal rains, he said its God. His answers for many questions defaulted to God.
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/6.PNG" alt="interview setup"/>
+  <figcaption>A digitized version of a point of view sheet we would complete after every farmer debrief. This is called the Define stage of design thinking. This particular sheet is of Basavaraj, the extreme user, we wanted to design for.</figcaption>
+</figure>
+
 After completing a point of view for Basavaraj, we were ready to ideate for him. We ideated over seven solutions and with criteria, voted and settled on one idea to take forward to prototyping. In a short 30 minutes, we had our first prototype: a contract that details a business scheme that pays farmers to lease their 20% of their land for a 10-yr period for where a forest would grow in that space, guaranteeing consistent monthly income.
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/7.JPG" alt="interview setup" height="70%" width="70%"/>
+  <figcaption>Making of our prototype contract in Photoshop.</figcaption>
+</figure>
+
 During testing, Basavaraj said his land is fertile. This sentiment was echoed by another smallholder who hesitated as he’s growing cash crops on his land. Out of the three farmers we tested with, a 28 acre farmer wanted to start right away, one hesitated, and our extreme user rejected the idea.
+
 It was then that, our major insight came:
-IT’S REALLY ABOUT MORE THAN JUST SOLVING FINANCIAL NEEDS. IT’S ALSO ABOUT KEEPING IN MIND WHAT THE LAND MEANS TO THEM  [THEIR IDENTITY AS A FARMER] WHILE FULFILLING HIS FINANCIAL NEEDS.
-Perhaps it’s really about food.
+> IT’S REALLY ABOUT MORE THAN JUST SOLVING FINANCIAL NEEDS. IT’S ALSO ABOUT KEEPING IN MIND WHAT THE LAND MEANS TO THEM  [THEIR IDENTITY AS A FARMER] WHILE FULFILLING HIS FINANCIAL NEEDS.
+
+Perhaps it’s really about *food*.
+
 By prototyping for Basavaraj, we started to uncover these unarticulated needs that went beyond just financial security. By solving the needs of the extreme users, we have a greater chance at covering the needs of the mainstream users. If we can make a farmer want to grow a forest on fertile land, we can perhaps cover smallholders with barren land. Or we can double down our efforts on barren lands only. Onto to the next iterations. 
 
 Systems Map Attempt
