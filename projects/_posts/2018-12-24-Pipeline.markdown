@@ -6,25 +6,41 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-![pipe]({{ site.url }}/assets/img/piping/DSC09066.JPG)
+Ait Bayoud is a series of villages in an impoverished region of Morocco. Two villages, Izgouaren and Ilguilouda, in particular experience water scarcity due to their remote location. Residents, primarily women and children, walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
 
-When I joined Engineers without Borders, the project was four years old. The brief was to create a water distribution system for two villages, 370 people, in a remote region of Morocco. Previous university students had drilled a well, installed a pump, and installed 1.4 km of 2" steel pipe. However, the project stagnated in the past two years. The costs of completing the six kilometer pipeline with steel pipe would have costed $60,000 alone. Worse, the steel pipeline leaked to varying degrees every couple of joints.
+See press on our project: [McElroy](http://press.mcelroy.com/pipeline-delivers-water-hope-to-remote-moroccan-village/) & [Water for the World](https://www.waterfortheworld.net/projects/providing-life-changing-safe-water-supply-to-rural-villages-in-morocco). See technical documents: [drawings](dswenn.com/assets/files/drawingpackage.pdf), [alternatives analysis](dswenn.com/assets/files/aa.pdf), [pre-trip report](), and [post-trip report]().
 
-In late August of 2019, water reached the first village. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. We raised over $50,000 of sponsorship in cash and materials to carry out the project. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
+![pipe]({{ site.url }}/assets/img/piping/DSC09109-min.JPG)
 
-This post will be a detailed view into the process of how a group of college students accomplished a working water distribution system.
+In late August of 2019, water reached the first village of Ilguilouda. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. We raised over $50,000 of sponsorship in cash and materials to carry out the project. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
+
+## Planning
 
 
-## Conclusions
+
+## Implementation
+
+![pipe]({{ site.url }}/assets/img/piping/DSC08865-min.JPG)
+![pipe]({{ site.url }}/assets/img/piping/DSC08864-min.JPG)
+![pipe]({{ site.url }}/assets/img/piping/DSC09066-min.JPG)
+
+![pipe]({{ site.url }}/assets/img/piping/DSC08965-min.JPG)
+![pipe]({{ site.url }}/assets/img/piping/DSC08987-min.JPG)
+![pipe]({{ site.url }}/assets/img/piping/DSC08970-min.JPG)
+
+
+Izgouaren and Ilguilouda are two communities out of the 700 million people in the world that live in water scarcity. Let's press forward in our efforts to do good.
+
+![pipe]({{ site.url }}/assets/img/piping/DSC09394-min.JPG)
+
+Read a detailed log of this journey from planning to implementation [here](dswenn.com/morocco).
 
 ## Location
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
 
-## Technical Details
+Acknowledgements:
+Robert Lawrence, Camille Rubeiz, Greg Scoby, Santiago Arnalich, Andrew Wedgner, Michael Conaboy, Sean Reischel, Ethan Cotton, Robert Prager, Jim Johnston
 
-<embed src="/assets/files/drawingpackage.pdf" width="600px" height="500px" />
-
-## Affiliation
-
-This project is carried out under the Engineers without Borders chapter of Columbia University. Our team is around 20 individuals. My contribution is in leading the technical and fundraising aspect of this project.
+Specials thanks to:
+Plastics Pipe Municipal Advisory Board, PE Pipe Alliance, Borealis, Borouge, Plastima, CMGP, Menara Holdings, ISCO, McElroy
