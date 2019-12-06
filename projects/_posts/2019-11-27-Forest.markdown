@@ -11,48 +11,62 @@ preview: /assets/img/xylo/forest.JPG
 ## Context
 We are interested in addressing the growing climate crisis in a significant manner. 407.4 ppm is the amount of CO2 in our atmosphere. Our actions are leading to rising sea levels, suffocating cities, and plummeting biodiversity. Our rural populations are hit especially hard with unseasonal rains, extreme weather, and desertifying lands. We believe in the power of forests to sequester our carbon dioxide, to reduce global surface temperatures, and restore urban & rural livelihood. Forest creation is one of the most effective solutions to help us stay under 1.5 C of warming.
 
-## Approach
-To approach the systemic issue of climate crisis, we apply systems thinking and design thinking
-
-Initial Idea
-When we first started, Sheeba had an idea of an online marketplace where buyers (medium to large sized businesses) could purchase carbon credits directly from farmers sequestering carbon through forest creation. By creating a sustainable business model, we could move away from traditional grant-based funding which makes scaling difficult and enable a world with more forests. Communities would get fuelwood and fodder, plants, and food to sustain their livelihoods. 
-If we created this, would the farmers even want to use it? To answer this question, we needed to ground our product or service in addressing actual and real needs.
-
-Initial Stakeholder Mapping
-Date: September 30, 2019
-
-
-When Sheeba and I first sat down, we knew we needed to first understand who we were designing for. We came up with four primary stakeholders that we were interested in understanding: farmers, businesses, consumers, and government.
-•	Farmers because they are the population with landholdings in rural areas and near large tracts of fertile/infertile land. 
-•	Large and small businesses because they are sources of funding. As our world is moving toward carbon neutrality, companies are buying carbon credits for CSR, branding, or compliance purposes. The carbon market size is broken into two segments: the voluntary ($191 million USD)  and compliance ($70 billion USD) .
-•	Consumers because many want to take action, but many do not know how. An indicator of the size of climate-oriented consumers: 7.6 million showed up globally at the Climate Strike in September. 
-•	Government because they own largest tracts of land; potential areas for afforestation. 
-
+## Initial Idea
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/forest.JPG" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
+  <img src="{{site.url}}/assets/img/xylo/0.PNG" alt="my alt text"/>
+  <figcaption>Online marketplace model.</figcaption>
 </figure>
 
+When we first started, Sheeba had an idea of an online marketplace where buyers (medium to large sized businesses) could purchase carbon credits directly from farmers sequestering carbon through forest creation. By creating a sustainable business model, we could move away from traditional grant-based funding which makes scaling difficult and enable a world with more forests. Communities would get fuelwood and fodder, plants, and food to sustain their livelihoods. 
+If we created this, would the farmers even want to use it? To answer this question, I pushed our organization to ground our product or service in addressing actual and real needs.
 
-Interviews
+## Initial Stakeholder Mapping
+Date: September 30, 2019
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/1.png" alt="my alt text"/>
+  <figcaption>Initial understanding of relevant stakeholders for whom we want to design for.</figcaption>
+</figure>
+
+* Farmers - population with landholdings in rural areas and near large tracts of fertile/infertile land. 
+* Large and small businesses - sources of funding. As our world is moving toward carbon neutrality, companies are buying carbon credits for CSR, branding, or compliance purposes. The carbon market size is broken into two segments: the voluntary ($191 million USD) and compliance ($70 billion USD).
+* Consumers - pent up energy. An indicator of the size of climate-oriented consumers: 7.6 million showed up globally at the Climate Strike in September 2019. 
+* Government - largest tracts of land; potential areas for afforestation. 
+
+## Interviews
 Dates: October 1-24, 2019
+
 We designed interview cards (see Appendix) and went into the field to collect observations.
-Farmers
+
+### Farmers
 Goal: interview farmers to broadly understand their daily lives.
 Action: We took a field day to Gubbi, where we interviewed three farmers of varying wealth: rich farmer, mainstream farmer, poorest farmer. 
 Result: We unpacked our observations and turned them into insights.
-Businessowners
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/2.JPG" alt="my alt text"/>
+  <figcaption>Kalara (middle), a smallholder farmer, and her two sons who work as daily wage labourers.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.url}}/assets/img/xylo/3.PNG" alt="my alt text"/>
+  <figcaption>Typical interview setup in Karnataka.</figcaption>
+</figure>
+
+### Businessowners
 Goal: interview executives/CSR of large and small businesses to gauge interest in solving climate crisis and extent of willingness to take action.
 Action: We interviewed Borealis ($8 billion turnover), RK Group ($450 million revenue), Elara Capital ($17 million), and Swordfish Events & Entertainment (45 employees).
 Result: We unpacked our observations and turned them into insights.
-Consumers
+
+### Consumers
 Goal: interview consumers to understand how everyday people feel towards climate change and understand the extent to which they care.
 Actions: We interviewed one consumer sitting at Third Wave Cafe in Bangalore.
 Result: We unpacked our observations and turned them into insights.
-After unpacking the insights in our interviews, we would move onto Ideation. However, we still felt that we needed a wider understanding of farmers in Karnataka. Did the livelihood of farmers in Gubbi translate over to other regions? With a team of four, we headed on an overnight train to Belgaum, a poorer region of Karnataka. 
 
-Design Sprint in Belawadi 
+After unpacking the insights in our interviews, we moved into Ideation. However, we still felt that we needed a wider understanding of farmers in Karnataka. Did the livelihood of farmers in Gubbi translate over to other regions? With a team of four, we headed on an overnight train to Belgaum, a poorer region of Karnataka. 
+
+## Design Sprint in Belawadi 
 Context: Belawadi, a medium sized village in Karnataka. The region is fertile however heavy rains have plagued the region this year, ruining two cycles of reaping. The population is roughly 8,000. Harshita, our translator, is our local guide.
 Goal: To understand land use of farmers in Karnataka.
 Participating members: Saptarshi Das (Seven Saints, designer), Harshita (translator), Sheeba Sen (NGO), Donald Swen (Engineer)
@@ -167,10 +181,4 @@ Special thanks to Peter Coughlan (ex-IDEO, B Economy), Ariel Raz (Stanford d. Sc
 
 
 
-
-
-Appendix
-Interview Cards
-Home studio in Bangalore
-
-
+This page is an adapted version of our progress report.
