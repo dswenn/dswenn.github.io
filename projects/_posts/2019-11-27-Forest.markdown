@@ -45,7 +45,7 @@ Action: We took a field day to Gubbi, where we interviewed three farmers of vary
 Result: We unpacked our observations and turned them into insights.
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/2.JPG" alt="my alt text"/>
+  <img src="{{site.url}}/assets/img/xylo/2.jpg" alt="test" height="50%" width="50%"/>
   <figcaption>Kalara (middle), a smallholder farmer, and her two sons who work as daily wage labourers.</figcaption>
 </figure>
 
