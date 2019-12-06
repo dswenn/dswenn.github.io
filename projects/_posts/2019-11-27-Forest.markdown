@@ -6,7 +6,167 @@ category: projects
 preview: /assets/img/xylo/forest.JPG
 ---
 
-<div class="iframe-container">
-<iframe
-  src="https://embed.kumu.io/e233cfed069a85181fe38301764cc01f"></iframe>
-</div>
+> Please check back often to see how I'm using systems and design thinking to make headway on addressing the climate crisis. This project is ongoing work as part of my Clinton Fellowship in India. (December 2019)
+
+## Context
+We are interested in addressing the growing climate crisis in a significant manner. 407.4 ppm is the amount of CO2 in our atmosphere. Our actions are leading to rising sea levels, suffocating cities, and plummeting biodiversity. Our rural populations are hit especially hard with unseasonal rains, extreme weather, and desertifying lands. We believe in the power of forests to sequester our carbon dioxide, to reduce global surface temperatures, and restore urban & rural livelihood. Forest creation is one of the most effective solutions to help us stay under 1.5 C of warming.
+
+## Approach
+To approach the systemic issue of climate crisis, we apply systems thinking and design thinking
+Initial Idea
+When we first started, Sheeba had an idea of an online marketplace where buyers (medium to large sized businesses) could purchase carbon credits directly from farmers sequestering carbon through forest creation. By creating a sustainable business model, we could move away from traditional grant-based funding which makes scaling difficult and enable a world with more forests. Communities would get fuelwood and fodder, plants, and food to sustain their livelihoods. 
+If we created this, would the farmers even want to use it? To answer this question, we needed to ground our product or service in addressing actual and real needs.
+
+Initial Stakeholder Mapping
+Date: September 30, 2019
+
+
+When Sheeba and I first sat down, we knew we needed to first understand who we were designing for. We came up with four primary stakeholders that we were interested in understanding: farmers, businesses, consumers, and government.
+•	Farmers because they are the population with landholdings in rural areas and near large tracts of fertile/infertile land. 
+•	Large and small businesses because they are sources of funding. As our world is moving toward carbon neutrality, companies are buying carbon credits for CSR, branding, or compliance purposes. The carbon market size is broken into two segments: the voluntary ($191 million USD)  and compliance ($70 billion USD) .
+•	Consumers because many want to take action, but many do not know how. An indicator of the size of climate-oriented consumers: 7.6 million showed up globally at the Climate Strike in September. 
+•	Government because they own largest tracts of land; potential areas for afforestation. 
+
+
+
+
+
+Interviews
+Dates: October 1-24, 2019
+We designed interview cards (see Appendix) and went into the field to collect observations.
+Farmers
+Goal: interview farmers to broadly understand their daily lives.
+Action: We took a field day to Gubbi, where we interviewed three farmers of varying wealth: rich farmer, mainstream farmer, poorest farmer. 
+Result: We unpacked our observations and turned them into insights.
+Businessowners
+Goal: interview executives/CSR of large and small businesses to gauge interest in solving climate crisis and extent of willingness to take action.
+Action: We interviewed Borealis ($8 billion turnover), RK Group ($450 million revenue), Elara Capital ($17 million), and Swordfish Events & Entertainment (45 employees).
+Result: We unpacked our observations and turned them into insights.
+Consumers
+Goal: interview consumers to understand how everyday people feel towards climate change and understand the extent to which they care.
+Actions: We interviewed one consumer sitting at Third Wave Cafe in Bangalore.
+Result: We unpacked our observations and turned them into insights.
+After unpacking the insights in our interviews, we would move onto Ideation. However, we still felt that we needed a wider understanding of farmers in Karnataka. Did the livelihood of farmers in Gubbi translate over to other regions? With a team of four, we headed on an overnight train to Belgaum, a poorer region of Karnataka. 
+
+Design Sprint in Belawadi 
+Context: Belawadi, a medium sized village in Karnataka. The region is fertile however heavy rains have plagued the region this year, ruining two cycles of reaping. The population is roughly 8,000. Harshita, our translator, is our local guide.
+Goal: To understand land use of farmers in Karnataka.
+Participating members: Saptarshi Das (Seven Saints, designer), Harshita (translator), Sheeba Sen (NGO), Donald Swen (Engineer)
+Dates: October 22 – 24, 2019
+Day 1, we refined our interview, and interviewed four farmers in extremities of wealth. Our interviewees ranged from 1.5 acres to 100 acre farmers. 
+
+Day 2 
+We unpacked all the interviews and decided to focus on Basavaraj, our extreme user. We identified Basavaraj as extreme because he was the most difficult to design for. He is a smallholder, rain fed agriculture, currently working as a daily wage labourer, and was very difficult to talk to. When asked about the recent unseasonal rains, he said its God. His answers for many questions defaulted to God.
+After completing a point of view for Basavaraj, we were ready to ideate for him. We ideated over seven solutions and with criteria, voted and settled on one idea to take forward to prototyping. In a short 30 minutes, we had our first prototype: a contract that details a business scheme that pays farmers to lease their 20% of their land for a 10-yr period for where a forest would grow in that space, guaranteeing consistent monthly income.
+During testing, Basavaraj said his land is fertile. This sentiment was echoed by another smallholder who hesitated as he’s growing cash crops on his land. Out of the three farmers we tested with, a 28 acre farmer wanted to start right away, one hesitated, and our extreme user rejected the idea.
+It was then that, our major insight came:
+IT’S REALLY ABOUT MORE THAN JUST SOLVING FINANCIAL NEEDS. IT’S ALSO ABOUT KEEPING IN MIND WHAT THE LAND MEANS TO THEM  [THEIR IDENTITY AS A FARMER] WHILE FULFILLING HIS FINANCIAL NEEDS.
+Perhaps it’s really about food.
+By prototyping for Basavaraj, we started to uncover these unarticulated needs that went beyond just financial security. By solving the needs of the extreme users, we have a greater chance at covering the needs of the mainstream users. If we can make a farmer want to grow a forest on fertile land, we can perhaps cover smallholders with barren land. Or we can double down our efforts on barren lands only. Onto to the next iterations. 
+
+Systems Map Attempt
+Date: November 4. 2019
+Belgaum was an excellent location to extract some key insights. We are cognizant that we could have continued iterating in Belgaum. However, we felt that we wanted a greater understanding of farmers living in different parts of India before prototyping further. Will what we create in Karnataka translate to Uttarakhand, Uttar Pradesh, or other Indian states? With these questions lingering in our minds, we decided we needed more data; to conduct more interviews and gather more insights.
+Rajasthan, being the most desertified state in India, seemed like the ideal location to use prototyping to gather more insights. Barren or abandoned lands can provide large tracts to forest creation. These insights would help us understand the needs of farmers more accurately, pan-India.
+At the same time, we started to feel the constraints of design thinking. We knew that if we kept iterating, we could design the thing right, but would we be designing the right thing? The design thinking process was great at designing say, a product, for a single user. For example, an affordable and easy to use and install drip irrigation system. But as we worked more and more, we felt the presence of multiple stakeholders. To create a forest, you need to involve nurseries for saplings, businesses or CSRs for funding, farmers for labor or land, forest department for permission and regulations, and the list continues. Even more pertinent was that each parcel of land had stakeholders attached to them. What we were encroaching on was a multi-stakeholder design problem. How can you get all the different stakeholders to work together? What are their individual needs? 
+We reached out to an ex-IDEO partner, one existing faculty at the d. School, and the Design Head at the Columbia University Design Studio to explore deeper, how to approach multi stakeholder design. We got introduced to systems thinking. We then starting to think whether we were restricting ourselves by just looking at farmers, businesses, and consumers? Would there perhaps be another stakeholder we could leverage? If we do create something, what are the barriers, blockages, or gaps in the ecosystem? We started to feel that we were missing a key ingredient in our approach to answering the question of how we could create a world with more native forests.
+After three hours, we created our first systems map.
+First iterations are always very messy and crude; this map was no exception. We didn’t know how to extract anything meaningful out of this map. The scale was too large and the lack of precise boundaries and framing made the exercise feel endless. Everyone was involved in the climate crisis. 
+After talking with the ex-IDEO partner, our approach expanded. We were introduced to the idea of hosting a World Café. A World Café is where you get multiple stakeholders in one room and have them talk to each other. It can be anywhere from ten to 100 people. For example, having a farmer, a District Magistrate, a CSR head, and consumers at one table and creating system maps with each other. Facilitating this exchange will allow us to validate arbitrary connections and assess needs. The system knows best how they interact with each other if at all.
+Over the course of two weeks, we developed a stronger framing, and prepared to convene five stakeholders at our Forest Café. We decided to combine the design sprint we were thinking about and the Café in Rajasthan, which was closer to most of our stakeholders. The first three days would consist of a design sprint, similar to Belgaum, and the latter two days would be the hosting of the Forest Cafe we would carry out a design sprint to understand farmers in Rajasthan. 
+
+
+Design Sprint in Juliasar, Rajasthan
+Context: Juliasar, a medium sized village facing high salinity and fluoride content in their groundwater. The population is roughly 3,000. Onkar-ji is our local connect. Juliasar is Onkar’s ancestral village.
+Goal: To understand land use of farmers in barren regions.
+Participating members: Onkar Singh Shekhawat (Farmer), Noorie Sadarangani (Fashion Designer), Ayush Nigam (Agriculture Enterpriser), Sheeba Sen (NGO), Donald Swen (Engineer)
+Dates: November 13 – 15, 2019
+Day 1
+As part of our five day design sprint, the first three days was based in Juliasar, about three hours away from Jaipur. After settling into the local hotel, we headed into the field to conduct interviews.  
+Here are some things we kept in mind as we interviewed:
+-	Never say usually when asking a question
+o	Instead ask, tell me about the last time you _____
+-	Ask why
+o	Even if its seemingly obvious, you will sometimes be surprised
+-	Encourage stories
+o	Whether or not they are true, they give you insight into how people think
+-	Look for inconsistencies
+-	Pay attention to nonverbal cues
+-	Don’t be afraid of silence
+-	Don’t suggest answers to your questions
+-	Ask questions neutrally
+-	Don’t ask binary questions
+-	Make sure you’re prepared to capture or take notes
+We tested out having Onkar-ji be involved in the interviews, however, the peer to peer dynamic would bring out unwanted bias or answers. The reason for this dynamic is because Onkar-ji is a well-regarded and highly respected member of the community. Onkar-ji sat out for the rest of the interview process.
+Another dynamic we noticed was gender. In Rajasthan, there is a heavy male dominance over women. There were two instances where this appeared prominent. In one of the initial interviews, our translator was a local male. We spoke Hindi with him as he translated Hindi to Marwari. He would dictate most of the answers and speak for the women despite our request of direct translation. Translators matter immensely and we will have to keep this in mind in our next design exercises. The other instance is where near the end of one of our interviews, our interviewee fell silent when certain men walked into the room, despite the rapport we had built up. The men started becoming aggressive in tone and language with her as we asked her questions. Unwanted interference needs to be minimized and also in gender sensitive regions, even the gender of the interviewers must be considered.
+In total, we interviewed six farmers, and discarded one due to heavy translation bias. We interviewed a spread of farmers: 100 acre male farmer, 75 acre farmer, 15 acre farmer, 1.5 acre women farmer, and supposedly a landholder who lives in a city but isn’t using his land. The last individual lied to us that he uses his land whereas eye witness reports no utilization of land.
+We headed back to the event space at the hotel and unpacked one observation.
+ 
+Figure 14 Unpacking our first interview.
+Day 2
+We completed unpacking the interviews and chose our extreme user: Ladu-singh, a 39 year old migrant worker or contractor with 15 acres of land. 
+Insert pic of initial POV
+With our framing complete, we proceeded towards ideation. We generated seven ideas, of which we ended combining aspects of two or three ideas to make one idea. The idea was a forest beauty contest, in which 80% of forest creation fees would be covered by a philanthropic company that wants to see more beautiful forests in the world. The investment by farmers would have to be 20%. At the end of ten years, the company would come, select a winner for the owner of the most beautiful forest, and award the winner ten lakhs. For fairness sake, they would be judged based on the climatic conditions of their region. We said there were 12 climatic conditions in India. Last, there would be a local knowledge center to facilitate information exchange, guide farmers on how to create forests, and where they could get reimbursed. Strict accounting rules would be set for reimbursement. The contest does not guide farmers how to make income out of forests, but the local knowledge centers could give suggestions.
+After dinner at a community house, we spent 30 minutes to prototype our idea. By 11 PM, we had completed our first prototype: a contest brochure.
+ 
+Figure 15 Creating our prototype.
+Day 3
+In early morning, we departed into the field to test our prototype on a total of seven farmers.Six out of six farmers loved the idea, some more than others, but regardless, all would have liked to enter the forest beauty competition.
+ 
+Figure 16 Testing our prototype with farmers.
+
+Conclusion
+Our prototype captured the interests of every farmer we spoke to. It was a pleasant surprise. We had designed for one farmer who we identified as our extreme user. He was a migrant worker/contractor and what kept him up at night was thinking about his future. He was quite different from the other landholders we interviewed; he loves trees (he said, “Trees are life.”), built his own house and was quite particular about aesthetics, decided to become a contractor because it gave him more career independence. However, working as a contractor was toiling on his body and he thinks about what he will do when his body gives up. We wondered if he needed a vision for himself back home. We thought it would be gamechanging if he could create beauty, just like his house or creating things at work, for a living back on his land. So we created a forest beauty contest. And once we tested it on him, we saw that he just needed to find the opportunity or reason to return to his land instead of leaving it behind. He started proposing ways that he could make money off of the forest. He could create beauty for a living and he liked that there was no knowledge barrier to making a forest. He had been experimenting with trees but none of them survived long. When we tested the threshold, he said he wasn’t comfortable paying 50% of forest creation costs, but 20% was a manageable amount. We had to convert percentage into a price to make it more comprehensible.
+Other farmers similarly liked the idea. Most of them thought trees are beautiful and give many benefits. Many started to think of ways to make money off of the trees. Our prototype got people to think of a different possibility. Some migrant workers said even if they are earning less creating forests, they would still come home. In that new possibility, there was something gripping that led everyone to want to join the contest. 
+For us, the results of this design sprint showed us that beauty was an unarticulated need in farmer lives in Juliasar. Moreso, in a region where men leave their families to become migrant workers, many are seeking an opportunity, that can be at least somewhat comparable in terms of income, to return home to.
+Adaptation of a World Café – Forest Café
+Summary
+ 
+Figure 17 All participants of the Forest Café. Photos courtesy of Aishwarya Maheshwari.
+An adaptation of the World Cafe was held in Jaipur, Rajasthan. Stakeholders representing government officials, corporations, urban architects, education directors, and farmers were invited to help answer the question of how might we create a world with more native forests, restricted geographically to India. In 1.5 days, we created a series of system maps that harnessed the diverse experience and perspectives of our stakeholders.
+ 
+Figure 18 A combined view of Map 2 & 3. This map indicates how stakeholders interact with land and how stakeholders interact with each other. Green dots represent positive energy or momentum in the system whereas red dots represent barriers, gaps, or challenges. 
+The full map can be found at https://embed.kumu.io/bd7985a0e2e772e271182d478a542b7f#stakeholder-landscape
+System Maps
+Map 1: Participants were asked to list all relevant stakeholders and physical settings that can support a forest. 98 stakeholders were generated and categorized into 19 subsystems.
+Map 2: Participants were asked to connect each of the 23 land parcels with stakeholders that occasionally or frequently interact with the land and also to identify the decision makers on these lands.
+Map 3: Participants were asked to identify the strongest or established and weakest or emerging relationships in the system. In each relationship, participants were asked to note the exchange of one of the following values: knowledge, influence, material, money, or time.
+Each participant was then asked to identify three green and three red dots. Green dots represent positive energy or momentum in the system while red dots represent blockages, challenges, barriers, or gaps in the system.
+Amoebas were drawn around the green and red dots, denoting potential leverage opportunities or opportunity areas for action.
+ 
+Figure 19 Various stills documenting our mapping process.
+
+
+
+
+Learnings
+1.	A cafe environment is a gamechanger.
+2.	Every line drawn creates inertia. Use a coding system instead.
+3.	Could be really helpful to introduce the theory behind systems thinking at beginning or weave a narrative of the process throughout the workshop.
+4.	"Wisdom in the room" is powerful.
+5.	"Not perfect, just good enough" helped us push through.
+6.	Need to structure the process such that we let insights and crosstalk breathe; it can get difficult to capture all the insights.
+7.	Introduce systems & design lexicon carefully.
+8.	Written instructions or statement of goals help.
+9.	A well thought out framing makes all the difference.
+10.	Schedule without timings is a keeper.
+11.	Invest in higher quality post-its.
+12.	If using Kumu maps, develop the front-end code before the meeting.
+Moving Forward
+Further refinement of these three maps will be conducted individually with key stakeholders. Further iterations at state levels will be conducted to gain a more accurate pan-India understanding of how to get the pertinent stakeholders to work together to create a world with more native forests. All this systems work will go directly into strategy development.
+Details
+Dates & Location: November 16 to 17, 2019 at the Noble House in Jaipur, Rajasthan, India.
+Co-created with Dr. Uma Kant (ex-IAS, Athena), Alok Yadav (HCL Foundation), Amritha Ballal (Space Matters), Vivek Sharma (Gandhi Fellowship), Dr. Ahmed Iqbal (IAS), Onkar Singh Shekhawat (Farmer).
+Supporting staff includes Noorie Sadarangani (Obataimu), Ayush Nigam (District Horizon), & Aishwarya Maheshwari (Khamir).
+Facilitated by Donald Swen & Sheeba Sen.
+Special thanks to Peter Coughlan (ex-IDEO, B Economy), Ariel Raz (Stanford d. School), Adam Royalty (ex d. School).
+
+
+
+
+
+Appendix
+Interview Cards
+Home studio in Bangalore
+
+
