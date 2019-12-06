@@ -8,4 +8,4 @@ preview: /assets/img/xylo/forest.JPG
 
 > Please check back often to see how I'm using systems and design thinking to make headway on addressing the climate crisis. This project is ongoing work as part of my Clinton Fellowship in India. (December 2019)
 
-<embed src="/assets/files/designreport.pdf"/>
+<embed src="/assets/files/designreport.pdf" height="100%" width="100%" />
