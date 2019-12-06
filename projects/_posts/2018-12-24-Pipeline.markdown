@@ -12,11 +12,7 @@ See press on our project: [McElroy](http://press.mcelroy.com/pipeline-delivers-w
 
 ![pipe]({{ site.url }}/assets/img/piping/DSC09109-min.JPG)
 
-In late August of 2019, water reached the first village of Ilguilouda. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. We raised over $50,000 of sponsorship in cash and materials to carry out the project. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
-
-## Planning
-
-
+In late August of 2019, water reached the first village of Ilguilouda. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. My role was in leading the technical designs and raising over $43,000 of sponsorship in cash and materials to carry out the project. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
 
 ## Implementation
 
@@ -28,7 +24,6 @@ In late August of 2019, water reached the first village of Ilguilouda. In six we
 ![pipe]({{ site.url }}/assets/img/piping/DSC08987-min.JPG)
 ![pipe]({{ site.url }}/assets/img/piping/DSC08970-min.JPG)
 
-
 Izgouaren and Ilguilouda are two communities out of the 700 million people in the world that live in water scarcity. Let's press forward in our efforts to do good.
 
 ![pipe]({{ site.url }}/assets/img/piping/DSC09394-min.JPG)
@@ -39,8 +34,8 @@ Read a detailed log of this journey from planning to implementation [here](dswen
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
 
-Acknowledgements:
+### Acknowledgements:
 Robert Lawrence, Camille Rubeiz, Greg Scoby, Santiago Arnalich, Andrew Wedgner, Michael Conaboy, Sean Reischel, Ethan Cotton, Robert Prager, Jim Johnston
 
-Specials thanks to:
+### Specials thanks to:
 Plastics Pipe Municipal Advisory Board, PE Pipe Alliance, Borealis, Borouge, Plastima, CMGP, Menara Holdings, ISCO, McElroy
