@@ -25,7 +25,7 @@ If we created this, would the farmers even want to use it? To answer this questi
 Date: September 30, 2019
 
 <figure>
-  <img src="{{site.url}}/assets/img/xylo/1.png" alt="my alt text"/>
+  <img src="{{site.url}}/assets/img/xylo/1.png" alt="my alt text" height="50%" width="50%"/>
   <figcaption>Initial understanding of relevant stakeholders for whom we want to design for.</figcaption>
 </figure>
 
