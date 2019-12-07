@@ -6,6 +6,8 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
+Engineering for Humanity in Morocco| 2019
+
 ![landscape]({{ site.url }}/assets/img/piping/DSC09109-min.JPG)
 
 Ait Bayoud is a series of villages in an impoverished region of Morocco. Two villages in particular, Izgouaren and Ilguilouda, experience water scarcity due to their remote location. Residents, primarily women and children, walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities. The challenge is to create a six kilometer sustainable water distribution system in a terrain with a high rock content in the subgrade.

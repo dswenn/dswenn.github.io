@@ -10,11 +10,14 @@ Research @ Osaka University | 2016
 
 Flexible, organic electronics will enable and advance an Internet of Things future by allowing flexible, soft sensors to be omnipresent everywhere. The goal of this project was to create a flexible organic device that can read brain waves and control a robot. Demonstration of this would display the potential of an IoT future with flexible sensors.
 
-<iframe src="https://player.vimeo.com/video/308928243" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/308928243" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 To accomplish the demonstration, flexible organic circuits were fabricated in the clean room and integrated with a wireless electroencephalogram (EEG) device. The difficulty is in the amplification of brain waves micro-volt to milli-volt and in the integration itself which has never been done.
 
-![multi]({{ site.url }}/assets/img/robot/multi.jpg)
+<figure>
+  <img src="{{ site.url }}/assets/img/robot/multi.jpg" alt="circuit" height="50%" width="50%"/>
+  <figcaption>Layer by layer fabrication of a PSEUDO CMOS flexible organic circuit.</figcaption>
+</figure>
 
 Our fabricated circuit is a PSEUDO CMOS circuit which showed strong amplification and attained a voltage gain max of 1400. Our characteristic graphs had low hysteresis, high gain, and a sharp inverter curve; characteristics ideal for a transistor.
 
