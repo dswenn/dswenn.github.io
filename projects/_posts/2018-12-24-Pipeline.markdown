@@ -6,9 +6,9 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-Ait Bayoud is a series of villages in an impoverished region of Morocco. Two villages, Izgouaren and Ilguilouda, in particular experience water scarcity due to their remote location. Residents, primarily women and children, walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
+Ait Bayoud is a series of villages in an impoverished region of Morocco. Two villages in particular, Izgouaren and Ilguilouda, experience water scarcity due to their remote location. Residents, primarily women and children, walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
 
-See press on our project: [McElroy](http://press.mcelroy.com/pipeline-delivers-water-hope-to-remote-moroccan-village/) & [Water for the World](https://www.waterfortheworld.net/projects/providing-life-changing-safe-water-supply-to-rural-villages-in-morocco). See technical documents: [drawings](dswenn.com/assets/files/drawingpackage.pdf), [alternatives analysis](dswenn.com/assets/files/aa.pdf), [pre-trip report](), and [post-trip report]().
+See press on our project: [McElroy](http://press.mcelroy.com/pipeline-delivers-water-hope-to-remote-moroccan-village/) & [Water for the World](https://www.waterfortheworld.net/projects/providing-life-changing-safe-water-supply-to-rural-villages-in-morocco). See technical documents: [drawings]({{ site.url }}/assets/files/drawingpackage.pdf), [alternatives analysis]({{ site.url }}/assets/files/aa.pdf), [pre-trip report]({{ site.url }}/assets/files/pretrip.pdf), and [post-trip report]({{ site.url }}/assets/files/posttrip.pdf).
 
 ![pipe]({{ site.url }}/assets/img/piping/DSC09109-min.JPG)
 
@@ -16,21 +16,42 @@ In late August of 2019, water reached the first village of Ilguilouda. In six we
 
 ## Implementation
 
-![pipe]({{ site.url }}/assets/img/piping/DSC08865-min.JPG)
-![pipe]({{ site.url }}/assets/img/piping/DSC08864-min.JPG)
-![pipe]({{ site.url }}/assets/img/piping/DSC09066-min.JPG)
+### Surveying the Land
 
-![pipe]({{ site.url }}/assets/img/piping/DSC08965-min.JPG)
-![pipe]({{ site.url }}/assets/img/piping/DSC08987-min.JPG)
-![pipe]({{ site.url }}/assets/img/piping/DSC08970-min.JPG)
+![survey]({{ site.url }}/assets/img/piping/DSC08746-min.JPG)
+
+### Pipe
+
+![pipe in trucks]({{ site.url }}/assets/img/piping/DSC08865-min.JPG)
+![pipe community]({{ site.url }}/assets/img/piping/pipecommunity.JPG)
+![pipe transport]({{ site.url }}/assets/img/piping/DSC09020-min.JPG)
+![uncoil]({{ site.url }}/assets/img/piping/DSC09066-min.JPG)
+![fusion]({{ site.url }}/assets/img/piping/DSC09072-min.JPG)
+
+### Tank
+
+![rebar]({{ site.url }}/assets/img/piping/DSC08965-min.JPG)
+![mixing]({{ site.url }}/assets/img/piping/DSC08970-min.JPG)
+![tank]({{ site.url }}/assets/img/piping/tank.JPG)
+![completed tank]({{ site.url }}/assets/img/piping/DSC09178-min.JPG)
+
+### Solar Rack & Pump
+
+![build solar]({{ site.url }}/assets/img/piping/DSC09164-min.JPG)
+![process solar]({{ site.url }}/assets/img/piping/DSC09159-min.JPG)
+![water spray]({{ site.url }}/assets/img/piping/DSC09275-min.JPG)
+
+## Moving Forward
+
+![tapstands]({{ site.url }}/assets/img/piping/DSC09237-min.JPG)
 
 Izgouaren and Ilguilouda are two communities out of the 700 million people in the world that live in water scarcity. Let's press forward in our efforts to do good.
 
-![pipe]({{ site.url }}/assets/img/piping/DSC09394-min.JPG)
+![with the locals]({{ site.url }}/assets/img/piping/DSC09394-min.JPG)
 
-Read a detailed log of this journey from planning to implementation [here](dswenn.com/morocco).
+Read a detailed log of this journey from planning to implementation [here]({{ site.url }}/morocco).
 
-## Location
+### Location
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=31.3348657%2C-9.2975501&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{text-align:right;height:400px;width:700px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:700px;}</style></div>
 
