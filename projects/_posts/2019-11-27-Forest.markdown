@@ -103,7 +103,7 @@ We were surprised that he said trees "are life", are beautiful, inviting to gues
 
 We created a pamphlet for a forest beauty contest, in which 80% of forest creation fees would be covered by a philanthropic company that wants to see more beautiful forests in the world. The other 20% would be an investment by farmers. At the end of ten years, the company would come to select a winner for the owner of the most beautiful forest, the grand prize being ten lakhs rupees ($14,000). For fairness sake, forests would be judged based on the climatic conditions of each region. We said there were 12 climatic conditions in India. Last, there would be a local knowledge center to facilitate information exchange, guide farmers on how to create forests, and where they could get reimbursed. Strict accounting rules would be set for reimbursement. The contest does not guide farmers how to make income out of forests, but the local knowledge centers could give suggestions.
 
-![pamphlet]({{ site.url }}/assets/img/xylo/pamphlet.)
+![pamphlet]({{ site.url }}/assets/img/xylo/pamphlet.jpg)
 
 Six out of the six farmers we tested our prototype on wanted to start. Laddu-singh himself loved the idea. 
 
