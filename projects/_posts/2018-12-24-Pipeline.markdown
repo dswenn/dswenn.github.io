@@ -6,14 +6,14 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-Engineering for Humanity in Morocco| 2019
+Engineering for Humanity in Morocco | 2019
+
+At engineering school, I focused part of my time designing and successfully implementing a six kilometer water distribution system for two villages, Izgouaren and Ilguiloda, in a rural part of Morocco. These water-scarce villages are the most remote and poor of the series of villages in the Ait Bayoud commune. Residents, primarily women and children, would walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
 
 <figure>
   <img src="{{ site.url }}/assets/img/piping/DSC09109-min.JPG" alt="circuit" height="100%" width="100%"/>
   <figcaption>The rockscape of Ait Bayoud.</figcaption>
 </figure>
-
-Ait Bayoud is a series of villages in an impoverished region of Morocco. Two villages in particular, Izgouaren and Ilguilouda, experience water scarcity due to their remote location. Residents, primarily women and children, walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities. The challenge is to create a six kilometer sustainable water distribution system in a terrain with a high rock content in the subgrade.
 
 In late August of 2019, water reached the first village of Ilguilouda. In six weeks time, we gained the trust of the community and worked with them to construct a 38,000 L reinforced concrete tank, a solar rack holding 20 solar panels, four tapstands, installed a solar controller, and laid four km of PE100 pipe. My role was in designing the entire hydraulic system, raising over $43,000 of sponsorship in cash and materials to carry out the project, and leading in-country implementation from start to finish. Today, life is different for the community of Ilguilouda, and soon for Izgouaren.
 
@@ -21,8 +21,10 @@ See press on our project: [McElroy](http://press.mcelroy.com/pipeline-delivers-w
 
 ## Implementation
 
-### Surveying the Land
+Upon arrival, the first step was to survey the land using an abney hand level. 
+![ABNEY]({{ site.url }}/assets/img/piping/abney.PNG)
 
+After reading the manual, I headed into the field. At the time, I was the only EWB member 
 ![survey]({{ site.url }}/assets/img/piping/DSC08746-min.JPG)
 
 ### Pipe
