@@ -64,6 +64,8 @@ For our progress report click [here]({{ site.url }}/assets/files/designreport.pd
 
 ## Design Sprint in Belawadi, Karnataka
 
+At Alaap, I also facilitate design thinking sprints to help us uncover the needs of the stakeholders within the system map.
+
 To understand the needs of farmers, I facilitated a design sprint for our team at Alaap. Our group was inspired by Basavaraj, a 1.5 acre smallholder farmer who practices rain fed agriculture and is currently working as a daily wage labourer to supplement his income.
 
 <figure>
