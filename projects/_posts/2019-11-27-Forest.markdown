@@ -95,7 +95,7 @@ Despite the assurance of a monthly income, our solution didn't address his deepe
 To understand how needs differ in different contexts, we traveled to the most desertified state in India, Rajasthan. There we met and were inspired by Laddu-singh, a 39 year old farmer and contractor/migrant worker with a 20 acre farm.
 
 <figure>
-  <img src="{{ site.url }}/assets/img/xylo/2.jpg" alt="basavaraj" height="75%" width="75%"/>
+  <img src="{{ site.url }}/assets/img/xylo/DSC09960.JPG" alt="laddu" height="75%" width="75%"/>
   <figcaption>Laddu-singh.</figcaption>
 </figure>
 
@@ -105,4 +105,8 @@ We created a pamphlet for a forest beauty contest, in which 80% of forest creati
 
 ![pamphlet]({{ site.url }}/assets/img/xylo/pamphlet.)
 
-Six out of the six farmers we tested our prototype on wanted to start. Laddu-singh himself loved the idea. It is important to note that many of the men in the village have turned to being a migrant worker. Perhaps what migrant workers like Laddu-singh need is an economically viable reason to return home to and be reunited with their families; the latter being a particularly strong need. What Laddu-singh also showed us was that beauty was also an unarticulated need.
+Six out of the six farmers we tested our prototype on wanted to start. Laddu-singh himself loved the idea. 
+
+![testing]({{ site.url }}/assets/img/xylo/test.png)
+
+It is important to note that many of the men in the village have turned to being a migrant worker. Perhaps what migrant workers like Laddu-singh need is an economically viable reason to return home to and be reunited with their families; the latter being a particularly strong need. What Laddu-singh also showed us was that beauty was also an unarticulated need.
