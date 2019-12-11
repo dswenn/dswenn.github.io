@@ -5,7 +5,7 @@ date:   2017-10-31 00:09:50 -0700
 category: morocco
 ---
 
-![char]({{ site.url }}/assets/img/piping/threads3.JPG)
+![char]({{ site.url }}/assets/img/piping/threads3.jpg)
 
 Francesco and everyone else in the club hadn't an idea why the pipes were leaking. 1.4 km of 2" steel threaded pipes, amounting to over $20,000 spent, laid on a rockscape in a remote Moroccan village.
 
