@@ -90,7 +90,7 @@ Read a detailed log of this journey from planning to implementation [here]({{ si
 
 ### Acknowledgements:
 
-None of this would've been possible without the generous mentorship of all the professionals along the way. A huge thanks to my mentors: Robert Lawrence, Camille Rubeiz, Greg Scoby, Santiago Arnalich, and Andrew Wedgner. A thanks to tank and water quality mentors: Michael Conaboy, Sean Reischel, Ethan Cotton, and Robert Prager. A indebted gratitude to our sponsors and supporters: Plastics Pipe Municipal Advisory Board, PE Pipe Alliance, Borealis, Borouge, Plastima, CMGP, Menara Holdings, ISCO, and McElroy.
+None of this would've been possible without the generous mentorship of all the professionals along the way. A huge thanks to my mentors: Robert Lawrence, Camille Rubeiz, Greg Scoby, Santiago Arnalich, and Andrew Wedgner. A thanks to tank and water quality mentors: Michael Conaboy, Sean Reischel, Ethan Cotton, and Robert Prager. A indebted gratitude to our sponsors and supporters: Plastics Pipe Municipal Advisory Board, PE Pipe Alliance, Borealis, Borouge, Plastima, CMGP, Menara Holdings, ISCO (Steve McDonald), and McElroy (Jim Johnston).
 
 ### Implementing Team:
 
