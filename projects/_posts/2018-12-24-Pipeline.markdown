@@ -6,7 +6,7 @@ category: projects
 preview: /assets/img/piping/DSC09066.JPG
 ---
 
-Engineering for Humanity in Morocco | 2019
+Engineers without Borders - Morocco | 2019
 
 At engineering school, I focused part of my time designing and successfully implementing a six kilometer water distribution system for two villages, Izgouaren and Ilguiloda, in a rural part of Morocco. These water-scarce villages are the most remote and poor of the series of villages in the Ait Bayoud commune. Residents, primarily women and children, would walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
 
