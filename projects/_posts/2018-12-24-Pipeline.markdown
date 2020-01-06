@@ -82,7 +82,7 @@ In late August of 2019, water reached the first village of Ilguilouda. In six we
 
 ![with the locals]({{ site.url }}/assets/img/piping/DSC09394-min.JPG)
 
-Read a detailed log of this journey from planning to implementation [here]({{ site.url }}/morocco).
+Read a detailed log of this journey from planning to implementation [here]({{ site.url }}/morocco) (WIP).
 
 ### Location
 

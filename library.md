@@ -78,7 +78,7 @@ I've graduated and started working full time, which means evenings and weekends 
 34. Catching Homelessness by Josephine Ensign
 35. The Periodic Table by Primo Levi
 
-## Fellowship Year
+## AIF Fellowship Year - 2019 to 2020
 
 36. The Hidden Life of Trees: What They Feel, How They Communicate by Peter Wohlleben
 37. The Green Belt Movement by Wangari Maathai
@@ -88,12 +88,13 @@ I've graduated and started working full time, which means evenings and weekends 
 41. Immunity to Change by Robert Kegan and Lisa Lahey
 42. Sapiens by Yuval Noah Harari
 43. Poor Economics by Abhijit Banerjee and Esther Duflo
+44. Flights by Olga Tokarczuk
+45. The Field Study Handbook by Jan Chipchase
  
 ## Currently Reading
-44. Flights by Olga Tokarczuk (35%)
+44. Thinking in Systems: A Primer by Donella H. Meadows
 
 ## Reading List
-45. The Field Study Handbook by Jan Chipchase (50%)
 46. Prophet by Kahlil Gibran (30%)
 47. The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges by Zaid Hassan
 48. Long Walk to Freedom by Nelson Mandela
@@ -101,7 +102,6 @@ I've graduated and started working full time, which means evenings and weekends 
 50. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
 51. Theory U: Leading from the Future as It Emerges by Otto Scharmer
 52. Growing Wings On the Way by Rosalind Armson
-53. Thinking in Systems: A Primer by Donella H. Meadows
+53. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
 54. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
-56. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
