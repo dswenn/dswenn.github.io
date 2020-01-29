@@ -90,13 +90,14 @@ I've graduated and started working full time, which means evenings and weekends 
 43. Poor Economics by Abhijit Banerjee and Esther Duflo
 44. Flights by Olga Tokarczuk
 45. The Field Study Handbook by Jan Chipchase
+46. The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges by Zaid Hassan
+47. The Carbon Farming Solution by Eric Toensmeier
  
 ## Currently Reading
 44. Thinking in Systems: A Primer by Donella H. Meadows
 
 ## Reading List
-46. Prophet by Kahlil Gibran (30%)
-47. The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges by Zaid Hassan
+47. Prophet by Kahlil Gibran (30%)
 48. Long Walk to Freedom by Nelson Mandela
 49. Designing Regenerative Cultures by Daniel Wahl
 50. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
@@ -105,3 +106,6 @@ I've graduated and started working full time, which means evenings and weekends 
 53. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
 54. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
+56. On China by Henry Kissinger
+57. Creative Confidence by Tom & David Kelley
+58. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
