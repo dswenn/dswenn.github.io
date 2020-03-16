@@ -92,9 +92,11 @@ I've graduated and started working full time, which means evenings and weekends 
 45. The Field Study Handbook by Jan Chipchase
 46. The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges by Zaid Hassan
 47. The Carbon Farming Solution by Eric Toensmeier
+48. Creative Confidence by Tom & David Kelley
+49. Thinking in Systems: A Primer by Donella H. Meadows
  
 ## Currently Reading
-44. Thinking in Systems: A Primer by Donella H. Meadows
+49. Deep Nutrition by Catherine Shanahan M.D.
 
 ## Reading List
 47. Prophet by Kahlil Gibran (30%)
@@ -107,5 +109,6 @@ I've graduated and started working full time, which means evenings and weekends 
 54. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
 56. On China by Henry Kissinger
-57. Creative Confidence by Tom & David Kelley
-58. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+58. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
+59. Persepolis by Marjane Satrapi

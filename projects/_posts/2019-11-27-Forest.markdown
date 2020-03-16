@@ -73,7 +73,7 @@ To understand the needs of farmers, I facilitated a design sprint for our team a
   <figcaption>Basavaraj (left) and his family.</figcaption>
 </figure>
 
-When we first met Basavaraj, we were surprised to notice that he became a daily wage laborer six years ago when a drought hit his farm. We wonder if this meant that he felt that he had no choice other than daily wage labor. We thought it would be gamechanging to give him more options to fulfill his financial needs that given return in the short term, is easy to understand and to execute. 
+When we first met Basavaraj, we were surprised to notice that he became a daily wage laborer six years ago when a drought hit his farm. We wonder if this meant that he felt that he had no choice other than daily wage labor. We thought it would be gamechanging to give him more options to fulfill his financial needs that gave return in the short term, is easy to understand and to execute. 
 
 <div class="gallery" data-columns="2">
     <img src="/assets/img/xylo/DSC09773.jpg">
