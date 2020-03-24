@@ -1,19 +1,29 @@
 ---
 layout: post
 title:  "A Homecoming Story"
-date:   2020-01-05 00:09:50 -0700
+date:   2020-03-24 00:09:50 -0700
 category: journal
 ---
 
 Homecoming
 
-![IDENTIFY]({{ site.url }}/assets/img/academic/home.DIB)
+![IDENTIFY]({{ site.url }}/assets/img/academic/cupertinotown.jpg)
+
+
 Figure 1 A cartoon rendering of my house in Cupertino, California; a homage to my childhood days of playing Pokémon.
 Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
 
  
 The first job I ever held in my life started in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves “Bro My God”. I still remember fondly, my first introduction to science: creating crystals from powders, using electron microscopes, and hearing the constant hum of the vacuum.
  
+<span class="img_container center" style="display: block;">
+    <img alt="test" src="{{ site.url }}/assets/img/academic/flymap.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <span class="img_caption" style="display: block; text-align: center;">A world map.</span>
+</span>
+<span class="img_container center" style="display: block;">
+    <img alt="test" src="dswenn.com/assets/img/academic/flymap.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <span class="img_caption" style="display: block; text-align: center;">A world map.</span>
+</span>
 Figure 2 A world map.
 The world became large. When I got the opportunity to research in Japan, it was my first time living abroad as an adult in a foreign country. Japan showed me that there can be different ways of governance, doing, and of being.
  
