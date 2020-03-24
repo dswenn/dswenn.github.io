@@ -11,10 +11,16 @@ category: journal
 Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
  
 <figure>
+  <img src="{{ site.url }}/assets/img/academic/willamette.DIB" alt="my alt text"/>
+  <figcaption>The campus of Willamette University. The truck and monkey are for depiction purposes only. We actually came in a 2003 Volkswagen GTI and did not have a mover as such.</figcaption>
+</figure>
+I arrived onto the campus of Willamette University in Salem, Oregon. It was a nice campus, the oldest university in the west, and had a stream running through the center of it. My parents and sister had come to drop me off. It was here I would spend the next three years of my life. 
+
+<figure>
   <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>The bayou was home to alligators.</figcaption>
 </figure>
-The first job I ever held in my life started in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves “Bro My God”. I still remember fondly, my first introduction to science: creating crystals from powders, using electron microscopes, and hearing the constant hum of the vacuum.
+The first job I ever held in my life was in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves _Bro My God_. I still remember fondly, my first introduction to science: melting powders to form crystals, using electron microscopes, and hearing the constant hum of the vacuum.
  
 <figure>
   <img src="{{ site.url }}/assets/img/academic/flymap.png" alt="my alt text"/>
@@ -27,6 +33,12 @@ The world became large. When I got the opportunity to research in Japan, it was 
   <figcaption>Sometimes I would ride to work along the historical Danube River.</figcaption>
 </figure>
 When I was in Austria, I bought a 1981 green PUCH and rode in the Alps, along the Danube River, and through the city of Vienna. In this world full of castles, ruins, and cathedrals, I found myself lost in a suspended historicity.
+
+<figure>
+  <img src="{{ site.url }}/assets/img/academic/newyork.DIB" style="width:100%" alt="my alt text"/>
+  <figcaption>Overlooking the Hudson River from East Campus Building in Morningside.</figcaption>
+</figure>
+My 18th floor high rise was graced by our Sun’s daily departure over the Hudson River. Sometimes I would peek my head out the window to see downtown Manhattan's sky towers fitting perfectly into its uniform grid. I had never worked harder than I had during my time at Columbia. New York afforded me the opportunity to grow beyond my imagined years.
 
 <figure>
   <img src="{{ site.url }}/assets/img/academic/class.DIB" style="width:100%" alt="my alt text"/>
