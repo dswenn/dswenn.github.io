@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Year of Relentless Dreaming"
-date:   2019-01-05 00:09:50 -0700
+date:   2020-01-05 00:09:50 -0700
 category: journal
 ---
 
