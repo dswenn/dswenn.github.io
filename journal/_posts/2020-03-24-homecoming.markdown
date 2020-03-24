@@ -51,7 +51,7 @@ It’s month seven out of ten here in Karnataka, India. Farmers have taught me t
   <img src="{{ site.url }}/assets/img/academic/home.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>A representation of the homecoming that is soon to come.</figcaption>
 </figure>
-It’s now time to head back to America. In September, I begin graduate school at Stanford University under the Design Impact program. A homecoming, six years in the making. A dream sometimes too big to speak of. A possibility only made possible by the those that lent me belief. A lifetime of gratitude to the friends, mentors, and family.
+It’s now time to head back to America. In September, I begin graduate school at Stanford University under the [Design Impact program](https://designimpact.stanford.edu/). A homecoming, six years in the making. A dream sometimes too big to speak of. A possibility only made possible by the those that lent me belief. A lifetime of gratitude to my friends, mentors, and family.
 
 Three months remain until my flight back home. The chaotic times are soon to come, and with a light heart, so too shall they pass. 
 
