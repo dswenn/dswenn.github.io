@@ -10,6 +10,10 @@ category: journal
 </figure>
 Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
  
+<figure>
+  <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" style="width:100%" alt="my alt text"/>
+  <figcaption>The bayou was home to alligators.</figcaption>
+</figure>
 The first job I ever held in my life started in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves “Bro My God”. I still remember fondly, my first introduction to science: creating crystals from powders, using electron microscopes, and hearing the constant hum of the vacuum.
  
 <figure>
@@ -17,9 +21,9 @@ The first job I ever held in my life started in the South. Here in the Bayou, I 
   <figcaption>A world map.</figcaption>
 </figure>
 The world became large. When I got the opportunity to research in Japan, it was my first time living abroad as an adult in a foreign country. Japan showed me that there can be different ways of governance, doing, and of being.
- 
+
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" style="width:100%" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/bike.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>Sometimes I would ride to work along the historical Danube River.</figcaption>
 </figure>
 When I was in Austria, I bought a 1981 green PUCH and rode in the Alps, along the Danube River, and through the city of Vienna. In this world full of castles, ruins, and cathedrals, I found myself lost in a suspended historicity.
