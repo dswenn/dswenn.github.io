@@ -11,7 +11,7 @@ category: journal
 Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
  
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/willamette.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/willamette.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>The campus of Willamette University. The truck and monkey are for depiction purposes only. We actually came in a 2003 Volkswagen GTI and did not have a mover as such.</figcaption>
 </figure>
 I arrived onto the campus of Willamette University in Salem, Oregon. It was a nice campus, the oldest university in the west, and had a stream running through the center of it. My parents and sister had come to drop me off. It was here I would spend the next three years of my life. 
