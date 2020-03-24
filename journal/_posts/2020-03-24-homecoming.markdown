@@ -19,25 +19,25 @@ The first job I ever held in my life started in the South. Here in the Bayou, I 
 The world became large. When I got the opportunity to research in Japan, it was my first time living abroad as an adult in a foreign country. Japan showed me that there can be different ways of governance, doing, and of being.
  
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>Sometimes I would ride to work along the historical Danube River.</figcaption>
 </figure>
 When I was in Austria, I bought a 1981 green PUCH and rode in the Alps, along the Danube River, and through the city of Vienna. In this world full of castles, ruins, and cathedrals, I found myself lost in a suspended historicity.
 
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/class.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/class.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>Studying at the American Indian Institute for Studies in Jaipur, Rajasthan.</figcaption>
 </figure>
 In India, I performed mouth aerobatics to learn Hindi. My golden compass led me to a vast culture to which I would never fully understand. 
 
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/morocco.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/morocco.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>The rockscape of Morocco.</figcaption>
 </figure>
 In the desert hills of Morocco, I sided with the Berber people and with them, channeled water to their community. Daily, I ate meals made from clay pots, mutton brains over couscous, and drank five cups of piping hot mint tea doused with blocks of sugar.
  
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/forestfarm.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/forestfarm.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>Interviewing farmers on their farms in Sirsi, Karnataka.</figcaption>
 </figure>
 It’s month seven out of ten here in Karnataka, India. Farmers have taught me the importance of our connection to the clay soils to which we come from. After trying wild foraged honey, groundnut chutney, and a magical red pear, I’ve come to know a world of richness and our original identities as stewards of land.
