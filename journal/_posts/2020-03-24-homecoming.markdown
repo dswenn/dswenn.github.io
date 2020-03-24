@@ -8,7 +8,7 @@ category: journal
   <img src="{{ site.url }}/assets/img/academic/cupertinotown.jpg" alt="my alt text"/>
   <figcaption>A cartoon rendering of my house in Cupertino, California; a homage to my childhood days of playing Pokémon.</figcaption>
 </figure>
-Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
+Six years ago, I left home. Little did I know, I embarked on a journey that led me to live in seven different places, spanning five countries. 
  
 <figure>
   <img src="{{ site.url }}/assets/img/academic/willamette.DIB" style="width:100%" alt="my alt text"/>
@@ -18,7 +18,7 @@ I arrived onto the campus of Willamette University in Salem, Oregon. It was a ni
 
 <figure>
   <img src="{{ site.url }}/assets/img/academic/louisiana.DIB" style="width:100%" alt="my alt text"/>
-  <figcaption>The bayou was home to alligators.</figcaption>
+  <figcaption>The bayou in Louisiana was home to alligators.</figcaption>
 </figure>
 The first job I ever held in my life was in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves _Bro My God_. I still remember fondly, my first introduction to science: melting powders to form crystals, using electron microscopes, and hearing the constant hum of the vacuum.
  
