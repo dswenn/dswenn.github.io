@@ -38,7 +38,7 @@ When I was in Austria, I bought a 1981 green PUCH and rode in the Alps, along th
   <img src="{{ site.url }}/assets/img/academic/newyork.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>Overlooking the Hudson River from East Campus Building in Morningside.</figcaption>
 </figure>
-My 18th floor high rise was graced by our Sun’s daily departure over the Hudson River. Sometimes I would peek my head out the window to see downtown Manhattan's sky towers fitting perfectly into its uniform grid. I had never worked harder than I had during my time at Columbia. New York afforded me the opportunity to grow beyond my imagined years.
+For two years I stayed in New York. My 18th floor high rise was graced by our Sun’s daily departure over the Hudson River. Sometimes I would peek my head out the window to see downtown Manhattan's sky towers fitting perfectly into its uniform grid. I had never worked harder than I had during my time at Columbia. New York afforded me the opportunity to grow beyond my imagined years.
 
 <figure>
   <img src="{{ site.url }}/assets/img/academic/class.DIB" style="width:100%" alt="my alt text"/>
