@@ -42,7 +42,7 @@ For two years I stayed in New York. My 18th floor high rise was graced by our Su
 
 <figure>
   <img src="{{ site.url }}/assets/img/academic/class.DIB" style="width:100%" alt="my alt text"/>
-  <figcaption>Studying at the American Indian Institute for Studies in Jaipur, Rajasthan.</figcaption>
+  <figcaption>Studying at the American Institute for Indian Studies in Jaipur, Rajasthan.</figcaption>
 </figure>
 In India, I performed mouth aerobatics to learn Hindi. My golden compass led me to a vast culture to which I would never fully understand. 
 
