@@ -45,7 +45,7 @@ In the desert hills of Morocco, I sided with the Berber people and with them, ch
   <figcaption>Interviewing farmers on their farms in Sirsi, Karnataka.</figcaption>
 </figure>
 It’s month seven out of ten here in Karnataka, India. Farmers have taught me the importance of our connection to the clay soils to which we come from. After trying wild foraged honey, groundnut chutney, and a magical red fig, I’ve come to know a world of richness and our original identities as stewards of land.
-“We are the Kings, we are also the labourers. This is true freedom.”  - Viswanath Hegde
+> “We are the Kings, we are also the labourers. This is true freedom.”  - Viswanath Hegde
  
 <figure>
   <img src="{{ site.url }}/assets/img/academic/home.DIB" style="width:100%" alt="my alt text"/>
