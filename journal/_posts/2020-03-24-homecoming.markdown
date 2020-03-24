@@ -12,6 +12,11 @@ category: journal
 | *A cartoon rendering of my house in Cupertino, California; a homage to my childhood days of playing Pokémon.* |
 Six years ago, I left home. Little did I know, I embarked on a journey that would lead me to live in seven different places, spanning five countries. 
 
+<figure>
+  <img src="{{ site.url }}/assets/img/academic/cupertinotown.jpg" alt="my alt text"/>
+  <figcaption>A cartoon rendering of my house in Cupertino, California; a homage to my childhood days of playing Pokémon.</figcaption>
+</figure>
+
  
 The first job I ever held in my life started in the South. Here in the Bayou, I saw alligators, had southern fried chicken, and learned how to cook with my roommates. We called ourselves “Bro My God”. I still remember fondly, my first introduction to science: creating crystals from powders, using electron microscopes, and hearing the constant hum of the vacuum.
  
