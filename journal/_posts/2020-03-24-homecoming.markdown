@@ -44,7 +44,7 @@ It’s month seven out of ten here in Karnataka, India. Farmers have taught me t
 “We are the Kings, we are also the labourers. This is true freedom.”  - Viswanath Hegde
  
 <figure>
-  <img src="{{ site.url }}/assets/img/academic/home.DIB" alt="my alt text"/>
+  <img src="{{ site.url }}/assets/img/academic/home.DIB" style="width:100%" alt="my alt text"/>
   <figcaption>A representation of the homecoming that is soon to come.</figcaption>
 </figure>
 It’s now time to head back to America. In September, I begin graduate school at Stanford University under the Design Impact program. A homecoming, six years in the making. A dream sometimes too big to speak of. A possibility only made possible by the those that lent me belief. A lifetime of gratitude to the friends, mentors, and family.
