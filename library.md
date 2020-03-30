@@ -94,9 +94,10 @@ I've graduated and started working full time, which means evenings and weekends 
 47. The Carbon Farming Solution by Eric Toensmeier
 48. Creative Confidence by Tom & David Kelley
 49. Thinking in Systems: A Primer by Donella H. Meadows
+50. Deep Nutrition by Catherine Shanahan M.D.
  
 ## Currently Reading
-49. Deep Nutrition by Catherine Shanahan M.D.
+51. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
 
 ## Reading List
 47. Prophet by Kahlil Gibran (30%)
@@ -110,5 +111,6 @@ I've graduated and started working full time, which means evenings and weekends 
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
 56. On China by Henry Kissinger
 57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-58. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
-59. Persepolis by Marjane Satrapi
+58. Persepolis by Marjane Satrapi
+59. White Teeth by Zadie Smith
+60. toast by Nigel Slater
