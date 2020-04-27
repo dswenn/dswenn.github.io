@@ -96,23 +96,23 @@ I've graduated and started working full time, which means evenings and weekends 
 49. Thinking in Systems: A Primer by Donella H. Meadows
 50. Deep Nutrition by Catherine Shanahan M.D.
 51. Designing Regenerative Cultures by Daniel Wahl
+52. Growing Wings On the Way by Rosalind Armson
  
 ## Currently Reading
-52. Growing Wings On the Way by Rosalind Armson
+53. Long Walk to Freedom by Nelson Mandela
 
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
-49. Long Walk to Freedom by Nelson Mandela
+49. Theory U: Leading from the Future as It Emerges by Otto Scharmer
 50. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
-51. Theory U: Leading from the Future as It Emerges by Otto Scharmer
-52. Prophet by Kahlil Gibran (30%)
-53. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
-54. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
-55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
-56. On China by Henry Kissinger
-57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-58. Persepolis by Marjane Satrapi
-59. White Teeth by Zadie Smith
-60. toast by Nigel Slater
-61. The Mysterious Island by Jules Verne
-62. The Unsettling of America: Culture and Agriculture by Wendell Berry
+51. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
+52. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
+53. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
+54. Prophet by Kahlil Gibran (30%)
+55. On China by Henry Kissinger
+56. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+57. Persepolis by Marjane Satrapi
+58. White Teeth by Zadie Smith
+59. toast by Nigel Slater
+60. The Mysterious Island by Jules Verne
+61. The Unsettling of America: Culture and Agriculture by Wendell Berry
