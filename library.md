@@ -99,10 +99,12 @@ I've graduated and started working full time, which means evenings and weekends 
 52. Growing Wings On the Way by Rosalind Armson
 53. Transformative Scenario Planning: Working Together to Change the Future by Adam Kahane
 54. The Intergalactic Design Guide: Harnessing the Creative Potential of Social Design by Cheryl Heller
+55. The Art of Innovation by Tom Kelley
 
 ## Currently Reading
-53. The Circular Economy – A User’s Guide by Walter R. Stahel (24%)
-54. The Art of Innovation by Tom Kelley (19%)
+56. The Circular Economy – A User’s Guide by Walter R. Stahel (26%)
+57. The Earth Discipline by Stewart Brand (20%)
+
 
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
