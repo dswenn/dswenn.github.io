@@ -104,8 +104,8 @@ I've graduated and started working full time, which means evenings and weekends 
 57. The Circular Economy – A User’s Guide by Walter R. Stahel
 
 ## Currently Reading
-58. Manifesto for a Moral Revolution by Jacqueline Novogratz
-59. Why We're Polarized by Ezra Klein
+58. Manifesto for a Moral Revolution by Jacqueline Novogratz (54%)
+59. Why We're Polarized by Ezra Klein (3%)
 
 
 ## Reading List
