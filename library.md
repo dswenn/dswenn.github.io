@@ -101,9 +101,11 @@ I've graduated and started working full time, which means evenings and weekends 
 54. The Intergalactic Design Guide: Harnessing the Creative Potential of Social Design by Cheryl Heller
 55. The Art of Innovation by Tom Kelley
 56. The Whole Earth Discipline by Stewart Brand
+57. The Circular Economy – A User’s Guide by Walter R. Stahel
 
 ## Currently Reading
-56. The Circular Economy – A User’s Guide by Walter R. Stahel (26%)
+58. Manifesto for a Moral Revolution by Jacqueline Novogratz
+59. Why We're Polarized by Ezra Klein
 
 
 ## Reading List
@@ -119,5 +121,3 @@ I've graduated and started working full time, which means evenings and weekends 
 57. Persepolis by Marjane Satrapi 
 58. toast by Nigel Slater
 60. The Mysterious Island by Jules Verne
-
-
