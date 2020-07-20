@@ -102,11 +102,12 @@ I've graduated and started working full time, which means evenings and weekends 
 55. The Art of Innovation by Tom Kelley
 56. The Whole Earth Discipline by Stewart Brand
 57. The Circular Economy – A User’s Guide by Walter R. Stahel
+58. Manifesto for a Moral Revolution by Jacqueline Novogratz
 
 ## Currently Reading
-58. Manifesto for a Moral Revolution by Jacqueline Novogratz (54%)
 59. Why We're Polarized by Ezra Klein (3%)
-
+60. How Buildings Learn by Stewart Brand (8%)
+61. Long Walk to Freedom by Nelson Mandela (60%)
 
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
@@ -114,10 +115,9 @@ I've graduated and started working full time, which means evenings and weekends 
 50. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
 51. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
 52. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
-53. Long Walk to Freedom by Nelson Mandela (4%)
-54. Prophet by Kahlil Gibran (30%)
-55. On China by Henry Kissinger
-56. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-57. Persepolis by Marjane Satrapi 
-58. toast by Nigel Slater
-60. The Mysterious Island by Jules Verne
+53. Prophet by Kahlil Gibran (30%)
+54. On China by Henry Kissinger
+55. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+56. Persepolis by Marjane Satrapi 
+57. toast by Nigel Slater
+58. The Mysterious Island by Jules Verne
