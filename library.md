@@ -105,7 +105,7 @@ I've graduated and started working full time, which means evenings and weekends 
 58. Manifesto for a Moral Revolution by Jacqueline Novogratz
 
 ## Currently Reading
-59. Why We're Polarized by Ezra Klein (3%)
+59. Why We're Polarized by Ezra Klein (8%)
 60. How Buildings Learn by Stewart Brand (8%)
 61. Long Walk to Freedom by Nelson Mandela (60%)
 
