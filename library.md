@@ -116,24 +116,23 @@ I've graduated and started working full time, which means evenings and weekends 
 61. On China by Henry Kissinger (20%)
 62. Influence by Robert B. Cialdini (52%)
 
-
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
-49. Theory U: Leading from the Future as It Emerges by Otto Scharmer
-50. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
-51. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
-52. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
-53. Prophet by Kahlil Gibran (30%)
-54. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-55. Persepolis by Marjane Satrapi 
-56. toast by Nigel Slater
-57. The Mysterious Island by Jules Verne
-58. The Fire Next Time by James Baldwin
-59. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
-60. The Divine Comedy by Dante Alighieri
+48. The Story of my Experiments with Truth by M.K. Gandhi
+49. The Divine Comedy by Dante Alighieri
+50. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
+51. Theory U: Leading from the Future as It Emerges by Otto Scharmer
+52. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
+53. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
+54. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
+55. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
+56. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+57. Persepolis by Marjane Satrapi 
+58. toast by Nigel Slater
+59. The Mysterious Island by Jules Verne
+60. The Fire Next Time by James Baldwin
 61. A Fortune-Teller Told Me by Tiziano Terzani
 62. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
-63. The Story of my Experiments with Truth by M.K. Gandhi
-64. The Culture Code by Clotaire Rapaille
-65. The Book of Awakening by Mark Nepo
-66. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
+63. The Culture Code by Clotaire Rapaille
+64. The Book of Awakening by Mark Nepo
+65. Prophet by Kahlil Gibran (30%)
