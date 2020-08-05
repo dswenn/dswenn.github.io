@@ -104,10 +104,18 @@ I've graduated and started working full time, which means evenings and weekends 
 57. The Circular Economy – A User’s Guide by Walter R. Stahel
 58. Manifesto for a Moral Revolution by Jacqueline Novogratz
 
+## Summer 2020
+
+59. Long Walk to Freedom by Nelson Mandela
+60. Essentials by David Whyte
+61. Get Together by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
+
 ## Currently Reading
 59. Why We're Polarized by Ezra Klein (8%)
 60. How Buildings Learn by Stewart Brand (8%)
-61. Long Walk to Freedom by Nelson Mandela (60%)
+61. On China by Henry Kissinger (20%)
+62. Influence by Robert B. Cialdini (52%)
+
 
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
@@ -116,8 +124,16 @@ I've graduated and started working full time, which means evenings and weekends 
 51. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
 52. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
 53. Prophet by Kahlil Gibran (30%)
-54. On China by Henry Kissinger
-55. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-56. Persepolis by Marjane Satrapi 
-57. toast by Nigel Slater
-58. The Mysterious Island by Jules Verne
+54. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+55. Persepolis by Marjane Satrapi 
+56. toast by Nigel Slater
+57. The Mysterious Island by Jules Verne
+58. The Fire Next Time by James Baldwin
+59. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
+60. The Divine Comedy by Dante Alighieri
+61. A Fortune-Teller Told Me by Tiziano Terzani
+62. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
+63. The Story of my Experiments with Truth by M.K. Gandhi
+64. The Culture Code by Clotaire Rapaille
+65. The Book of Awakening by Mark Nepo
+66. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
