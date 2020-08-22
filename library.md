@@ -109,30 +109,35 @@ I've graduated and started working full time, which means evenings and weekends 
 59. Long Walk to Freedom by Nelson Mandela
 60. Essentials by David Whyte
 61. Get Together by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
+62. Influence by Robert B. Cialdini
+63. Long Story Short by Margot Leitman
 
 ## Currently Reading
-59. Why We're Polarized by Ezra Klein (8%)
-60. How Buildings Learn by Stewart Brand (8%)
-61. On China by Henry Kissinger (20%)
-62. Influence by Robert B. Cialdini (52%)
+64. Theory U: Leading from the Future as It Emerges by Otto Scharmer (42%)
 
 ## Reading List
 47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
-48. The Story of my Experiments with Truth by M.K. Gandhi
-49. The Divine Comedy by Dante Alighieri
-50. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
-51. Theory U: Leading from the Future as It Emerges by Otto Scharmer
-52. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
-53. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
-54. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
-55. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
-56. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-57. Persepolis by Marjane Satrapi 
-58. toast by Nigel Slater
-59. The Mysterious Island by Jules Verne
-60. The Fire Next Time by James Baldwin
-61. A Fortune-Teller Told Me by Tiziano Terzani
-62. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
-63. The Culture Code by Clotaire Rapaille
-64. The Book of Awakening by Mark Nepo
-65. Prophet by Kahlil Gibran (30%)
+48. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
+49. Lo-Tek by Julia Watson
+50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
+51. The Story of my Experiments with Truth by M.K. Gandhi
+52. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
+53. Polarity Management: Identifying and Managing Unsolvable Problems by Barry Johnson
+54. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
+55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
+56. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
+57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
+58. Persepolis by Marjane Satrapi 
+59. toast by Nigel Slater
+60. The Mysterious Island by Jules Verne
+61. The Fire Next Time by James Baldwin
+62. A Fortune-Teller Told Me by Tiziano Terzani
+63. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
+64. The Culture Code by Clotaire Rapaille
+65. The Book of Awakening by Mark Nepo
+66. Prophet by Kahlil Gibran (30%)
+67. The Divine Comedy by Dante Alighieri
+68. Why We're Polarized by Ezra Klein (8%)
+69. How Buildings Learn by Stewart Brand (8%)
+70. On China by Henry Kissinger (20%)
+71. मंटो - पंद्रह कहानियाँ selected by नंदिता दास 
