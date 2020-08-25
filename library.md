@@ -111,14 +111,14 @@ I've graduated and started working full time, which means evenings and weekends 
 61. Get Together by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 62. Influence by Robert B. Cialdini
 63. Long Story Short by Margot Leitman
+64. Theory U: Leading from the Future as It Emerges by Otto Scharmer
 
 ## Currently Reading
-64. Theory U: Leading from the Future as It Emerges by Otto Scharmer (42%)
+65. Lo-Tek by Julia Watson
 
 ## Reading List
-47. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
-48. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
-49. Lo-Tek by Julia Watson
+48. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
+49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
 50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
 51. The Story of my Experiments with Truth by M.K. Gandhi
 52. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
