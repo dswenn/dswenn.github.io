@@ -104,7 +104,7 @@ I've graduated and started working full time, which means evenings and weekends 
 57. The Circular Economy – A User’s Guide by Walter R. Stahel
 58. Manifesto for a Moral Revolution by Jacqueline Novogratz
 
-## Summer 2020
+## Summer of Design Prep 2020
 
 59. Long Walk to Freedom by Nelson Mandela
 60. Essentials by David Whyte
@@ -112,9 +112,11 @@ I've graduated and started working full time, which means evenings and weekends 
 62. Influence by Robert B. Cialdini
 63. Long Story Short by Margot Leitman
 64. Theory U: Leading from the Future as It Emerges by Otto Scharmer
+65. thoughtless acts? by Jane Fulton Suri
 
 ## Currently Reading
 65. Lo-Tek by Julia Watson
+66. Rethinking Design Thinking by GK VanPatter
 
 ## Reading List
 48. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
