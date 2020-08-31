@@ -113,10 +113,10 @@ I've graduated and started working full time, which means evenings and weekends 
 63. Long Story Short by Margot Leitman
 64. Theory U: Leading from the Future as It Emerges by Otto Scharmer
 65. thoughtless acts? by Jane Fulton Suri
+66. Rethinking Design Thinking by GK VanPatter
 
 ## Currently Reading
 65. Lo-Tek by Julia Watson
-66. Rethinking Design Thinking by GK VanPatter
 
 ## Reading List
 48. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
