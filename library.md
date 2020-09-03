@@ -60,7 +60,7 @@ I've graduated and started working full time, which means evenings and weekends 
 ## Materials, Urbanization, and India - Summer 2018
 
 20. Why You Don't Fall Through the Floor by J.E. Gordon
-21. The Affluent Society by Kenneth Galbraith 
+21. The Affluent Society by Kenneth Galbraith
 22. Siddhartha by Herman Hesse
 23. In Indian Culture: Why do we... by Swamini Vimalananda
 24. How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood by Peter Moskowitz
@@ -114,6 +114,7 @@ I've graduated and started working full time, which means evenings and weekends 
 64. Theory U: Leading from the Future as It Emerges by Otto Scharmer
 65. thoughtless acts? by Jane Fulton Suri
 66. Rethinking Design Thinking by GK VanPatter
+67. sticky wisdom by Dave Allan, Matt Kingdon, Kris Murrin, & Daz Rudkin
 
 ## Currently Reading
 65. Lo-Tek by Julia Watson
@@ -129,7 +130,7 @@ I've graduated and started working full time, which means evenings and weekends 
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
 56. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
 57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-58. Persepolis by Marjane Satrapi 
+58. Persepolis by Marjane Satrapi
 59. toast by Nigel Slater
 60. The Mysterious Island by Jules Verne
 61. The Fire Next Time by James Baldwin
