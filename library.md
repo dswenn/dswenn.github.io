@@ -115,9 +115,10 @@ I've graduated and started working full time, which means evenings and weekends 
 65. thoughtless acts? by Jane Fulton Suri
 66. Rethinking Design Thinking by GK VanPatter
 67. sticky wisdom by Dave Allan, Matt Kingdon, Kris Murrin, & Daz Rudkin
+68. Lo-Tek by Julia Watson
 
 ## Currently Reading
-65. Lo-Tek by Julia Watson
+65. The Universal Traveler by Don Koberg and Jim Bagnall
 
 ## Reading List
 48. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
@@ -143,4 +144,4 @@ I've graduated and started working full time, which means evenings and weekends 
 68. Why We're Polarized by Ezra Klein (8%)
 69. How Buildings Learn by Stewart Brand (8%)
 70. On China by Henry Kissinger (20%)
-71. मंटो - पंद्रह कहानियाँ selected by नंदिता दास 
+71. मंटो - पंद्रह कहानियाँ selected by नंदिता दास
