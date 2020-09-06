@@ -10,7 +10,20 @@ I grew up in the suburbs of California, which means houses arranged in endless g
 
 As I ran, I peered through the windows of the houses I passed. This action is probably considered rude, but curiosity usually gets the best of my manners. I saw families watching TV, warm lights filling living rooms, and quiet kitchens. At this point in time, it became completely dark. I could hardly make out the street signs. As the lights dimmed, my mind filled the streets with thoughts.
 
-[Observations on my Walk](Recontextualization%20of%20our%20world%20b1b9e1f750564ddf9f388a712dfe61c3/Observations%20on%20my%20Walk%20d901a46a76914298a7163dfb0b00d3fd.csv)
+|Name              |Then                                   |Now                                                                        |Recontextualization                                     |
+|------------------|---------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------|
+|Road              |Dirt                                   |Asphalt                                                                    |Responsible, recycled asphalt                           |
+|Concrete          |Local rocks, mud mixture               |Portland Cement                                                            |Carbon free cement, carbon sequestering cement          |
+|Light             |Torches                                |Electricity, street lamps, LED                                             |Sustainable Energy                                      |
+|Architecture      |Local person in town                   |Homogenized building plans                                                 |Localized building plans pertaining to local materials  |
+|Housing           |Local stone, brick, wood               |Globalized steel rebar industry, cement industry, wood industry            |Local steel, cement, wood or carbon-free alternatives   |
+|Trees             |Local forests, home gardens            |Exotic urban trees                                                         |Local urban trees, home gardens                         |
+|Transportation    |Horses, donkeys                        |Combustion engine, electric engines, aluminum industry, acrylic car paints |Carbon-free, non-polluting vehicles, mass public transit|
+|Heating           |Firewood                               |Coal industry, natural gas industry, transmission lines                    |Solar minigrids, insulated buildings                    |
+|Postal Service    |Messengers                             |USPS, FedEx, UPS                                                           |N/A                                                     |
+|Home Entertainment|Conversation                           |TV, internet                                                               |N/A                                                     |
+|Water             |Aqueducts, canals, watershed management|Pipes, pumps                                                               |Watershed stewardship                                   |
+|                  |                                       |                                                                           |                                                        |
 
 Is this the pinnacle of our civilization? What are we building towards? How many of us are conscious of the world we are ushering? Is there more to life than earning one's first paycheck, saving up for a house, and raising a family in a quiet suburban house with a neatly trimmed front lawn?
 
