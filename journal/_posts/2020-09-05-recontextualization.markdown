@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recontextualization of Our World"
+title:  "A Neighborhood Walk: Recontextualization of Our World"
 date:   2020-09-06 00:09:50 -0700
 category: journal
 ---
