@@ -117,12 +117,14 @@ I've graduated and started working full time, which means evenings and weekends 
 67. sticky wisdom by Dave Allan, Matt Kingdon, Kris Murrin, & Daz Rudkin
 68. Lo-Tek by Julia Watson
 
+## Time at Stanford Fall 2020
+69. The Universal Traveler by Don Koberg and Jim Bagnall
+70. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
+
 ## Currently Reading
-65. The Universal Traveler by Don Koberg and Jim Bagnall
+49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
 
 ## Reading List
-48. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier (36%)
-49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
 50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
 51. The Story of my Experiments with Truth by M.K. Gandhi
 52. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay

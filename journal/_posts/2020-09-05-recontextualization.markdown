@@ -56,7 +56,7 @@ Whether that means we desire to think less, question less, and care less, I can'
 
 Perhaps what we need first is to re-localize each aspect of our society by re-contextualizing the proposed changes in terms of the existing neighborhood environment. We would then become informed consumers, knowing that our electricity comes from the solar mini-grid on the local hill. We would consume food grown on local soils by farmers we recognize. We would use our vehicles knowing that it is clean for the environment.
 
-It is only through our conscious desire for an alternative that we can user the demand needed to create new industries.
+It is only through our conscious desire for an alternative that we can generate the demand needed to create new industries.
 
 So are the regenerative folks right? Is society waking up and asking more questions to the complexity they find themselves surrounded by? Have we started to question and act upon the type of world we are building everyday in our jobs? Are we demanding more meaning in our jobs?
 
