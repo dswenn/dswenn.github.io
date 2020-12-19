@@ -120,9 +120,13 @@ I've graduated and started working full time, which means evenings and weekends 
 ## Time at Stanford Fall 2020
 69. The Universal Traveler by Don Koberg and Jim Bagnall
 70. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
+71. West Coast Food Forestry: A Permaculture Guide by Rain Tenaqiya
 
 ## Currently Reading
 49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
+50. Lectures on Urban Economics by Jan Brueckner (21)%)
+51. The Circular Economy Handbook by Jessica Long, Peter Lacy, & Wesley Spindler (24%)
+52. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo (16%)
 
 ## Reading List
 50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
@@ -132,18 +136,17 @@ I've graduated and started working full time, which means evenings and weekends 
 54. The Power of Collective Wisdom: And the Trap of Collective Folly by Alan Briskin, Sheryl Erickson, John Ott, and Tom Callanan
 55. The World Café: Shaping Our Futures Through Conversations that Matter by Juanita Brown
 56. A Pattern Language: Towns, Buildings, Construction by Christopher Alexander
-57. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo
-58. Persepolis by Marjane Satrapi
-59. toast by Nigel Slater
-60. The Mysterious Island by Jules Verne
-61. The Fire Next Time by James Baldwin
-62. A Fortune-Teller Told Me by Tiziano Terzani
-63. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
-64. The Culture Code by Clotaire Rapaille
-65. The Book of Awakening by Mark Nepo
-66. Prophet by Kahlil Gibran (30%)
-67. The Divine Comedy by Dante Alighieri
-68. Why We're Polarized by Ezra Klein (8%)
-69. How Buildings Learn by Stewart Brand (8%)
-70. On China by Henry Kissinger (20%)
-71. मंटो - पंद्रह कहानियाँ selected by नंदिता दास
+57. Persepolis by Marjane Satrapi
+58. toast by Nigel Slater
+59. The Mysterious Island by Jules Verne
+60. The Fire Next Time by James Baldwin
+61. A Fortune-Teller Told Me by Tiziano Terzani
+62. The Beekeeper: Rescuing the Stolen Women of Iraq by Dunya Mikhail
+63. The Culture Code by Clotaire Rapaille
+64. The Book of Awakening by Mark Nepo
+65. Prophet by Kahlil Gibran (30%)
+66. The Divine Comedy by Dante Alighieri
+67. Why We're Polarized by Ezra Klein (8%)
+68. How Buildings Learn by Stewart Brand (8%)
+69. On China by Henry Kissinger (20%)
+70. मंटो - पंद्रह कहानियाँ selected by नंदिता दास
