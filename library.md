@@ -121,12 +121,12 @@ I've graduated and started working full time, which means evenings and weekends 
 69. The Universal Traveler by Don Koberg and Jim Bagnall
 70. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
 71. West Coast Food Forestry: A Permaculture Guide by Rain Tenaqiya
+72. Lectures on Urban Economics by Jan Brueckner
 
 ## Currently Reading
 49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
-50. Lectures on Urban Economics by Jan Brueckner (21)%)
-51. The Circular Economy Handbook by Jessica Long, Peter Lacy, & Wesley Spindler (24%)
-52. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo (16%)
+50. The Circular Economy Handbook by Jessica Long, Peter Lacy, & Wesley Spindler (24%)
+51. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo (16%)
 
 ## Reading List
 50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
