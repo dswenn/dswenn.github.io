@@ -8,8 +8,6 @@ preview: /assets/img/xylo/forest.JPG
 
 Social Enterprise Building @ Clinton Fellowship in India| 2019
 
-> Please check back often to see how I'm using systems and design thinking to make headway on addressing the climate crisis. This project is ongoing work as part of my Clinton Fellowship in India. (December 2019)
-
 Part of my work as a Clinton Fellow at a nonprofit called Alaap has focused on providing frameworks for key stakeholders that can help solve the climate crisis to engage with systems and design thinking. In order for these frameworks to create lasting and meaningful impact, they need to be able to bring common understanding and reveal compelling system level interventions. Our guiding principle is: wisdom is in the room.
 
 ![table]({{ site.url }}/assets/img/xylo/table.jpg)
@@ -20,7 +18,7 @@ We started by providing the frame:
 
 > "407.4 ppm is the amount of CO2 in our atmosphere. Our actions are leading to rising sea levels, suffocating cities, and plummeting biodiversity. Our rural populations are hit especially hard with unseasonal rains, extreme weather, and desertifying lands. Forests is one technology to sequester our carbon dioxide, to reduce global surface temperatures, and restore urban & rural livelihood. The IPCC states one billion hectares of forest is needed to help us stay under 1.5 C of warming. *How might we create a world with more native forests?*""
 
-For the first systems map, we asked participants to place the post-its of the relevant stakeholders and physical settings that can support a forest onto the subsystem on the board. 
+For the first systems map, we asked participants to place the post-its of the relevant stakeholders and physical settings that can support a forest onto the subsystem on the board.
 
 ![MAP1]({{ site.url }}/assets/img/xylo/map1.jpg)
 
@@ -73,7 +71,7 @@ To understand the needs of farmers, I facilitated a design sprint for our team a
   <figcaption>Basavaraj (left) and his family.</figcaption>
 </figure>
 
-When we first met Basavaraj, we were surprised to notice that he became a daily wage laborer six years ago when a drought hit his farm. We wonder if this meant that he felt that he had no choice other than daily wage labor. We thought it would be gamechanging to give him more options to fulfill his financial needs that gave return in the short term, is easy to understand and to execute. 
+When we first met Basavaraj, we were surprised to notice that he became a daily wage laborer six years ago when a drought hit his farm. We wonder if this meant that he felt that he had no choice other than daily wage labor. We thought it would be gamechanging to give him more options to fulfill his financial needs that gave return in the short term, is easy to understand and to execute.
 
 <div class="gallery" data-columns="2">
     <img src="/assets/img/xylo/DSC09773.jpg">
@@ -87,7 +85,7 @@ In 30 minutes, we created a contract that details a business scheme that pays fa
   <figcaption>Mocking up our contract in Photoshop.</figcaption>
 </figure>
 
-Basavaraj rejected our prototype, saying, 
+Basavaraj rejected our prototype, saying,
 > "My land is fertile. Why would I plant trees?"
 
 Despite the assurance of a monthly income, our solution didn't address his deeper need. Perhaps on a deeper level, it was really about food. Future iterations to come.
@@ -101,14 +99,20 @@ To understand how needs differ in different contexts, we traveled to the most de
   <figcaption>Laddu-singh.</figcaption>
 </figure>
 
-We were surprised that he said trees "are life", are beautiful, inviting to guests and thinks if it can work on his friends farm, it could possibly work on his. When we asked him what kept him up at night, he said he doesn't know how much longer his body can take the toil of being a migrant worker. We wonder if this meant that he needed a vision for himself back home. We thought it would be gamechanging if he could create beauty for a living on his land. 
+We were surprised that he said trees "are life", are beautiful, inviting to guests and thinks if it can work on his friends farm, it could possibly work on his. When we asked him what kept him up at night, he said he doesn't know how much longer his body can take the toil of being a migrant worker. We wonder if this meant that he needed a vision for himself back home. We thought it would be gamechanging if he could create beauty for a living on his land.
 
 We created a pamphlet for a forest beauty contest, in which 80% of forest creation fees would be covered by a philanthropic company that wants to see more beautiful forests in the world. The other 20% would be an investment by farmers. At the end of ten years, the company would come to select a winner for the owner of the most beautiful forest, the grand prize being ten lakhs rupees ($14,000). For fairness sake, forests would be judged based on the climatic conditions of each region. We said there were 12 climatic conditions in India. Last, there would be a local knowledge center to facilitate information exchange, guide farmers on how to create forests, and where they could get reimbursed. Strict accounting rules would be set for reimbursement. The contest does not guide farmers how to make income out of forests, but the local knowledge centers could give suggestions.
 
 ![pamphlet]({{ site.url }}/assets/img/xylo/pamphlet.jpg)
 
-Six out of the six farmers we tested our prototype on wanted to start. Laddu-singh himself loved the idea. 
+Six out of the six farmers we tested our prototype on wanted to start. Laddu-singh himself loved the idea.
 
 ![testing]({{ site.url }}/assets/img/xylo/test.png)
 
 It is important to note that many of the men in the village have turned to being a migrant worker. Perhaps what migrant workers like Laddu-singh need is an economically viable reason to return home to and be reunited with their families; the latter being a particularly strong need. What Laddu-singh also showed us was that beauty was also an unarticulated need.
+
+## Ethnographic Expedition in Karnataka
+
+![testing]({{ site.url }}/assets/img/xylo/100farmers.png)
+
+The last segment of my fellowship involved designing and leading an ethnographic study across two extreme regions (lush forests of the Western Ghats to dry regions of Bagepalli) of the Karnataka state of India. Over 70 farmers were interviewed. This study will most likely warrant its own page at a future time.
