@@ -111,8 +111,9 @@ Six out of the six farmers we tested our prototype on wanted to start. Laddu-sin
 
 It is important to note that many of the men in the village have turned to being a migrant worker. Perhaps what migrant workers like Laddu-singh need is an economically viable reason to return home to and be reunited with their families; the latter being a particularly strong need. What Laddu-singh also showed us was that beauty was also an unarticulated need.
 
-## Ethnographic Expedition in Karnataka
+## Ethnography Study in Karnataka
 
 ![testing]({{ site.url }}/assets/img/xylo/100farmers.png)
 
-The last segment of my fellowship involved designing and leading an ethnographic study across two extreme regions (lush forests of the Western Ghats to dry regions of Bagepalli) of the Karnataka state of India. Over 70 farmers were interviewed. This study will most likely warrant its own page at a future time.
+The last segment of my fellowship involved designing and leading an ethnographic study across two extreme regions (lush forests of the Western Ghats to dry regions of Bagepalli) of the Karnataka state of India. Over 70 farmers were interviewed.
+Please see [part 1](https://www.dswenn.com/india/2020/04/27/bagepalli.html) and [part 2](https://www.dswenn.com/india/2020/05/01/sirsi.html).
