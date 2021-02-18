@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ETHNOGRAPHIC FIELD EXPEDITION II: SIRSI"
-date:   2020-04-27 00:09:50 -0700
+date:   2020-05-01 00:09:50 -0700
 category: india
 ---
 In my last blog, I shared highlights from our research trip to Bagepalli. In our second segment, we head to Sirsi, a coastal town in the Western Ghats.
