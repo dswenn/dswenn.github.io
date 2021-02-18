@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "ETHNOGRAPHIC FIELD EXPEDITION I: BAGEPALLI"
+date:   2020-04-27 00:09:50 -0700
+category: india
+---
+In my last blog, I shared highlights from our research trip to Bagepalli. In our second segment, we head to Sirsi, a coastal town in the Western Ghats.
+
+| ![coconut]({{ site.url }}/assets/img/india/s1.jpg) |
+|:--:|
+| *Inside a thota, a farm with trees. Pictured here is an areca nut thota with multiple layers such as creepers and understory.* |
+
+For this segment of our “100 Farmers” project, we needed to work under constraints and push forward so one team conducted most of the research. I (field researcher) was accompanied by Manasa (our translator) and one notetaker (either Sapta or Cassie who were there for different days). The second team joined near the end to help finish the interviews. The total length of the trip was 11 days.
+
+Upon arrival at 5 AM from an overnight bus journey, we settled into our pop-up studio, Hotel Panchavati. We met with our local NGO Manuvikasa, got acquainted with our fixers, and shortly set off for our first day in the field.
+
+![coconut]({{ site.url }}/assets/img/india/s2.jpg)
+
+Sirsi receives over 1000mm of rain annually, with some areas reaching 1500mm. When we arrived at our first farm, we immediately knew the people and their lives were a stark contrast to those of semi-arids.
+
+We dove into our empathy interviews, which lasted on average 80 minutes each. Although we have a set of seven questions, our interviews are open ended with a focus on listening for stories, emotions, tensions, and contradictions.
+
+![coconut]({{ site.url }}/assets/img/india/s3.jpg)
+
+![coconut]({{ site.url }}/assets/img/india/s4.jpg)
+
+![coconut]({{ site.url }}/assets/img/india/s5.jpg)
+
+![coconut]({{ site.url }}/assets/img/india/s6.jpg)
+
+Our interviews often included a walk on their farms.
+
+| ![coconut]({{ site.url }}/assets/img/india/s7.jpg) |
+|:--:|
+| *Ragu, a 23 year old farmer’s paddy, ginger, and sugarcane farm.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s8.jpg) |
+|:--:|
+| *Pepper grown as a creeper on areca trees.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s9.jpg) |
+|:--:|
+| *A field of areca nut left out to dry.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s10.jpg) |
+|:--:|
+| *Farmlands often border what is called a beta land. Beta lands are forest lands given by the government to farmers for caretaking.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s11.jpg) |
+|:--:|
+| *Inside a planned thota.* |
+
+![coconut]({{ site.url }}/assets/img/india/s12.jpg)
+
+Out interviews and unpackings would continue each day for the next nine days. Our unpackings revealed unarticulated and real needs. When the second team arrived, we laid out all our unpackings and started to discuss them.
+
+| ![coconut]({{ site.url }}/assets/img/india/s13.jpg) |
+|:--:|
+| *Catching the second team up on our interviews.* |
+
+We then began synthesis with the creation of a living data wall.
+
+| ![coconut]({{ site.url }}/assets/img/india/s14.jpg) |
+|:--:|
+| *Sheeba adding to the data wall.* |
+
+![coconut]({{ site.url }}/assets/img/india/s15.jpg)
+
+| ![coconut]({{ site.url }}/assets/img/india/s16.jpg) |
+|:--:|
+| *The data wall before clustering/affinity mapping.* |
+
+After transferring all the data from our interviews onto the wall, we began affinity mapping. Each person take a turn adding a post it to the right side of the wall until groups, trends, and clusters started to form. We also utilized spatial distance to signify related clusters.
+
+| ![coconut]({{ site.url }}/assets/img/india/s17.jpg) |
+|:--:|
+| *Affinity mapping process at 8 PM.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s18.jpg) |
+|:--:|
+| *The first iteration of our map. Blue post its represent insights, orange represents inferences, and purple represents raw data or quotes. Each cluster has a header indicating a trend or barrier to change.* |
+
+We finished the map at nearly 9:30 PM. Afterwards, we treated ourselves for dinner at our favorite restaurant: Spice N’ Pepper. Afterwards, we headed to one of the largest fairs in Karnataka, the Sirsi Festival.
+
+| ![coconut]({{ site.url }}/assets/img/india/s19.jpg) |
+|:--:|
+| *This was one of the first festivals I’ve been to in India. Our visit took place just before the Coronavirus took over.* |
+
+| ![coconut]({{ site.url }}/assets/img/india/s20.jpg) |
+|:--:|
+| *Heading back after a long day of work and play.* |
+
+The next day, we refined the map a bit more before holding a meeting with the founder of Manuvikasa, our fixers, and a senior scientist named Mr. Prabhakar Bhat. We discussed the map along with the larger ecosystem.
+
+When we returned to Bangalore, we digitized the map and started the process of casual looping. Shown below is our first iteration and will follow a second version to reduce the number of elements and complexity.
+
+![coconut]({{ site.url }}/assets/img/india/s21.jpg)
+
+In our next segment, we will dive into how we plan to use our ethnographic research to architect systemic change.
+
+| ![coconut]({{ site.url }}/assets/img/india/s22.jpg) |
+|:--:|
+| *Our team in front of our Omni. Back row: Sheeba, Cassie (former AIF Fellow), Harshita, Manasa Bottom row: Akshay, Viswanath, Donald (me)* |
