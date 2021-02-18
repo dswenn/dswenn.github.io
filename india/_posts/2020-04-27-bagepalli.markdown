@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ETHNOGRAPHIC FIELD EXPEDITION I: BAGEPALLI"
+title:  "Ethnography I in Bagepalli"
 date:   2020-04-27 00:09:50 -0700
 category: india
 ---
