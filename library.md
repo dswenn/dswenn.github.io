@@ -117,18 +117,29 @@ I've graduated and started working full time, which means evenings and weekends 
 67. sticky wisdom by Dave Allan, Matt Kingdon, Kris Murrin, & Daz Rudkin
 68. Lo-Tek by Julia Watson
 
-## Time at Stanford Fall 2020
+## Time at Stanford
 69. The Universal Traveler by Don Koberg and Jim Bagnall
 70. Edible Forest Gardens Vol 1 by Dave Jacke & Eric Toensmeier
 71. West Coast Food Forestry: A Permaculture Guide by Rain Tenaqiya
 72. Lectures on Urban Economics by Jan Brueckner
+73. Undercurrents: Channeling Outrage to Spark Practical Activism by Steve Davis
+74. The Designful Company by Marty Neumeier
+75. Geometry of Design by Kimberly Elam
+76. Elements of Design by Gail Greet Hannah
 
 ## Currently Reading
-49. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
-50. The Circular Economy Handbook by Jessica Long, Peter Lacy, & Wesley Spindler (24%)
-51. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo (16%)
+49. Validating Product Ideas Through Lean User Research By Tomer Sharon
+50. Build Better Products by Laura Klein
+51. Winners Take All by Anand Giridharadas
 
 ## Reading List
+43. Practical Empathy: For Collaboration and Creativity in Your Work by Indi Young
+44. Interviewing Users by Steve Portigal
+45. Why We Fail: Learning from Experience Design Failures by Victor Lombardi
+46. Designing for People by Henry Dreyfuss
+47. Edible Forest Gardens Vol 2 by Dave Jacke & Eric Toensmeier
+48. The Circular Economy Handbook by Jessica Long, Peter Lacy, & Wesley Spindler (24%)
+49. Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo (16%)
 50. The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat by Richard Feynman
 51. The Story of my Experiments with Truth by M.K. Gandhi
 52. The Wounding and Healing of Desire: Weaving Heaven and Earth by Wendy Farlay
