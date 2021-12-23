@@ -78,7 +78,6 @@ Other traits I want to continue developing are I need to show up with fundamenta
 
 One skill I ought to practice is that of giving critique. When Sarah Stein Greenberg joined our class, I noticed she gave excellent critique. That’s something I also want to keep practicing.
 
-
 ## Business Acumen
 
 I don’t speak like a business student, but I recognize the value of being able to communicate business. I’ve taken a couple GSB classes at this point: Real Estate Finance, Taking Social Impact to Scale, and Marketplaces. These classes have exposed me to a world where people speak about ‘millions’ of dollars as if it was liquid. I’ve met venture capitalists and investors that hold billions in assets. I’ve gotten to hear how billionaires speak, act, and think. Next quarter, I am taking a class with my friend Casey on how important people make difficult decisions.
@@ -86,7 +85,6 @@ I don’t speak like a business student, but I recognize the value of being able
 I want to be sharp in business acumen. I want to develop a business sensibility, to know what businesses will work in a market, how markets can react, and sizing business opportunities to gauge potential of impact. I want to be able to leverage existing trends such as Web 3.0, IoT, and big data. I want to have business sensibility because I believe market forces has the potential to scale and impact masses of people. If I want to bring a product that can benefit people’s lives, I need to understand how products can live in a real world environment.  
 
 I want to focus the remainder of my time on understanding how emerging markets work, practice interpersonal dynamics, and better my communication skills.
-
 
 ## Engineering
 
