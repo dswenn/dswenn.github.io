@@ -14,6 +14,12 @@ This page is a work in progress.
 
 ## The Stack
 
+![table]({{ site.url }}/assets/img/design/stack/stack1.JPG)
+![table]({{ site.url }}/assets/img/design/stack/stack2.JPG)
+![table]({{ site.url }}/assets/img/design/stack/stack3.JPG)
+![table]({{ site.url }}/assets/img/design/stack/stack4.JPG)
+![table]({{ site.url }}/assets/img/design/stack/stack5.JPG)
+
 ## The Retro Nixie
 
 ## CAD Work
@@ -21,7 +27,7 @@ This page is a work in progress.
 ![table]({{ site.url }}/assets/img/design/CAD/canister1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/canister2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/canister3.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/canister4.jpg)
+![table]({{ site.url }}/assets/img/design/CAD/canister4.JPG)
 
 ![table]({{ site.url }}/assets/img/design/CAD/gopro1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/gopro2.jpg)
@@ -34,7 +40,6 @@ This page is a work in progress.
 ![table]({{ site.url }}/assets/img/design/CAD/medical1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/medical2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/medical3.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/medical4.jpg)
 
 ![table]({{ site.url }}/assets/img/design/CAD/scooter1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/scooter2.jpg)
