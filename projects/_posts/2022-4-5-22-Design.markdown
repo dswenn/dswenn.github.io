@@ -20,6 +20,8 @@ This page is a work in progress.
 ![table]({{ site.url }}/assets/img/design/stack/stack4.JPG)
 ![table]({{ site.url }}/assets/img/design/stack/stack5.JPG)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pO1b80tla-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 ## The Retro Nixie
 
 ## CAD Work
