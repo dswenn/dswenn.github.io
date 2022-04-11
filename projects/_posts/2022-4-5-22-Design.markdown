@@ -8,12 +8,12 @@ preview: /assets/img/design/cube.JPG
 
 Design Student @ Stanford University | 2022
 
-I'm a teaching assistant for the Product Realization Lab at Stanford University, where I help hundreds of students each year realize their ideas. I also design physical products. This is a short sample of the types of products I've worked on.
+I'm a teaching assistant for the Product Realization Lab at Stanford University, where I help hundreds of students each year realize their ideas. I also design physical and electronic products. This is a short sample of the types of products I've worked on.
 
 This page is a work in progress.
 
 ## The Stack
-
+A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my interest in house music.
 ![table]({{ site.url }}/assets/img/design/stack/stack1.JPG)
 ![table]({{ site.url }}/assets/img/design/stack/stack2.JPG)
 ![table]({{ site.url }}/assets/img/design/stack/stack3.JPG)
@@ -23,29 +23,48 @@ This page is a work in progress.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pO1b80tla-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## The Retro Nixie
+A retro inspired Soviet era Nixie Tube Clock. I'm currently working on a new iteration (includes a custom PCB) with my friend Rony Ballouz.
+![table]({{ site.url }}/assets/img/design/nixie/nixie1.jpg)
+![table]({{ site.url }}/assets/img/design/nixie/nixie2.png)
+![table]({{ site.url }}/assets/img/design/nixie/nixie3.png)
+![table]({{ site.url }}/assets/img/design/nixie/nixie4.png)
+![table]({{ site.url }}/assets/img/design/nixie/nixie5.png)
 
 ## CAD Work
-
+A slim, portable coffee canister.
 ![table]({{ site.url }}/assets/img/design/CAD/canister1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/canister2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/canister3.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/canister4.JPG)
 
+Exploring different ways to mount a GoPro Hero 8.
 ![table]({{ site.url }}/assets/img/design/CAD/gopro1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/gopro2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/gopro3.jpg)
 
+Japanese inspired coffee cup.
 ![table]({{ site.url }}/assets/img/design/CAD/kinto1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/kinto2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/kinto3.jpg)
 
+A manual grasper for arthroscopic surgery.
 ![table]({{ site.url }}/assets/img/design/CAD/medical1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/medical2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/medical3.jpg)
 
+Injection molded electric scooter for kids, design inspiration drawn from Radio Flyer.
 ![table]({{ site.url }}/assets/img/design/CAD/scooter1.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/scooter2.jpg)
 ![table]({{ site.url }}/assets/img/design/CAD/scooter3.jpg)
+
 ## Focus Beam
+A bright task light with an adjustable area of illumination on work surfaces.
+![table]({{ site.url }}/assets/img/design/focus/focus3.jpg)
+![table]({{ site.url }}/assets/img/design/focus/focus4.jpg)
+![table]({{ site.url }}/assets/img/design/focus/focus1.png)
+![table]({{ site.url }}/assets/img/design/focus/focus2.png)
 
 ## The Cube
+What if we made a giant cube? With 12 planks of wood, two friends and I set out to make a giant 7’ x 7’ cube. A spur of the moment activity, play for play’s sake. It has now become an interactive, iterative, co-creative icon of the Loft community.
+![table]({{ site.url }}/assets/img/design/cube/cube1.jpg)
+![table]({{ site.url }}/assets/img/design/cube/cube2.png)
