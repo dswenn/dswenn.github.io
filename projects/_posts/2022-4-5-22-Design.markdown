@@ -10,8 +10,6 @@ Design Student @ Stanford University | 2022
 
 I'm a teaching assistant for the Product Realization Lab at Stanford University, where I help hundreds of students each year realize their ideas. I also design physical and electronic products. This is a short sample of the types of products I've worked on.
 
-This page is a work in progress.
-
 ## The Stack
 A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my interest in house music.
 ![table]({{ site.url }}/assets/img/design/stack/stack1.JPG)
@@ -66,5 +64,5 @@ A bright task light with an adjustable area of illumination on work surfaces.
 
 ## The Cube
 What if we made a giant cube? With 12 planks of wood, two friends and I set out to make a giant 7’ x 7’ cube. A spur of the moment activity, play for play’s sake. It has now become an interactive, iterative, co-creative icon of the Loft community.
-![table]({{ site.url }}/assets/img/design/cube/cube1.jpg)
-![table]({{ site.url }}/assets/img/design/cube/cube2.png)
+![table]({{ site.url }}/assets/img/design/cube/cube1.png)
+![table]({{ site.url }}/assets/img/design/cube/cube2.jpg)
