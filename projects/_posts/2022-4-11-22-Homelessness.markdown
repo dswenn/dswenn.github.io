@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homelessness"
+title:  "Design for Homelessness"
 date:   2022-4-11 00:09:50 -0700
 category: projects
 preview: /assets/img/homelessness/lifemoves.png
