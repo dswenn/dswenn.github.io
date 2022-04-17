@@ -8,6 +8,8 @@ preview: /assets/img/piping/DSC09066.JPG
 
 Engineers without Borders - Morocco | 2019
 
+<iframe width="560" height="315" src="https://youtu.be/Y2sC3HesNYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 At engineering school, I focused part of my time designing and successfully implementing a six kilometer water distribution system for two villages, Izgouaren and Ilguiloda, in a rural part of Morocco. These water-scarce villages are the most remote and poor of the series of villages in the Ait Bayoud commune. Residents, primarily women and children, would walk for three to four hours per day to collect water from neighbouring communities and distant springs. Access to a sustainable water supply is vital to the growth and progress of these communities.
 
 <figure>
@@ -22,9 +24,9 @@ With the industry mentorship of **Camille Rubeiz**, **Santiago Arnalich**, and *
   <figcaption>A hydraulic grade diagram of our water distribution system.</figcaption>
 </figure>
 
-On July 16 2019, with over $43,000 of funding in cash and materials that I primarily raised from **Borealis**, I led the initial implementation team to Morocco. To get a working water distribution system, we needed to build a 38,000 L tank, a solar rack holding 20 solar panels, attach a solar controller to an electric borewell pump, and install six kilometers of PE100 HDPE pipe. 
+On July 16 2019, with over $43,000 of funding in cash and materials that I primarily raised from **Borealis**, I led the initial implementation team to Morocco. To get a working water distribution system, we needed to build a 38,000 L tank, a solar rack holding 20 solar panels, attach a solar controller to an electric borewell pump, and install six kilometers of PE100 HDPE pipe.
 
-Upon arrival, the first step was to survey the land using an abney hand level. 
+Upon arrival, the first step was to survey the land using an abney hand level.
 
 <figure>
   <img src="{{ site.url }}/assets/img/piping/abney.PNG" alt="abney" height="40%" width="40%"/>
@@ -40,7 +42,7 @@ After reading the manual, I headed into the field and over the course of two wee
   <figcaption>The topographic elevation data taken with an abney level compared with Google Earth satellite data over the entire six kilometer pipeline route.</figcaption>
 </figure>
 
-During the initial weeks, I spent much time establishing trust with the community, figuring out where to source materials, and identifying key leaders in the community. By August, the rest of the implementing team and mentors had arrived. We split the group and for the remainder of the trip, the groups worked in parallel. 
+During the initial weeks, I spent much time establishing trust with the community, figuring out where to source materials, and identifying key leaders in the community. By August, the rest of the implementing team and mentors had arrived. We split the group and for the remainder of the trip, the groups worked in parallel.
 
 <figure>
   <img src="{{ site.url }}/assets/img/piping/struct.PNG" alt="structure" height="70%" width="70%"/>
