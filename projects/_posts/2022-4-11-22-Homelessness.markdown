@@ -8,10 +8,6 @@ preview: /assets/img/homelessness/lifemoves.png
 
 Design Fellow @ Stanford d. School | March-September 2021
 
-![home]({{ site.url }}/assets/img/homelessness/process.png)
-
-I spent six months at the Stanford d. School working on homelessness.
-
 ## Project Summary
 A digital kiosk system that replaces a paper binder sign in/sign out system. Staff have a user interface to better track and manage the safety and well-being of their clients. Clients have more privacy than a paper binder where others can see if they have signed in or not.
 
@@ -21,32 +17,40 @@ Growing up in the Bay Area, we've all noticed the increase in the homelessness p
 ## Design Process
 Design is filled with ambiguity. My team and I were tasked to find a problem and to then design a solution for LifeMoves, a homelessness organization that has been operating in the Bay Area for over 35 years. We visited eight of their shelters, spoke with over 50 clients (people experiencing homelessness), and conducted interviews with those currently on the streets.
 
+![home]({{ site.url }}/assets/img/homelessness/process.png)
+
 We spent most of our time at the new interim housing site in Mountain View. At this site, every client has their own room that locks.
-![table]({{ site.url }}/assets/img/homelessness/home.png)
+
+![table]({{ site.url }}/assets/img/homelessness/site.jpg)
 
 After talking with some clients, we quickly discovered a friction point: bed checks.
-![table]({{ site.url }}/assets/img/homelessness/bedchecks.JPG)
+
 ![table]({{ site.url }}/assets/img/homelessness/home1.jpg)
 ![table]({{ site.url }}/assets/img/homelessness/home2.jpg)
 
 Every night, staff open their doors to check to see if the client is present. Not only do clients like them, staff were also getting threatened for doing them.
 
-> How might we create a dignified and independent way for trauma sensitive clients to notify staff they are present?
+> **How might we create a dignified and independent way for trauma sensitive clients to notify staff they are present?**
 
 We visited other LifeMoves shelters to research best practices. We discovered there was no standardized practice. Each program director differed, but the primary reason for doing them was for the safety of the clients.
+
 ![table]({{ site.url }}/assets/img/homelessness/home3.jpg)
 
 After ideation, we came up with two solutions and piloted them for a week.
-## Solution 1: The Kiosk
+### Solution 1: The Kiosk
 What if we kept better track of clients at the front entrance?
+
 ![table]({{ site.url }}/assets/img/homelessness/home5.jpg)
-![table]({{ site.url }}/assets/img/homelessness/kiosk.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home15.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home7.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home8.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home14.jpg)
 
-## Solution 2: The Button
+### Solution 2: The Button
 What if we made a button that notified staff that they were present in their room?
 ![table]({{ site.url }}/assets/img/homelessness/home9.jpg)
 ![table]({{ site.url }}/assets/img/homelessness/home10.jpg)
@@ -69,6 +73,7 @@ To date, this remains one of my favorite projects. We started by wanting to serv
 
 ## Team
 This project started with me, Eleanor Glockner, Casey Prohaska, & Kate Slunkova. Over the summer, Eleanor and I acted a co-leads, brought on Malaika Koshy and Alyssa Li to then drive the project towards completion.
+![table]({{ site.url }}/assets/img/homelessness/home16.jpg)
 
 ## Gratitude
 This project would not be possible with the generous support and funding by Stanford's Design for Extreme Affordability. In addition, we thank our mentors for their critique and guidance: David Kelley, Bill Burnett, Stuart Coulson, Manasa Yeturu, Nell Garcia, George Toye, Rosanne Foust, Michelle Jia, Michael Barry, & Julie Stanford.
