@@ -9,7 +9,8 @@ preview: /assets/img/homelessness/lifemoves.png
 Design Fellow @ Stanford d. School | March-September 2021
 
 ## Project Summary
-We created and successfully implemented a scalable, low cost digital kiosk system currently used by six shelters, serving over **500** homelessness clients daily. Clients (people experiencing homelessness) can use this kiosk to sign in and out with privacy. Staff have a user interface to better track and manage the safety and well-being of their clients. 
+![home]({{ site.url }}/assets/img/homelessness/kiosk1.jpeg)
+We created and successfully implemented a scalable, low cost digital kiosk system currently used by six shelters, serving over **500** homelessness clients daily. Clients (people experiencing homelessness) can use this kiosk to sign in and out with privacy. Staff have a user interface to better track and manage the safety and well-being of their clients.
 
 ## Motivation
 Growing up in the Bay Area, I noticed the increase in the homelessness population. I remember when I was young, my mom and I walked past a man on the ground, and I asked my mom, "Why am I here and why is he there?" It was a naive question. As a child, I just wanted people to be happy and equal. It's a world I still strive for.
