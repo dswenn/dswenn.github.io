@@ -12,7 +12,7 @@ I'm a teaching assistant for the Product Realization Lab at Stanford University,
 
 ## The Stack
 A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my interest in house music.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pO1b80tla-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="620" height="348.75" src="https://www.youtube.com/embed/pO1b80tla-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ![table]({{ site.url }}/assets/img/design/stack/stack1.JPG)
 ![table]({{ site.url }}/assets/img/design/stack/stack2.JPG)
