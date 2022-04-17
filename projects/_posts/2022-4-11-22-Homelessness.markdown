@@ -16,7 +16,7 @@ We created and successfully implemented a scalable, low cost digital kiosk syste
 Growing up in the Bay Area, I noticed the increase in the homelessness population. I remember when I was young, my mom and I walked past a man on the ground, and I asked my mom, "Why am I here and why is he there?" It was a naive question. As a child, I just wanted people to be happy and equal. It's a world I still strive for.
 
 ## Design Process
-Design is filled with ambiguity. My team and I were tasked to find a problem and to then design a solution for LifeMoves, a homelessness organization that has been operating in the Bay Area for over 35 years. We visited eight of their shelters, spoke with over 50 clients, and conducted interviews with those currently on the streets.
+Design is filled with ambiguity. My team and I were tasked to find a problem and to then design a solution for LifeMoves, a homelessness organization that has been operating in the Bay Area for over 35 years with 26 shelter locations. We visited eight of their shelters, spoke with over 50 clients, and conducted interviews with those currently on the streets.
 
 ![home]({{ site.url }}/assets/img/homelessness/process.png)
 
