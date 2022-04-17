@@ -26,6 +26,7 @@ We spent most of our time at the new interim housing site in Mountain View. At t
 After talking with some clients, we quickly discovered a friction point: bed checks.
 
 ![table]({{ site.url }}/assets/img/homelessness/home1.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home2.jpg)
 
 Every night, staff open their doors to check to see if the client is present. Not only do clients like them, staff were also getting threatened for doing them.
@@ -52,10 +53,15 @@ What if we kept better track of clients at the front entrance?
 
 ### Solution 2: The Button
 What if we made a button that notified staff that they were present in their room?
+
 ![table]({{ site.url }}/assets/img/homelessness/home9.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home10.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home11.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home12.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home13.jpg)
 
 Clients loved the button. I coded the buttons using ESP8266 microcontrollers and connected each button to Amazon Web Services. One client didn't want to give the button back after the pilot was over and another client who was losing his vision said he would feel a little lost without it.
@@ -73,20 +79,10 @@ To date, this remains one of my favorite projects. We started by wanting to serv
 
 ## Team
 This project started with me, Eleanor Glockner, Casey Prohaska, & Kate Slunkova. Over the summer, Eleanor and I acted a co-leads, brought on Malaika Koshy and Alyssa Li to then drive the project towards completion.
+
 ![table]({{ site.url }}/assets/img/homelessness/home16.jpg)
 
 ## Gratitude
 This project would not be possible with the generous support and funding by Stanford's Design for Extreme Affordability. In addition, we thank our mentors for their critique and guidance: David Kelley, Bill Burnett, Stuart Coulson, Manasa Yeturu, Nell Garcia, George Toye, Rosanne Foust, Michelle Jia, Michael Barry, & Julie Stanford.
 
-# Design Process
-Interviews - airport land
-We landed upon a real need. POV, HMW
-Index cards
-In the process of finding we need, we uncovered another need, that of the staff.
-Rapid prototypes (physical)
-
-Who do we want to be our raving fan?
-Button vs digital kiosk
-Using a decision matrix and a presentation to the executive team at LifeMoves, we chose the digital kiosk to scale across LifeMoves.
-
-Lean prototype techniques as framework
+![table]({{ site.url }}/assets/img/homelessness/slideshow.gif)
