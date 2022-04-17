@@ -43,6 +43,8 @@ What if we kept better track of clients at the front entrance?
 
 ![table]({{ site.url }}/assets/img/homelessness/home5.jpg)
 
+![table]({{ site.url }}/assets/img/homelessness/home6.jpg)
+
 ![table]({{ site.url }}/assets/img/homelessness/home15.jpg)
 
 ![table]({{ site.url }}/assets/img/homelessness/home7.jpg)
@@ -52,7 +54,7 @@ What if we kept better track of clients at the front entrance?
 ![table]({{ site.url }}/assets/img/homelessness/home14.jpg)
 
 ### Solution 2: The Button
-What if we made a button that notified staff that they were present in their room?
+What if we made a button that clients could press to notify staff that they were present in their room?
 
 ![table]({{ site.url }}/assets/img/homelessness/home9.jpg)
 
