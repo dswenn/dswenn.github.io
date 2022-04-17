@@ -9,13 +9,13 @@ preview: /assets/img/homelessness/lifemoves.png
 Design Fellow @ Stanford d. School | March-September 2021
 
 ## Project Summary
-A digital kiosk system that replaces a paper binder sign in/sign out system. Staff have a user interface to better track and manage the safety and well-being of their clients. Clients have more privacy than a paper binder where others can see if they have signed in or not.
+We created and successfully implemented a scalable, low cost digital kiosk system currently used by six shelters, serving over **500** homelessness clients daily. Clients (people experiencing homelessness) can use this kiosk to sign in and out with privacy. Staff have a user interface to better track and manage the safety and well-being of their clients. 
 
 ## Motivation
 Growing up in the Bay Area, I noticed the increase in the homelessness population. I remember when I was young, my mom and I walked past a man on the ground, and I asked my mom, "Why am I here and why is he there?" It was a naive question. As a child, I just wanted people to be happy and equal. It's a world I still strive for.
 
 ## Design Process
-Design is filled with ambiguity. My team and I were tasked to find a problem and to then design a solution for LifeMoves, a homelessness organization that has been operating in the Bay Area for over 35 years. We visited eight of their shelters, spoke with over 50 clients (people experiencing homelessness), and conducted interviews with those currently on the streets.
+Design is filled with ambiguity. My team and I were tasked to find a problem and to then design a solution for LifeMoves, a homelessness organization that has been operating in the Bay Area for over 35 years. We visited eight of their shelters, spoke with over 50 clients, and conducted interviews with those currently on the streets.
 
 ![home]({{ site.url }}/assets/img/homelessness/process.png)
 
@@ -76,10 +76,10 @@ What if we made a button that clients could press to notify staff that they were
 Clients loved the button. I coded the buttons using ESP8266 microcontrollers and connected each button to Amazon Web Services. One client didn't want to give the button back after the pilot was over and another client who was losing his vision said he would feel a little lost without it.
 
 ## Scaling & Implementation
-Although clients loved the button and it was a novel joyous idea at the shelter, the decision to choose which one was not up to us. We presented both the kiosk and the button results to the leadership team at LifeMoves and collectively decided on the digital kiosk. We spent the next few weeks coding a robust kiosk interface, trained and installed digital kiosks at five shelters, and transferred ownership to the organization.
+Although clients loved the button and it was a novel joyous idea at the shelter, the decision to choose which one was not up to us. We presented both the kiosk and the button results to the leadership team at LifeMoves and collectively decided on the digital kiosk. We spent the next few weeks coding a robust kiosk interface, trained staff and installed digital kiosks at six shelters, and transferred ownership to the organization.
 
 ## Real World Impact
-Today the digital kiosk is used by five shelters, serving 500 users daily per day. We designed a scalable, low cost solution for a nonprofit alongside the most vulnerable of populations.
+Today the digital kiosk is used by six shelters, serving over 500 users daily. We designed a scalable, low cost solution for a nonprofit alongside the most vulnerable of populations.
 
 ## Reflection
 To date, this remains one of my favorite projects. We started by wanting to serve the people experiencing homelessness, but ended up designing a solution that addressed the needs of staff, program directors, and clients. Staff no longer have to print paper binders, upload them, and shred the papers each day. Staff can better keep track and care for their clients. Program directors have live metrics on their interim housing sites. Most of all, clients no longer have bed checks which would wake them up, give them nightmares, and trigger past trauma. Clients now have more privacy with checking into the housing sites. What started as a solution for one shelter, expanded into a solution for multiple shelters of different types (family, couples, and singles).
