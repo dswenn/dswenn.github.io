@@ -47,11 +47,17 @@ What if we kept better track of clients at the front entrance?
 
 ![table]({{ site.url }}/assets/img/homelessness/home15.jpg)
 
+We piloted the digital kiosk at four sites for over a week.
+
 ![table]({{ site.url }}/assets/img/homelessness/home7.jpg)
+
+We collected and compiled the results.
 
 ![table]({{ site.url }}/assets/img/homelessness/home8.jpg)
 
 ![table]({{ site.url }}/assets/img/homelessness/home14.jpg)
+
+We were most surprised to hear that clients preferred the kiosk because it gave them privacy. With the old paper binder, other clients could flip through to see who is checked in or not - invading the privacy of other clients. With the kiosk, this data can't be viewed. Another surprising finding was how useful staff found the digital dashboard. The dashboard let staff check in on high risk clients when they are gone too long to make sure they are safe. Case managers even commented that her clients started to ask for chromebooks - their familiarity with using the kiosk is now enabling previously digitally averse clients to use chromebooks to start looking for jobs.
 
 ### Solution 2: The Button
 What if we made a button that clients could press to notify staff that they were present in their room?
@@ -69,7 +75,7 @@ What if we made a button that clients could press to notify staff that they were
 Clients loved the button. I coded the buttons using ESP8266 microcontrollers and connected each button to Amazon Web Services. One client didn't want to give the button back after the pilot was over and another client who was losing his vision said he would feel a little lost without it.
 
 ## Scaling & Implementation
-Although clients loved the button and it was a novel idea at a shelter, the decision to choose which one was not up to us.
+Although clients loved the button and it was a novel joyous idea at the shelter, the decision to choose which one was not up to us.
 
 We presented both the kiosk and the button results to the leadership team at LifeMoves and collectively decided on the digital kiosk. We spent the next few weeks coding a robust kiosk interface, trained and installed digital kiosks at five shelters, and transferred ownership to the organization.
 
