@@ -33,31 +33,8 @@ A retro inspired Soviet era Nixie Tube Clock. I'm currently working on a new ite
 ![table]({{ site.url }}/assets/img/design/nixie/nixie5.png)
 
 ## CAD Work
-A slim, portable coffee canister.
-![table]({{ site.url }}/assets/img/design/CAD/canister1.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/canister2.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/canister3.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/canister4.JPG)
-
-Exploring different ways to mount a GoPro Hero 8.
-![table]({{ site.url }}/assets/img/design/CAD/gopro1.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/gopro2.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/gopro3.jpg)
-
-Japanese inspired coffee cup.
-![table]({{ site.url }}/assets/img/design/CAD/kinto1.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/kinto2.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/kinto3.jpg)
-
-A manual grasper for arthroscopic surgery.
-![table]({{ site.url }}/assets/img/design/CAD/medical1.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/medical2.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/medical3.jpg)
-
-Injection molded electric scooter for kids, design inspiration drawn from Radio Flyer.
-![table]({{ site.url }}/assets/img/design/CAD/scooter1.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/scooter2.jpg)
-![table]({{ site.url }}/assets/img/design/CAD/scooter3.jpg)
+A slideshow showing some CAD design work I've done. Work includes portable coffee canister, GoPro mounts, Japanese inspired coffee cup, manual grasper for arthroscopic surgery, and an injection molded electric scooter for kids.
+![table]({{ site.url }}/assets/img/design/CAD/cad.gif)
 
 ## Focus Beam
 A bright task light with an adjustable area of illumination on work surfaces.
