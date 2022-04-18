@@ -83,7 +83,7 @@ Although clients loved the button and it was a novel joyous idea at the shelter,
 Today the digital kiosk is used by six shelters, serving over 500 users daily. We designed a scalable, low cost solution for a nonprofit alongside the most vulnerable of populations.
 
 ## Reflection
-To date, this remains one of my favorite projects. We started by wanting to serve the people experiencing homelessness, but ended up designing a solution that addressed the needs of staff, program directors, and clients. Staff no longer have to print paper binders, upload them, and shred the papers each day. Staff can better keep track and care for their clients. Program directors have live metrics on their interim housing sites. Most of all, clients no longer have bed checks which would wake them up, give them nightmares, and trigger past trauma. Clients now have more privacy with checking into the housing sites. What started as a solution for one shelter, expanded into a solution for multiple shelters of different types (family, couples, and singles).
+To date, this remains one of my favorite projects. We started by wanting to serve people experiencing homelessness, but ended up designing a solution that addressed the needs of staff, program directors, and clients. Staff no longer have to print paper binders, upload them, and shred the papers each day. Staff can better keep track and care for their clients. Program directors have live metrics on their interim housing sites. Most of all, clients no longer have bed checks which would wake them up, give them nightmares, and trigger past trauma. Clients now have more privacy with checking into the housing sites. What started as a solution for one shelter, expanded into a solution for multiple shelters of different types (family, couples, and singles).
 
 ## Team
 This project started with me, Eleanor Glockner, Casey Prohaska, & Kate Slunkova. Over the summer, Eleanor and I acted a co-leads, brought on Malaika Koshy and Alyssa Li to then drive the project towards completion.
@@ -91,6 +91,6 @@ This project started with me, Eleanor Glockner, Casey Prohaska, & Kate Slunkova.
 ![table]({{ site.url }}/assets/img/homelessness/home16.jpg)
 
 ## Gratitude
-This project would not be possible with the generous support and funding by Stanford's Design for Extreme Affordability. In addition, we thank our mentors for their critique and guidance: David Kelley, Bill Burnett, Stuart Coulson, Manasa Yeturu, Nell Garcia, George Toye, Rosanne Foust, Michelle Jia, Michael Barry, & Julie Stanford.
+This project would not be possible without the generous support and funding by Stanford's Design for Extreme Affordability. In addition, we thank our mentors for their critique and guidance: David Kelley, Bill Burnett, Stuart Coulson, Manasa Yeturu, Nell Garcia, George Toye, Rosanne Foust, Michelle Jia, Michael Barry, & Julie Stanford.
 
 ![table]({{ site.url }}/assets/img/homelessness/slideshow.gif)
