@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "I'm Here"
+date:   2022-06-23 00:09:50 -0700
+category: journal
+---
+
+I’m here. A dream 8 years in the making. This summer, I will be in Nairobi working at one of my dream companies, KickStart International. Dream might not be the best word. Working here was almost unimaginable for me. KickStart was one of those companies I looked up to. Their story and success made me believe it is possible to have a career in social impact and still make money.
+The past eight years, I’ve been chasing that vision that one day I too could make an impact on the lives of people and make a career out of that. Re-reading some of my old journal entries makes me smile. I ended up exactly where I wanted to end up.
+
+When I was attending grad school during COVID last year, I had moments of doubt. Travel was put on hold. My life leading up to graduate school was colored with travels to foreign countries where I would work for months at a time. I’ve been at Stanford for the past two years, practicing and learning in the ways I could. I based my Master’s thesis on human dignity, I got to learn from David Kelley of IDEO himself, and work at the Product Realization Lab. My life centers around this fabled courtyard where the Design Loft meets the Product Realization Lab.
+
+When I applied to the Product Realization Lab, my thinking was that I wanted to get better at making. After my time in India, I thought perhaps I wouldn’t do anymore engineering or making. My time in India and even my Master’s degree taught me that the harder part is figuring out what to design and how to lead and manage design teams to execute that vision. People in senior positions spend most of their time in managerial roles, creating culture, and selling and executing the business model.  But a part of me still wanted to fulfill that curiosity deep within me, that dream I told myself so many years ago – to engineer products that can improve livelihood. It seems like we never entirely escape those inklings within us.
+
+Luck had it that I got the Product Realization Lab role as a teaching assistant. Luck also had it that Martin Fisher, the CEO of KickStart International, went to graduate school with my boss at the PRL. Luck also has it that there have been two teaching assistants in the past 30 years that have also gone on and made successful social enterprises with engineering. Peter Fryckman created DripTech, a low cost drip irrigation system to improve farmer income and livelihood. Krista Donaldson founded D-Rev, now Equalize Health, a social enterprise that designs high quality, low cost medical devices for the developing world. Craig Milroy, my boss at the PRL, introduced me to all three. I have yet to talk to Krista, but my conversations with Peter and Martin have been eye-opening and world-expanding.
+
+This summer at KickStart International, I will be doing engineering and early stage product development. It will be a perfect blend of aapplying the human centered design I’ve been practicing at the d. School these past two years, the business acumen I’ve been building from the Graduate School of Business, and the engineering and design practice from the PRL.
+
+I’m so excited to continue growing and getting closer to my dreams. I'm really **here**.
