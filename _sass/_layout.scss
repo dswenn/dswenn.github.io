@@ -372,7 +372,7 @@ body {
 /* The dropdown container */
 .dropdown {
   position: relative;
-  float: left;
+  display: inline-block;
 }
 
 /* Dropdown button */
@@ -407,13 +407,14 @@ body {
   font-family: $serif-fonts;
   text-align: center;
   font-size: 0.8rem;
-  display: inline-block;
+  display: block;
 }
 
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: inline-block;
+  position: relative;
 }
 
 .show {display:inline-block;}
