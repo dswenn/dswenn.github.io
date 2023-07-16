@@ -415,6 +415,7 @@ body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: inline-block;
+  position: absolute;
 }
 
 .show {display:inline-block;}
