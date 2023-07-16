@@ -392,11 +392,12 @@ body {
 /* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
-  position: relative;
+  position: absolute;
   top: 100%;
   left: 0;
   min-width: 130px;
   z-index: 1;
+  white-space: nowrap;
 }
 
 /* Links inside the dropdown */
@@ -413,8 +414,7 @@ body {
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-  display: inline-block;
-  position: relative;
+  display: block;
 }
 
 .show {display:inline-block;}
