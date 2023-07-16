@@ -371,7 +371,8 @@ body {
 
 /* The dropdown container */
 .dropdown {
-  float: left;
+  position: relative;
+  display: inline-block;
 }
 
 /* Dropdown button */
@@ -383,14 +384,14 @@ body {
   color: $green;
   padding: 0px 17px 0px 0px;
   background-color: inherit;
-  font-family: $serif-fonts; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
+  font-family: $serif-fonts;
+  margin: 0;
   cursor: pointer;
 }
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
-  display: none;
+  visibility: hidden;
   position: absolute;
   top: 100%;
   left: 0;
@@ -410,11 +411,9 @@ body {
   display: inline-block;
 }
 
-
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-  display: inline-block;
-  position: relative;
+  visibility: visible;
 }
 
 .show {display:inline-block;}
