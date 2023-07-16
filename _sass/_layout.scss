@@ -416,6 +416,17 @@ body {
   visibility: visible;
 }
 
+/* Change dropdown layout for mobile */
+@media screen and (max-width: 600px) {
+  .dropdown-content {
+    min-width: 100%;
+    white-space: normal;
+  }
+  .dropdown-content a {
+    display: block;
+  }
+}
+
 .show {display:inline-block;}
 
 /* Show the dropdown menu on hover */
