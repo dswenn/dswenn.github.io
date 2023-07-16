@@ -416,16 +416,6 @@ body {
   visibility: visible;
 }
 
-/* Change dropdown layout for mobile */
-@media screen and (max-width: 480px) {
-  .dropdown-content {
-    position: static;
-    white-space: normal;
-  }
-  .dropdown-content a {
-    display: block;
-  }
-}
 
 .show {display:inline-block;}
 
