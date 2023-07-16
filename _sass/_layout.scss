@@ -35,9 +35,9 @@ body {
 }
 
 .header__nav__item {
-  display: -webkit-flex; 
-  -webkit-flex-wrap: wrap; 
-  display: flex;   
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  display: flex;
   flex-wrap: wrap;
   text-decoration: none;
   font-size: 1rem;
@@ -336,7 +336,7 @@ body {
       margin-bottom: inherit;
       padding: 0 1.0rem;
     }
-  }   
+  }
 }
 
 
@@ -347,7 +347,7 @@ body {
 @media (max-width: 40rem) {
   .row .column.column-33, .row .column.column-34 {
     flex: 0 0 100%;
-    max-width: 100%; } 
+    max-width: 100%; }
 
     // .container is main centered wrapper with a max width of 112.0rem (1120px) here is also where you change size
 .container {
@@ -357,7 +357,7 @@ body {
   position: relative;
   width: 100%;
 }}
-  
+
 
 
  img {
@@ -376,7 +376,7 @@ body {
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 1rem; 
+  font-size: 1rem;
   border: none;
   outline: none;
   text-decoration: none;
@@ -392,6 +392,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
+  top: 100%;
   min-width: 130px;
   z-index: 1;
 }
