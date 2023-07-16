@@ -371,6 +371,7 @@ body {
 
 /* The dropdown container */
 .dropdown {
+  position: relative;
   float: left;
 }
 
@@ -391,7 +392,7 @@ body {
 /* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: relative;
   top: 100%;
   left: 0;
   min-width: 130px;
