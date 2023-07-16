@@ -371,7 +371,6 @@ body {
 
 /* The dropdown container */
 .dropdown {
-  position: relative;
   float: left;
 }
 
@@ -414,6 +413,7 @@ body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: inline-block;
+  position: relative;
 }
 
 .show {display:inline-block;}
