@@ -43,6 +43,8 @@ A bright task light with an adjustable area of illumination on work surfaces.
 ![table]({{ site.url }}/assets/img/design/focus/focus1.png)
 ![table]({{ site.url }}/assets/img/design/focus/focus2.png)
 
+## Sculptures
+
 ## The Cube
 What if we made a giant cube? With 12 planks of wood, two friends and I set out to make a giant 7’ x 7’ cube. A spur of the moment activity, play for play’s sake. It has now become an interactive, iterative, co-creative icon of the Loft community.
 ![table]({{ site.url }}/assets/img/design/cube/cube1.png)
