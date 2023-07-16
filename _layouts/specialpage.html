@@ -14,6 +14,12 @@ var randnum = Math.random();
 var inum = 12;
 var rand1 = Math.round(randnum * (inum-1)) + 1;
 images = new Array;
+// images[1] = '0l1xj10dlta28jb/1.JPG';
+// images[2] = 'et5vtae6a9o13p2/2.JPG?dl=0';
+// images[3] = '15cjyvg2vc4z2dw/3.JPG?dl=0';
+// images[4] = 'tv3soy2qker7gzr/4.JPG?dl=0';
+// images[5] = '3l5qgrxuo65rlgr/monkey.jpg?dl=0';
+
 images[1] = '1.JPG';
 images[2] = '2.JPG';
 images[3] = '3.png';
@@ -28,73 +34,85 @@ images[11] = '11.jpg';
 images[12] = '12.jpeg';
 
 var image = 'https://www.dswenn.com/assets/img/loadingpage/' + images[rand1];
+
+//for phones
+//if ((screen.width < 480) || (screen.height < 480)) {
+//    image += '_vert';
+//}
+
 </script>
+
+
+
 
 <style>
   body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    height: 100vh;
-    overflow-y: hidden;
-    margin: 0;
-    padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+height: 100vh;
+overflow-y: hidden;
+margin: 0;
+padding: 0;
 }
 
 div.container {
-    background: rgba(234, 234, 234, 0.7);
-    padding: 15px;
-    border-radius: 15px;
-    font-family: 'Ovo', serif;
+background: rgba(234, 234, 234, 0.7);
+padding: 15px;
+border-radius: 15px;
+font-family: 'Ovo', serif;
 }
 
 @media only screen and (max-device-width: 480px) {
-    div.name { font-size: x-large;}
-    div.container {
-        background: rgba(234, 234, 234, 0.6);
-        width:80%;
-        padding: 10px;
-        border-radius: 15px;
-    }
+div.name { font-size: x-large;}
+div.container {
+  background: rgba(234, 234, 234, 0.6);
+  width:80%;
+  padding: 10px;
+  border-radius: 15px;
+}
 }
 
 @media only screen and (min-device-width: 481px) {
-    div.container {
-        width: 40%;
-    }
+div.container {
+  width: 40%;
 }
+}
+    
 </style>
 
 </head>
 
 <body>
+<div class = "container">
 <script language="JavaScript">
-document.write('<body background="' + image + '" text="#383838">')
+document.write('<body background="' + image + '" text=" #383838">')
 </script>
 
-<div class="container">
-<div class="name">DONALD SWEN</div>
-
 <div class="content">
-<ul class="list">
-<li><a href="\\library">READING LIBRARY</a></li>
-<li><a href="\\projects">CURRENT PROJECTS</a></li>
-<li><a href="\\journal">JOURNAL</a></li>
+<div class = "name">DONALD SWEN</div>
+<ul class = "list">
+<li><a href="\library">READING LIBRARY</a></li></a>
+<li><a href="\projects">CURRENT PROJECTS</a></li></a>
+<li><a href="\journal">JOURNAL</a></li></a>
 </ul>
 
 <ul class="list links">
 <li>PLACES I'VE LIVED IN</li>
-<li><a href="\\india">India</a></li>
-<li><a href="\\morocco">Morocco</a></li>
-<li><a href="http://dswenn.wordpress.com" target="_BLANK">Austria</a></li>
-<li><a href="http://nakatani-ries.rice.edu/student-profiles/2016-2/2016-u-s-fellows/2016-donald-swen/" target="_BLANK">Japan</a></li>
+<li><a href="\india">India</a></li></a>
+<li><a href="\morocco">Morocco</a></li></a>
+<li><a href="http://dswenn.wordpress.com" target="_BLANK">Austria</a></li></a>
+<li><a href="http://nakatani-ries.rice.edu/student-profiles/2016-2/2016-u-s-fellows/2016-donald-swen/" target="_BLANK">Japan</a></li></a>
 </ul>
+
 </div>
+
 </div>
+
 </body>
 </html>
