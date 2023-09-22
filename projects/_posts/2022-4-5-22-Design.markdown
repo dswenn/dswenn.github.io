@@ -8,7 +8,7 @@ preview: /assets/img/design/cube.JPG
 
 Design Student @ Stanford University | 2021-2023
 
-I was a teaching assistant for the Product Realization Lab at Stanford University, where I helped hundreds of students each year realize their ideas. I also design physical and electronic products. This is a short sample of the types of products I've worked on.
+I was a teaching assistant for the Product Realization Lab at Stanford University, where I helped hundreds of students each year realize their ideas. I also design physical and electronic products. My design approach is ever evolving - this is a short sample of the types of products I've worked on.
 
 ## The Stack
 A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my interest in house music.
