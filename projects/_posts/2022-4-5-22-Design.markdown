@@ -6,9 +6,9 @@ category: projects
 preview: /assets/img/design/cube.JPG
 ---
 
-Design Student @ Stanford University | 2022
+Design Student @ Stanford University | 2021-2023
 
-I'm a teaching assistant for the Product Realization Lab at Stanford University, where I help hundreds of students each year realize their ideas. I also design physical and electronic products. This is a short sample of the types of products I've worked on.
+I was a teaching assistant for the Product Realization Lab at Stanford University, where I helped hundreds of students each year realize their ideas. I also design physical and electronic products. This is a short sample of the types of products I've worked on.
 
 ## The Stack
 A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my interest in house music.
@@ -25,7 +25,7 @@ A polyrhythmic beat machine. Create beats with a turn of a dial. Inspired by my 
 ![table]({{ site.url }}/assets/img/design/stack/stack9.jpeg)
 
 ## The Retro Nixie
-A retro inspired Soviet era Nixie Tube Clock. I'm currently working on a new iteration (includes a custom PCB) with my friend Rony Ballouz.
+A retro inspired Soviet era Nixie Tube Clock. I'm currently working on a new iteration (includes a custom PCB) with my friend [Rony Ballouz](https://rballouz.me/).
 ![table]({{ site.url }}/assets/img/design/nixie/nixie1.jpg)
 ![table]({{ site.url }}/assets/img/design/nixie/nixie2.png)
 ![table]({{ site.url }}/assets/img/design/nixie/nixie3.png)
@@ -46,6 +46,14 @@ A bright task light with an adjustable area of illumination on work surfaces.
 ## Sculptures
 
 ## The Cube
-What if we made a giant cube? With 12 planks of wood, two friends and I set out to make a giant 7’ x 7’ cube. A spur of the moment activity, play for play’s sake. It has now become an interactive, iterative, co-creative icon of the Loft community.
+What if we made a giant cube? With 12 planks of wood, two friends ([Harrison](https://harrisonlin.com/) and [Eli](https://elidavis11.wixsite.com/elidavisdesignold)) and I set out to make a giant 7’ x 7’ cube. A spur of the moment activity, play for play’s sake. It has now become an interactive, iterative, co-creative icon of the Loft community.
 ![table]({{ site.url }}/assets/img/design/cube/cube1.png)
 ![table]({{ site.url }}/assets/img/design/cube/cube2.jpg)
+
+## Between
+I love working with wood. _Between_ is a light sculpture made of local Californian redwood. Often lamps have a diffuser, allowing light to radiate outwards evenly. What if the empty space in-between was emphasized? The concept came after some journeys in steambending wood. Early concept was done in collaboration with [Katie Han](https://katie-han.com/).
+
+![table]({{ site.url }}/assets/img/design/wood/blur.JPG)
+![table]({{ site.url }}/assets/img/design/wood/katie.JPG)
+![table]({{ site.url }}/assets/img/design/wood/close.JPG)
+![table]({{ site.url }}/assets/img/design/wood/crop.JPG)
